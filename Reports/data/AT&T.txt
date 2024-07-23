@@ -1,0 +1,2723 @@
+C0.1
+(C0.1) Give a general description and introduction to your organization.
+AT&T’s purpose is to connect people to greater possibility with simplicity, expertise and inspiration. This included tens of millions of direct-to-consumer relationships across wireless and broadband businesses in the United States and wireless in Mexico. In FY2022, AT&T Inc. was comprised of two reportable segments: (1) Communications, providing mobile, broadband and other communications services to U.S.-based consumers. We served nearly 2.5 million companies worldwide – from the smallest businesses to nearly all the Fortune 1000 – with highly secure, smart solutions. (2) Latin America, providing mobile services to consumers and businesses in Mexico. In April 2022, we completed our transaction to combine our WarnerMedia segment, subject to certain exceptions, with a subsidiary of Discovery Inc. In June 2022, we completed our agreement with Microsoft to sell the programmatic advertising marketplace component of Xandr Inc.  
+
+
+
+Climate change poses a direct risk to communities around the planet, as rising greenhouse gas (GHG) emissions result in higher global temperatures and contribute to more extreme heat, droughts, storm systems and rising sea levels. Addressing climate change through mitigation and adaptation will not just manage climate-related risks but will also provide an opportunity to build a more sustainable global economy. AT&T is part of the worldwide effort to accelerate this transition and achieve net zero GHG emissions. In 2020, we committed to reaching carbon neutrality by 2035 across our entire global operations (Scope 1 and 2). In 2021, we set interim targets that were approved by the Science-Based Targets initiative (SBTi). We are scaling our efforts by also implementing emissions-reducing solutions for customers and communities and have a goal to deliver connectivity solutions that enable business customers to reduce a gigaton (1 billion metric tons) of GHG emissions between 2018 and 2035. To strengthen the resilience of our communities and company against the impacts of climate change, we are also assessing and managing our climate-related risks and empowering others to do the same.
+
+
+
+Information set forth in this report contains financial estimates and other forward-looking statements that are subject to risks and uncertainties, and actual results might differ materially. A discussion of factors that may affect future results is contained in AT&T’s filings with the U.S. Securities and Exchange Commission. AT&T disclaims any obligation to update and revise statements contained in this report based on new information, or otherwise. 
+
+C0.2
+(C0.2) State the start and end date of the year for which you are reporting data and indicate whether you will be providing emissions data for past reporting years.
+Reporting year
+Start date
+January 1 2022
+End date
+December 31 2022
+Indicate if you are providing emissions data for past reporting years
+Yes
+Select the number of past reporting years you will be providing Scope 1 emissions data for
+Not providing past emissions data for Scope 1
+Select the number of past reporting years you will be providing Scope 2 emissions data for
+Not providing past emissions data for Scope 2
+Select the number of past reporting years you will be providing Scope 3 emissions data for
+5 years
+C0.3
+(C0.3) Select the countries/areas in which you operate.
+Argentina
+Australia
+Austria
+Belgium
+Brazil
+Bulgaria
+Canada
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cyprus
+Czechia
+Denmark
+Ecuador
+El Salvador
+Finland
+France
+Germany
+Greece
+Guatemala
+Hong Kong SAR, China
+Hungary
+India
+Indonesia
+Ireland
+Israel
+Italy
+Japan
+Luxembourg
+Malaysia
+Mexico
+Morocco
+Netherlands
+New Zealand
+Norway
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Portugal
+Republic of Korea
+Romania
+Russian Federation
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Sweden
+Switzerland
+Taiwan, China
+Thailand
+Turkey
+United Arab Emirates
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Venezuela (Bolivarian Republic of)
+Viet Nam
+C0.4
+(C0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+C0.5
+(C0.5) Select the option that describes the reporting boundary for which climate-related impacts on your business are being reported. Note that this option should align with your chosen approach for consolidating your GHG inventory.
+Operational control
+C0.8
+(C0.8) Does your organization have an ISIN code or another unique identifier (e.g., Ticker, CUSIP, etc.)?
+Indicate whether you are able to provide a unique identifier for your organization	Provide your unique identifier
+Yes, an ISIN code
+US00206R1023
+C1. Governance
+C1.1
+(C1.1) Is there board-level oversight of climate-related issues within your organization?
+Yes
+C1.1a
+(C1.1a) Identify the position(s) (do not include any names) of the individual(s) on the board with responsibility for climate-related issues.
+Position of individual or committee	Responsibilities for climate-related issues
+Board-level committee
+The Public Policy and Corporate Reputation Committee (PPCR) was combined with the Corporate Governance and Nominating Committee in April 2022, to the Governance and Policy Committee (GPC) of the AT&T Board of Directors. The GPC has the highest level of direct responsibility for climate change-related activities within AT&T. The GPC consists of four independent Directors, including a chairperson, and meets four times/year. The GPC is briefed by the Chief Sustainability Officer (CSO), SVP Corporate Responsibility and ESG regularly on climate-related issues as they relate to AT&T’s overall strategy. The GPC provides input/guidance in the development of our climate-related strategy and transition plan, as well as our programmatic and managerial approach to environmental and climate-related issues. Our CSO is present at all GPC meetings to discuss ESG and/or climate-related issues and may also meet intermittently with individual members of the GPC to discuss ESG or climate-related topics of interest to the individual committee member.
+
+The GPC’s charter outlines the Committee’s responsibilities related to public policy and specifically cites its authority over corporate policies and practices in furtherance of our CSR activities, including environmental policies. Programmatic operations for climate change-related activities fall under CSR at AT&T, therefore the GPC is ultimately responsible for our climate change strategy.
+C1.1b
+(C1.1b) Provide further details on the board’s oversight of climate-related issues.
+Frequency with which climate-related issues are a scheduled agenda item	Governance mechanisms into which climate-related issues are integrated	Scope of board-level oversight	Please explain
+Scheduled – some meetings
+Overseeing and guiding employee incentives
+Reviewing and guiding strategy
+Monitoring the implementation of a transition plan
+Overseeing the setting of corporate targets
+<Not Applicable>
+The GPC has the highest level of direct responsibility for climate change within our organization. In 2022, the number of regularly scheduled committee meetings was increased from three (which was the practice for the PPCR) to four per year. The Chief Sustainability Officer (CSO), SVP Corporate Responsibility and ESG, briefs the GPC on our climate-related strategies and goals. Our CSO may also meet intermittently with individual members of the GPC, to discuss specific sustainability topics of interest to the individual committee member. The GPC reviews the entirety of AT&T’s climate-related strategy, including all public targets (such as those governing supply chain, energy intensity, water intensity, fleet, etc.). The GPC also provides input into our strategy related to energy policy, such as investing in renewable and alternative energy purchases. As climate-related issues arise, they are reviewed in regular fashion, much the same way other topics are reviewed and discussed at the Board level.
+
+The Human Resources Committee oversees the compensation and benefits program for our executive officers on behalf of the Board of Directors, which includes establishing the strategic measures of our short-term incentive awards. As described in C1.3a, the strategic measures include ESG-related metrics. With respect to employees below the executive officer level, the executive officers establish the particular strategic measures applicable to their respective organizations, including ESG-related metrics, to be consistent with the strategic measures established by the Human Resources Committee.
+C1.1d
+(C1.1d) Does your organization have at least one board member with competence on climate-related issues?
+Board member(s) have competence on climate-related issues	Criteria used to assess competence of board member(s) on climate-related issues	Primary reason for no board-level competence on climate-related issues	Explain why your organization does not have at least one board member with competence on climate-related issues and any plans to address board-level competence in the future
+Row 1	
+Yes
+Several AT&T Board members demonstrate working knowledge, experience and competence regarding climate-related issues. One of our directors has experience serving as a board member of the World Wildlife Fund (WWF), an organization committed to conserving natural resources and advocating toward sustainability and climate resiliency. Two of our directors have experience as CEOs of companies with numerous public climate-related targets and initiatives.
+<Not Applicable>
+<Not Applicable>
+C1.2
+(C1.2) Provide the highest management-level position(s) or committee(s) with responsibility for climate-related issues.
+Position or committee
+Chief Sustainability Officer (CSO)
+Climate-related responsibilities of this position
+Providing climate-related employee incentives
+Developing a climate transition plan
+Implementing a climate transition plan
+Integrating climate-related issues into the strategy
+Conducting climate-related scenario analysis
+Setting climate-related corporate targets
+Monitoring progress against climate-related corporate targets
+Assessing climate-related risks and opportunities
+Managing climate-related risks and opportunities
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+Reports to the board directly
+Frequency of reporting to the board on climate-related issues via this reporting line
+Half-yearly
+Please explain
+AT&T’s SVP of Corporate Social Responsibility (CSR) and ESG, who is also our Chief Sustainability Officer (CSO), is deeply involved in major climate-related strategy decisions. This includes agreements to invest in renewable energy, the continued enhancements our Climate Change Analysis Tool (CCAT), and the launch of our Climate Risk and Resilience Portal (ClimRR). For example, in 2022 our CSO collaborated with our VP – Implementation, Provisioning, & Optimization to approve the expansion of our commitment to sourcing renewable energy – supporting the production of nearly 2.8 billion kwh of renewable energy. The CSO briefs the Governance and Policy Committee (GPC) of the AT&T Board of Directors, which has the highest level of direct responsibility for climate change within our organization. In 2022, three regularly scheduled GPC meetings included environmental topics such as, but not limited to, business-affecting climate transition, ESG reporting and supply chain responsibility. Our CSO may also meet intermittently with individual members of the GPC, to discuss specific sustainability topics of interest to the individual committee member.
+C1.3
+(C1.3) Do you provide incentives for the management of climate-related issues, including the attainment of targets?
+Provide incentives for the management of climate-related issues	Comment
+Row 1	
+Yes
+C1.3a
+(C1.3a) Provide further details on the incentives provided for the management of climate-related issues (do not include the names of individuals).
+Entitled to incentive
+Chief Sustainability Officer (CSO)
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Salary increase
+Performance indicator(s)
+Board approval of climate transition plan
+Achievement of climate transition plan KPI
+Progress towards a climate-related target
+Achievement of a climate-related target
+Implementation of an emissions reduction initiative
+Reduction in absolute emissions
+Energy efficiency improvement
+Increased share of low-carbon energy in total energy consumption
+Increased share of renewable energy in total energy consumption
+Reduction in total energy consumption
+Increased engagement with suppliers on climate-related issues
+Increased engagement with customers on climate-related issues
+Company performance against a climate-related sustainability index (e.g., DJSI, CDP Climate Change score etc.)
+Implementation of employee awareness campaign or training program on climate-related issues
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Demonstrated progress toward and achievement of the stated goals related to climate-related issues (such as our programs for renewable energy, our approved science-based carbon reduction target and our 2035 carbon neutral goal) are part of the annual performance objectives for our Chief Sustainability Officer (CSO). Performance toward those goals is taken into account when the CSO’s supervisor determines merit salary increases and bonus awards. For example, if demonstrated progress toward our public renewable energy commitments, our approved science-based carbon reduction target or our 2035 carbon neutral goal are not achieved, such negative performance would be taken into account during performance evaluations and salary/bonus determinations for the CSO.
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+AT&T’s climate strategy and transition plan focuses on three areas: (1) Mitigating Impacts (2) Seizing opportunities and (3) Managing climate-related risks. As part of our effort to support the transition to a net-zero economy, AT&T has committed to be carbon neutral across our entire global operations by 2035. We will achieve this by eliminating Scope 1 and 2 emissions through improved energy efficiency efforts, moving to a low-emissions fleet, scaling renewable energy capacity and technology transition away from traditional fossil fuel-based energy production.
+Entitled to incentive
+Energy manager
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Salary increase
+Performance indicator(s)
+Achievement of climate transition plan KPI
+Progress towards a climate-related target
+Achievement of a climate-related target
+Implementation of an emissions reduction initiative
+Energy efficiency improvement
+Increased share of low-carbon energy in total energy consumption
+Increased share of renewable energy in total energy consumption
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Our VP of Implementation, Provisioning & Optimization (who has responsibility for our energy management team) has financial energy-savings targets which support our sustainability efforts. Performance towards these targets is taken into account when determining the VP’s annual merit salary increases and bonus awards. Business unit managers within the Implementation, Provisioning & Optimization organization also use the annual performance appraisal process to highlight and reward superior performance on climate-related programs. In addition to monetary awards, we provide incentives in the form of recognition. We have several employee recognition programs that are used by business unit managers to acknowledge outstanding performance with respect to the energy impacting programs.
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+Most of AT&T’s in-scope emissions are associated with our Scope 2 emissions from purchased electricity. And most of our purchased electricity goes toward powering our network. With purchased electricity representing our greatest opportunity for emissions savings, we have multi-year transition plans in place to 1) reduce electricity consumption wherever possible and 2) accelerate our efforts around energy efficiency. For the remaining energy, we will continue to purchase renewable energy to cover associated emissions.
+Entitled to incentive
+Environment/Sustainability manager
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Salary increase
+Performance indicator(s)
+Board approval of climate transition plan
+Achievement of climate transition plan KPI
+Progress towards a climate-related target
+Achievement of a climate-related target
+Implementation of an emissions reduction initiative
+Reduction in absolute emissions
+Increased engagement with customers on climate-related issues
+Implementation of employee awareness campaign or training program on climate-related issues
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Business unit managers within the CSR organization use the annual performance appraisal process to highlight and reward superior performance on climate-related programs. In addition to monetary awards, we provide incentives in the form of recognition. We have several employee recognition programs that are used by business unit managers to acknowledge outstanding performance with respect to the energy impacting programs.
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+AT&T’s climate strategy and transition plan focuses on three areas: (1) Mitigating Impacts (2) Seizing opportunities and (3) Managing climate-related risks. As part of our effort to support the transition to a net-zero economy, AT&T has committed to be carbon neutral across our entire global operations by 2035. We will achieve this by eliminating Scope 1 and 2 emissions through improved energy efficiency efforts, moving to a low-emissions fleet, scaling renewable energy capacity and technology transition away from traditional fossil fuel-based energy production.
+Entitled to incentive
+Other, please specify (Fleet Team)
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Salary increase
+Performance indicator(s)
+Achievement of climate transition plan KPI
+Progress towards a climate-related target
+Achievement of a climate-related target
+Implementation of an emissions reduction initiative
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+As part of their annual job performance review, members of the AT&T Fleet team are evaluated on their ability to drive reductions in GHG emissions. This is to incentivize progress toward the company’s carbon neutral goal, which takes into account fleet emissions.
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+In support of our carbon neutrality goal, AT&T has committed to continue to bring down emissions from our operational fleet. We will accomplish this by optimizing routes, switching to hybrid and electric vehicles, and reducing the overall size of the fleet. We also have a multi-year plan for the decarbonization of our fleet.
+Entitled to incentive
+Corporate executive team
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Performance indicator(s)
+Achievement of climate transition plan KPI
+Progress towards a climate-related target
+Achievement of a climate-related target
+Implementation of an emissions reduction initiative
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Per pages 46-48 of our 2023 Corporate Proxy, our CEO and other Named Executive Officers have short-term incentives focusing on strategic measures such as “advancing our ESG priorities, especially worker health and safety, global emissions reduction, and helping to narrow the digital divide.” 2022 attainment for culture and community was demonstrated through (1) “Climate Risk & Resiliency Portal, created in collaboration with FEMA and Argonne National Labs to provide free access to climate datasets to support planning for future climate risks.” (2) “Over 6,000 energy efficiency projects and increased usage of renewable energy production by 16% from 2.5 million megawatt-hours to 2.9 million megawatt-hours – and consistent with our over-arching ESG
+objectives, reduced emissions.”
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+AT&T’s climate strategy and transition plan focuses on three areas: (1) Mitigating Impacts (2) Seizing opportunities and (3) Managing climate-related risks. As part of our effort to support the transition to a net-zero economy, AT&T has committed to be carbon neutral across our entire global operations by 2035. We will achieve this by eliminating Scope 1 and 2 emissions through improved energy efficiency efforts, moving to a low-emissions fleet, scaling renewable energy capacity and technology transition away from traditional fossil fuel-based energy production.
+Entitled to incentive
+Other, please specify (Business Enterprise Sales Team)
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus – set figure
+Performance indicator(s)
+Increased share of revenue from low-carbon products or services in product or service portfolio
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+This goal will measure emissions reductions enabled by a set of Smart Climate Solutions from 2018—2035 and progress will be reported annually. Launched in April 2022, AT&T Business Enterprise sellers who sell a Smart Climate Solution will earn up to $5k for completing a customer driven emission reduction factor. Emission reduction factors are extremely important as we work towards achieving our public Gigaton goal. Between 2018 and 2022, AT&T identified 24 Smart Carbon Solutions for which we have calculated emissions reductions. Use of these solutions has enabled emissions reductions of 149.2 million metric tons of CO2e—approximately 15% of our Gigaton Goal.
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+Seizing opportunities is one of three main focus areas of AT&T’s climate strategy and transition plan. Universal connectivity — nationwide broadband, including 5G — can play a meaningful role in reducing emissions by scaling efficiencies and enabling low-carbon technologies. This presents a business opportunity that also benefits society. We have set a goal to deliver connectivity solutions that enable our business customers to reduce 1 gigaton (one billion metric tons) of greenhouse gas emissions by 2035.
+C2. Risks and opportunities
+C2.1
+(C2.1) Does your organization have a process for identifying, assessing, and responding to climate-related risks and opportunities?
+Yes
+C2.1a
+(C2.1a) How does your organization define short-, medium- and long-term time horizons?
+From (years)	To (years)	Comment
+Short-term	
+0
+2
+AT&T considers a short-term time horizon to be 2025 or before. These time horizons are specific to how AT&T looks at the impacts of climate change through periodic physical and transitional climate risk assessments.
+Medium-term	
+2
+10
+AT&T considers a medium-term time horizon to be between 2025 and 2030. These time horizons are specific to how AT&T looks at the impacts of climate change through periodic physical and transitional climate risk assessments.
+Long-term	
+10
+30
+AT&T considers a long-term time horizon to be between 2030 and 2050. These time horizons are specific to how AT&T looks at the impacts of climate change through periodic physical and transitional climate risk assessments and our Climate Change Analysis Tool (CCAT), which enables us to analyze the long-term physical impacts of climate change up to 30 years into the future.
+C2.1b
+(C2.1b) How does your organization define substantive financial or strategic impact on your business?
+AT&T’s corporate risks are continuously evaluated for impact based on factors such as reputation, financial, operation, and probability of occurrence. The level of risk related impact for each factor ranges from 1 (insignificant) to 5 (catastrophic). Any climate-related risk that has the potential to impact our network reliability or performance, or our ability to service customers, is considered a substantive financial and strategic risk. A quantifiable indicator of a substantive impact would be a measurable disruption to our network’s reliability that would in turn cause disruption to the customer since they depend on consistent coverage.  For CDP reporting, one metric we may consider substantive is the quantitative impact relative to 1% or more of Adjusted EBITDA.
+
+C2.2
+(C2.2) Describe your process(es) for identifying, assessing and responding to climate-related risks and opportunities.
+Value chain stage(s) covered
+Direct operations
+Upstream
+Downstream
+Risk management process
+Integrated into multi-disciplinary company-wide risk management process
+Frequency of assessment
+More than once a year
+Time horizon(s) covered
+Short-term
+Medium-term
+Long-term
+Description of process
+Description of process:
+In 2022, AT&T hired a third-party consultant to help facilitate and conduct a climate risk assessment and scenario analysis. This process engaged internal stakeholders across multiple business units to provide insight on past, present, and future climate-related risks and opportunities to the company. The working team included representatives from sustainability, enterprise risk management, network resiliency, finance, public policy, energy, legal, and strategy. Their collective insights and analysis of the company’s operations, strategy, and products/services served a key input to create a longlist of climate-related risks and opportunities likely to be relevant to AT&T’s business. Next, the third party employed quantitative and qualitative data collection methods to assess each risk or opportunity within a Climate Vulnerability framework, including metrics to rate each on their exposure, sensitivity, and adaptive capacity. Climate data provided by the IPCC was used to model the likely exposure of AT&T’s facilities and operations to physical risks, including precipitation, extreme heat, mean temperature rise, wind speeds, and drought. For transition risks and opportunities, exposure scores were developed by utilizing company data on emissions, energy usage, and market analysis, among others. The sensitivity and adaptive capacity scores were qualitatively determined through a survey of internal stakeholders across the business. The survey results were used to prioritize the top risks and opportunities likely to present the largest financial, strategic, and environmental impact to the company. These risks and opportunities were further analyzed along three time horizons identified by AT&T: short (present-2025); medium (2025-2030); long (2030-2050). The prioritized risks and opportunities were further analyzed in an interactive, tabletop workshop with the stakeholders to explore risk mitigation and resilience efforts. Some of the prioritized risks and opportunities were further quantified for their potential financial impact on the company. To calculate the financial impact of physical climate risks, AT&T used IPCC climate data along two climate scenarios out to 2100. AT&T included over 250k assets across our mobility, wireline, and retail portfolio as part of this analysis. These sites were selected to ensure global geospatial diversity. In the future, AT&T will look to use higher resolution climate data and enhanced internal data collection methods on disaster costs, to improve accuracy of financial risk quantification. Transitional risks and opportunities were calculated based on historical energy consumption patterns, future climate scenario projections (e.g., IEA), forecasts on U.S. state renewable energy portfolio requirements, and globally accredited research articles from professional organizations, thinktanks, NGOs, and academia.
+Management Response / Actions:
+We proactively monitor potential nature-related threats to our network, employees and communities through our AT&T Weather Operations Center. Our network team builds all cell sites to meet or exceed local structural standards—including those in disaster prone areas. We conduct rolling assessments throughout the year to evaluate the vulnerability of cell sites and priority central office locations to wind, ice storms & other environmental factors. We also deploy high-capacity battery backup to these sites, helping maintain service in the event of a power loss. To prepare for natural disasters, we regularly test on-site batteries & take steps to ensure fixed generators are fueled on a regular basis. We have invested more than $650 million in our Network Disaster Recovery (NDR) Program, which exists to rapidly restore communications to areas affected by disasters. Investments include capital expenditures such as building mobile satellite cells on light trucks, as well as operational expenditures such as field training exercises. We are committed to on-the-ground testing and have dedicated 160,000 working hours to full-scale NDR recovery exercises in the field, which test the preparedness of our equipment and abilities. To help us plan, build and maintain our network in the face of extreme weather and long-term climate change, in 2019 we developed our Climate Change Analysis Tool (CCAT). By analyzing the modeled climate data under the RCP 8.5 warming scenario and physical risk implications of the future climate, our industry-leading CCAT helps network engineers understand how inland and coastal flooding, drought, wind or wildfires may impact existing infrastructure or future network builds – up to 30 years into the future. In 2022, we continued to make the projections more actionable, and AT&T’s resilience team created a simplified risk score (1-10 scale) for key climate hazards. AT&T’s mobility planning tool integrates these risk scores so that when a designer considers location options for a new piece of mobility equipment, physical climate risks can be factored into the decision. This allows AT&T the opportunity to proactively build sites with lower risk and cost, reduce downtime due to disasters and harden our network for the future. The implementation of climate data into decision-making frameworks and workflows ultimately helps to create climate-resilient infrastructure and a climate-informed workforce. We’ve made our climate data available to the public, and in 2022, AT&T, the Federal Emergency Management Agency (FEMA) and the U.S. Department of Energy’s Argonne National Laboratory debuted the Climate Risk and Resilience Portal (ClimRR). The portal provides AT&T and Argonne’s high-resolution data about localized future climate risks in an accessible format to state, local, tribal and territorial emergency managers and other community leaders.
+Internal assessments:
+AT&T explores both mitigation and adaptation strategies when considering climate change risks. To help identify and assess climate-related risk to our operations, we use the AT&T CCAT on an ongoing basis. We’re incorporating climate data in our model to drive prioritization of work and investment to improve network resiliency. As an example, we have assets called Mobile Telephone Switching Offices (MTSOs), which contain many critical network elements. These are high-priority sites and are spread across the country. By integrating coastal storm surge and flood data from Argonne into our vulnerability modeling for these sites, we can make better decisions about which sites should be priority-one hardening investments. In hurricane-prone areas, like Southeastern U.S., we’re planning to make investments in new generators, rectifiers and batteries, maintain critical electrical equipment like HVACs, install flood gates and upgrade switchgear equipment. Also, once a location has been approved for enhancements, the construction and engineering teams can make more informed decisions about how to protect the site.
+C2.2a
+(C2.2a) Which risk types are considered in your organization's climate-related risk assessments?
+Relevance & inclusion	Please explain
+Current regulation	
+Relevant, always included
+AT&T is a global company. As such, we are subject to regulation at multiple layers including local, state, national, and international jurisdictions. As part of their regular duties, our internal public policy, legislative affairs and compliance teams monitor the regulations and legislation (including climate-related regulations) we are subject to – and our responses – to help ensure we adhere to all applicable laws and regulations. These teams report any changes or policies that may impact our company to the appropriate channels, including the Chief Sustainability Officer and applicable other officers. We are also subject to voluntary guidelines, such as energy efficiency requirements for our products, through engagement with groups such as the Voluntary Agreements on Energy Efficiency for Small Network Equipment. We work to comply with such voluntary guidelines, as well.
+Emerging regulation	
+Relevant, always included
+Some jurisdictions in which we operate have adopted cap-and-trade mechanisms to reduce carbon emissions. For example, California adopted such a system in 2017. The State of Washington has also taken significant steps toward adopting a cap-and-trade, contingent on transportation infrastructure funding. AT&T has substantial operations in both these states.
+To understand the impact to AT&T of this and other emerging or pending regulations and laws, our local and relevant jurisdictional public policy teams monitor public news channels and legislative media and conduct research into how proposed bills could impact our company. As the legislative landscape changes rapidly and at multiple levels, we include such risks in our regular risk assessments. Should risks rise to a level of significance such that we reasonably believe they would inhibit our ability to serve our customers, provide a reliable network or drive value for our shareholders, we would actively pursue solutions to mitigate the risks.
+In addition, carbon tax plans, such as those proposed by the Climate Leadership Council (CLC) and the Transportation and Climate Initiative (covering several eastern states and similar to the Regional Greenhouse Gas Initiative), would apply to AT&T should those programs become law. AT&T supports and is a founding member of the CLC. As such proposals continue to develop and move into legislative processes, we will monitor their potential effect on our business.
+Technology	
+Relevant, always included
+AT&T has chosen to invest in renewable energy, where appropriate. We continue to be one of the largest corporate purchasers of renewable energy in the United States.
+
+An example of a technology risk tied to our renewable strategy is the capacity of battery storage. When reviewing renewable energy investment opportunities, we closely evaluated available storage technologies to help ensure that the energy generated could be viably and reliably stored for future use. If innovations in battery storage technology do not keep pace with our demands, and we are not able to reliably and cost-effectively store renewable energy, we may need to continue to use fossil fuel-based energy. As we continue to evaluate future energy deals, consideration of technological developments such as battery storage capabilities may shape our decision-making.
+
+To hedge our technology risk, AT&T is working with RMI’s Third Derivative, a group that works with emerging technologies, providing direct feedback on business viability and improving odds of success from both the financial and business case perspectives.
+Legal	
+Not relevant, included
+Potential legal risks related to new and developing climate-related regulations are included in our risk assessments and deemed not relevant at this time. To date, we have not been the subject of climate-related litigation.
+Market	
+Relevant, always included
+Customer demand is a market risk included as part of our standard considerations when developing new product and service offerings. There is currently a market demand for technologies that enable carbon savings and help reduce business customers’ carbon footprints and climate impacts. We believe AT&T solutions can address this demand. As such, we invest in customer solutions that enable carbon reductions through our Smart Climate Solutions initiative.
+Should customer and market demand decrease and shift away from low-carbon or climate impact mitigating solutions, such action could negatively affect demand for our products and services. We would consider such facts as we plan for the development and roll-out of such offerings in the future.
+Reputation	
+Relevant, always included
+Customers increasingly expect companies to be good corporate stewards and act responsibly. AT&T strives to be a leader in climate action, and we believe that such leadership is beneficial for our reputation. On a monthly basis, AT&T surveys stakeholders to assess their perception of our corporate reputation and brand, including the emotional attachment of consumers who state they are familiar with our company’s operations. We measure interest in and awareness of specific AT&T corporate responsibility programs and emerging social issues, and sample impressions of programs in development. Our measurements confirm that awareness of AT&T corporate responsibility efforts (such as climate-related initiatives) improves company reputation – which in turn positively affects key business metrics such as willingness to buy or recommend, and willingness to give AT&T the benefit of the doubt in difficult times. If we did not act to build and communicate our corporate responsibility story—particularly as it relates to climate-related issues such as the management of GHG emissions and support for renewable energy—AT&T could be at a reputational disadvantage to other companies in the technology sector. We communicate our climate-related actions through various channels, including an annual sustainability report and website. We set public climate-related goals and communicate our progress toward those targets. For example, we set a goal to be carbon neutral (net zero scopes 1 & 2) by 2035. In addition, our AT&T Gigaton Goal to deliver connectivity solutions that enable business customers to reduce a gigaton (1 billion metric tons) of GHG emissions by 2035 shows our commitment to deliver services that help AT&T business customers avoid carbon emissions. We report progress against our Gigaton Goal annually. Between 2018 and 2022, AT&T identified 24 Smart Carbon Solutions for which we have calculated emissions reductions. Use of these solutions has enabled emissions reductions of 149.2 million metric tons of CO2e—approximately 15% of our Gigaton Goal.
+Acute physical	
+Relevant, always included
+Acute physical risks such as extreme weather events can cause damage to physical assets and potentially disrupt our network infrastructure and performance. Climate-related risks that have the potential to impact our network reliability are included in our risk assessments. Our Climate Change Analysis Tool helps us visualize potential physical risk and understand potential asset vulnerabilities at a neighborhood-level up to 30-years into the future, using data from Argonne National Lab.
+We conduct regular analysis to evaluate the vulnerability of cell sites and priority central office locations to wind, ice storms & other environmental factors. We deploy high-capacity battery backup to our cell sites, helping them remain in service in the event of a commercial power loss. To prepare our network for natural disasters, we regularly test these batteries and take steps to help ensure fixed generators are fueled on a regular basis. We also proactively monitor potential nature-related threats to our network, employees and communities through our Weather Operations Center. We have invested more than $650 million in our Network Disaster Recovery (NDR) Program, which exists to rapidly restore communications to areas affected by disasters. We are committed to on-the-ground testing and have dedicated 160,000 working hours to full-scale NDR recovery exercises in the field, which test the preparedness of our equipment and abilities. These drills help local and regional first responders understand the role and abilities of our NDR organization, and they maintain the readiness of our teams and equipment to respond at a moment’s notice to recover a failed network office or network element in disaster situations.
+Chronic physical	
+Relevant, always included
+Chronic physical risks, such as changes in mean temperatures, could increase our operating costs as AT&T requires water to cool many of our buildings / facilities. An increase in average temperatures could impact operating costs by requiring more water to operate water-cooled air conditioning units or to irrigate landscaping. Our Core Network Operations team monitors and tracks historic water usage and rates and our Weather Operations Center tracks forecasts. Cross-checking such data enables us to understand the relationship between daily temperatures and our water costs. Drought projections for the contiguous 48 states are also included in our Climate Change Analysis Tool, allowing us to identify regions at higher drought risk. In 2022, AT&T used 2.676 billion gallons of water. To mitigate the risk of increased operating costs associated with the purchase of water (to cool certain facilities or to provide irrigation) due to rising mean temperatures, AT&T has active water management efforts in place. We work to reduce water consumption in our facilities by cleaning cooling towers, enhancing proactive maintenance and repairs, utilizing smart irrigation systems, and providing connectivity for monitoring systems to enable remote, near real-time water use tracking and management.
+C2.3
+(C2.3) Have you identified any inherent climate-related risks with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.3a
+(C2.3a) Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Risk 1
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Acute physical	Other, please specify (Increased severity and frequency of extreme weather such as wildfires and floods )
+Primary potential financial impact
+Increased indirect (operating) costs
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Extreme weather events precipitated by long-term climate change have the potential to directly damage network facilities or disrupt our ability to build and maintain portions of our network and could potentially disrupt suppliers’ ability to provide products and services required to provide reliable network coverage. Extreme weather events such as the highly active tropical storm season along the Gulf and Atlantic coasts and, and the increasing frequency and severity of wildfires across the Western U.S., have the potential to directly damage our network facilities or disrupt our ability to maintain portions of our network. In 2021, Hurricane Ida caused substantial impacts to our network in Louisiana from power outages and storm damage. As of Q1 2023, our network includes more than 1.4 million route miles of fiber globally and carries over 600 petabytes of data traffic on an average business day. Any such disruption could delay network deployment plans, interrupt service for our customers, increase our costs and have a negative effect on our operating results. The potential physical effects of climate change, such as increased frequency and severity of storms, floods, fires and other climate related events, could adversely affect our operations, infrastructure and financial results. Operational impacts resulting from the potential physical effects of climate change, such as damage to our network infrastructure (e.g., cell towers, central offices or other physical assets), could result in increased costs and loss of revenue. We could incur significant costs to improve the climate resiliency of our infrastructure - including proactively relocating equipment or implementing network hardening solutions - and otherwise prepare for, respond to, and mitigate such physical effects of climate change.
+Time horizon
+Short-term
+Likelihood
+More likely than not
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+7500000
+Potential financial impact figure – maximum (currency)
+70700000
+Explanation of financial impact figure
+We calculated the expected increase in financial impacts related to climate-related weather events. This financial impact quantification incorporates historic AT&T weather-related costs from severe storms and wildfires with the probable change in frequency of extreme precipitation and wildfire events, using IPCC climate data and geospatial analysis for AT&T's U.S. wireline, mobility and retail assets. Overall Assumptions: Base repair/capital costs stay consistent and frequency of events change, thus increasing costs. Costs are not adjusted for inflation.
+• AT&T extreme precipitation costs include capital costs from hurricanes, severe storms and severe weather, and repair costs estimated to be 10x a factor of the capital costs. Change in Max 5-Day Precipitation compare 2040 levels to 1981-2010 historical climatology (applied as 2010 levels) for U.S. only.
+• AT&T wildfire costs include capital costs from wildfire only and repair costs estimated to be 10x a factor of the capital costs. Change in cumulative dry days (CDD) and extreme heat days compare 2040 levels to 1981-2010 historical climatology (applied as 2010 levels) for California only. Cooling degree days (CDD) is weighted 75% and extreme heat days 25% as a proxy for increased wildfire probability. These proxies are due to a lack of high-resolution, future-facing wildfire data.
+• AT&T total financial impact ($7,500,000-$70,700,000) = extreme precipitation costs ($6,100,000-$56,300,000) + wildfire costs ($1,400,000-$7,900,000)
+Cost of response to risk
+650000000
+Description of response and explanation of cost calculation
+Our network team builds all cell sites to meet or exceed state structural standards— including those in disaster prone areas. We conduct regular analysis to help ensure cell sites can withstand wind, ice & other environmental factors. We also deploy high-capacity battery backup to these sites, allowing them to remain in service in the event of a power loss. To prepare for natural disasters, we regularly test these batteries & take steps to ensure fixed generators are fueled on a regular basis. We proactively monitor potential nature-related threats to our network, employees and communities through our Weather Operations Center. Through our Network Disaster Recovery (NDR) organization we have run nearly 80 full-scale in-field recovery exercises, which are vital to testing our equipment & abilities. We have invested >$650 million in our NDR programs since 1992. 90% of the investment is spent on domestic NDR programs, and the remaining 10% is spent on international NDR initiatives. The investments include capital expenditures (such as building new mobile satellite cell sites on light trucks) as well as other expenditures such as field training exercises. To better understand the physical risks that climate change poses to our network, we’ve been working with the U.S. Department of Energy’s Argonne National Laboratory. Argonne performs the data engineering and climate modelling that projects the impact and likelihood of various hazards occurring. This dataset is sophisticated, as it provides insights at the neighborhood level and looks out to 30 years into the future. Leveraging these data layers, our data scientists built our Climate Change Analysis Tool (CCAT) which helps us anticipate and visualize potential impacts of climate hazards, like flooding and intense winds, on our network infrastructure & operations. This information can be used to mitigate physical risk, for example, it can inform for asset maintenance efforts, network hardening projects, disaster recovery resourcing and future network investments. In 2020, we expanded the capabilities and the geographical coverage of our CCAT tool to incorporate drought, wildfire and temperature rise for the contiguous 48 states, which we’re integrating into our internal planning systems. Our internal climate resilience team continues to use CCAT to analyze the potential impact of the hazards on our infrastructure and then relay these insights to key business unit partners like network resiliency.
+Comment
+While this risk is impacting AT&T now, it is also evaluated as a medium- and long-term risk.
+C2.4
+(C2.4) Have you identified any climate-related opportunities with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.4a
+(C2.4a) Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Opp1
+Where in the value chain does the opportunity occur?
+Downstream
+Opportunity type
+Markets
+Primary climate-related opportunity driver
+Access to new markets
+Primary potential financial impact
+Increased revenues through access to new and emerging markets
+Company-specific description
+In 2015, AT&T set a goal to enable customer carbon savings 10 times the footprint of our operations by 2025. We recognized that many of our products and services can help our customers be more efficient and reduce emissions, creating an opportunity to drive revenues through access to new and emerging markets with these types of products and services. Following AT&T’s commitment to achieve net zero Scope 1 and 2 emissions by 2035, we sought a more ambitious goal for enablement of customer GHG emissions reductions. In 2021, we retired our 10x goal and announced the AT&T Gigaton Goal to deliver connectivity solutions that enable business customers to reduce a gigaton (1 billion metric tons) of GHG emissions by 2035.
+
+AT&T-enabled technology solutions such as Internet of Things, 5G, edge computing and fiber have the potential to reveal inefficiencies and reduce wasted electricity, fuel, water and/or raw materials – which can lead to reduced GHG emissions across multiple markets, including areas in which AT&T has an opportunity to introduce new technologies. AT&T is uniquely positioned to deliver many of these benefits to our customers because of our scope and expertise: For example, as of Q1 2023, AT&T’s 5G network reaches 290 million Americans. We also cover more than 19.7 million consumer and more than 3 million business customer locations in 100+ metro areas in the U.S. with fiber, supporting our ability to bring connectivity technology to more areas and markets. In addition, we use many of these technology solutions in our own operations, so we bring practical experience to our customers.
+
+We believe that collaborating with our customers on AT&T-integrated technology solutions can create new opportunities for AT&T to introduce technology into new industries and markets, such as Smart Cities; industrial; manufacturing; retail; and supply chain and transportation.
+Time horizon
+Short-term
+Likelihood
+Likely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+350000000
+Explanation of financial impact figure
+If we capture opportunities related to introducing technology into new industries and markets, it could mean an increased revenue opportunity for our Business Solutions organization. It’s impossible to predict demand, but if we assume demand for more efficient products and services drives a potential 1% increase in consolidated sales of services, we could estimate a potential annual revenue increase of about $350 million. We calculated this based on our 2022 Business Solutions revenue of approximately $35 billion. 1% of $35 billion is $350 million. If our expectations are wrong and none of our customers find value in AT&T technology solutions that also reduce their GHG emissions, then financial impact could be as low as $0. However, given the rise of corporate interest in reducing emissions, we don’t expect this minimum impact to occur.
+Cost to realize opportunity
+800000
+Strategy to realize opportunity and explanation of cost calculation
+We have identified 8 key impact areas that have substantial climate impact and could benefit from operations enhanced by our technology: Modern Workplace; Transportation; Healthcare; Consumer/Retail; Smart Cities/Buildings; Energy; Industrial; Food/Beverage & Agriculture. We work to identify potential customers and develop product offerings that can help those industries drive cost and emissions from their business, such as our Internet-of-Things (IoT), 5G, edge computing and fiber solutions. To capitalize on such opportunities, we work with customers to create case studies showing how our technologies have enabled positive environmental impacts. For example: our customer GCP Applied Technologies’ Verifi® In-transit Concrete Management System uses AT&T IoT connectivity help reduce emissions from wasted trips and excess material. According to our case study from 2022, GCP Applied Technologies used AT&T IoT connectivity to produce 29.76 million cubic yards of concrete and avoided 107,294.34 metric tons of CO2e. We use case studies like this as marketing and promotional content to show the climate-related benefits of AT&T technologies and services. The case studies quantify the GHG emissions reduction potential that AT&T technology enables in a wide range of impact areas. Using these examples allows us to turn the idea of tech-enabled GHG reductions into a relatable story for other customers. We expect these concrete examples can help expand the conversations we have with our customers. Between 2018-2022, we calculate cumulative customer emissions reductions enabled by AT&T of 149.2 million metric tons of CO2e – 15% attainment toward our Gigaton Goal. AT&T has the equivalent of 2 Director and 1 Senior management employees who spend a large part of their time developing and executing the plans to meet our goal. We estimate costs for this work by using an average cost of $300,000 for Director salary and benefits and $200,000 for Senior management salary and benefits for the time spent on the Gigaton goal for a total of $800,000. We assume that other work done by AT&T employees to support this work is included in employees’ regular work scope and is not incremental.
+Comment
+C3. Business Strategy
+C3.1
+(C3.1) Does your organization’s strategy include a climate transition plan that aligns with a 1.5°C world?
+Row 1
+Climate transition plan
+Yes, we have a climate transition plan which aligns with a 1.5°C world
+Publicly available climate transition plan
+Yes
+Mechanism by which feedback is collected from shareholders on your climate transition plan
+We have a different feedback mechanism in place
+Description of feedback mechanism
+Our Chief Sustainability Officer has discussed components of the plan with investors’, and it is posted on our website.
+Frequency of feedback collection
+Annually
+Attach any relevant documents which detail your climate transition plan (optional)
+ATT 2023 Climate Strategy & Transition Plan.pdf
+Explain why your organization does not have a climate transition plan that aligns with a 1.5°C world and any plans to develop one in the future
+<Not Applicable>
+Explain why climate-related risks and opportunities have not influenced your strategy
+<Not Applicable>
+C3.2
+(C3.2) Does your organization use climate-related scenario analysis to inform its strategy?
+Use of climate-related scenario analysis to inform strategy	Primary reason why your organization does not use climate-related scenario analysis to inform its strategy	Explain why your organization does not use climate-related scenario analysis to inform its strategy and any plans to use it in the future
+Row 1	
+Yes, qualitative and quantitative
+<Not Applicable>
+<Not Applicable>
+C3.2a
+(C3.2a) Provide details of your organization’s use of climate-related scenario analysis.
+Climate-related scenario	Scenario analysis coverage	Temperature alignment of scenario	Parameters, assumptions, analytical choices
+Physical climate scenarios	RCP 2.6
+Company-wide
+<Not Applicable>
+AT&T updated its climate-related scenario analysis in 2022/2023. For physical scenarios, we used two climate scenarios informed by the Intergovernmental Panel on Climate Change (IPCC) Shared Socioeconomic Pathways (SSPs). We used SSP, that integrates RCP 2.6 (aligned with 2’C) and 4.5 (aligned with 2.7’C). We choose to use Shared-Socioeconomic Pathways to understand more of the social/economic/and political factors that could further drive the change. Comparing the input from internal stakeholders and historical company metrics to the above climate scenarios, AT&T was able to prioritize the climate-relate risks and opportunities most relevant to the company. These risks and opportunities were further analyzed along three time horizons identified by AT&T: short (2023-2025); medium (2025-2030); long (2030-2050).
+Physical climate scenarios	RCP 4.5
+Company-wide
+<Not Applicable>
+AT&T updated its climate-related scenario analysis in 2022/2023. For physical scenarios, we used two climate scenarios informed by the Intergovernmental Panel on Climate Change (IPCC) Shared Socioeconomic Pathways (SSPs). We used SSP, that integrates RCP 2.6 (aligned with 2’C) and 4.5 (aligned with 2.7’C). We choose to use Shared-Socioeconomic Pathways to understand more of the social/economic/and political factors that could further drive the change. Comparing the input from internal stakeholders and historical company metrics to the above climate scenarios, AT&T was able to prioritize the climate-relate risks and opportunities most relevant to the company. These risks and opportunities were further analyzed along three time horizons identified by AT&T: short (2023-2025); medium (2025-2030); long (2030-2050).
+Transition scenarios	Customized publicly available transition scenario
+Company-wide
+1.6ºC – 2ºC
+AT&T updated its climate-related scenario analysis in 2022/2023. For transition scenarios, we used two publicly available scenarios: (1) shows the trajectory implied by today’s existing climate and energy-related policy settings and (2) assumes that all aspirational climate related targets announced by governments are met on time and in full, including their long‐term net zero and energy access goals. The latter scenario reflects efforts to limit global warming to well below 2 degrees Celsius. These scenarios were aligned by matching the projected increase in mean temperatures globally. Comparing the input from internal stakeholders and historical company metrics to the above customized climate scenario, AT&T was able to prioritize the climate-relate risks and opportunities most relevant to the company. These risks and opportunities were further analyzed along three time horizons identified by AT&T: short (2023-2025); medium (2025-2030); long (2030-2050).
+Physical climate scenarios	RCP 8.5
+Company-wide
+<Not Applicable>
+To help us plan, build and maintain our network in the face of extreme weather and long-term climate change, in 2019 we developed our Climate Change Analysis Tool (CCAT). By analyzing the modeled climate data, provided by Argonne National Laboratory, under the RCP 8.5 warming scenario, we can pinpoint physical risk implications of the future climate, under the most severe emissions scenario. Our industry-leading CCAT helps network engineers understand how inland and coastal flooding, drought, wind or wildfires may impact existing infrastructure or future network builds during the 2050 time horizon.
+C3.2b
+(C3.2b) Provide details of the focal questions your organization seeks to address by using climate-related scenario analysis, and summarize the results with respect to these questions.
+Row 1
+Focal questions
+• What is the potential financial impact of damage to network assets identified as vulnerable to climate hazards?
+• What emerging climate-related policies/regulations might impact our company?
+Results of the climate-related scenario analysis with respect to the focal questions
+To help us better understand how AT&T is positioned to respond to climate change, we use a climate-related scenario analysis to assess the potential impacts and magnitude of climate-related risks and opportunities on our operations, including physical risk from acute and chronic climatic changes that could impact our network infrastructure; our products and services; and our brand, including extreme weather events, precipitation, drought, and changes in mean temperatures. Our 2022 climate scenario analysis identified three physical risks: heavy precipitation, wind and heat waves. To calculate the financial impact of physical climate risks, AT&T used IPCC climate data along two climate scenarios out to 2100. AT&T included over 250,000 assets across our mobility, wireline, and retail portfolio as part of this analysis. The estimated potential cost associated with our top quantifiable physical risk is $70,700,000. AT&T also assesses transition-related risks along various categories, including market, technology, policy & legal, and reputation. Examples of these include the impact of environmental regulations, developments in technology and market or reputational factors on our company. Our 2022/2023 climate scenario analysis identified two transitional risks: Network traffic and energy needs / 5G rollout conflicting with Decarbonization Goal, and Evolving requirements and expectations of regulators, investors and business customers (e.g., costs from U.S. carbon pricing on AT&T emissions).
+
+As climate-related risks are identified or considered, they are analyzed through our company-wide internal risk management processes, in collaboration with business units such as compliance, finance, legal, public policy and others. Most importantly, the results of the scenario analysis reinforced our commitment to reach carbon neutrality for our operations by 2035 and informed our Climate Strategy & Transition Plan. AT&T will increase engagement with key internal and external stakeholders, over the next couple of years, to explore opportunities for additional mitigation measures to reduce impact from the top identified risks and scale impact of top identified opportunities. For example, in 2023, several cross-functional working groups were organized to begin work on resulting action items. AT&T will continue to monitor market prices and requirements around renewable energy market mechanisms and assess opportunities to scale these mitigation measures. AT&T will also continue to improve data collection processes and management, build awareness around key climate risks & opportunities, and regularly review potential emerging risks and opportunities, as well as key data sources and evidence used in the scenario analysis.
+C3.3
+(C3.3) Describe where and how climate-related risks and opportunities have influenced your strategy.
+Have climate-related risks and opportunities influenced your strategy in this area?	Description of influence
+Products and services	
+Yes
+How is the strategy influenced: Information and communication technology (ICT) solutions – including hardware, software, and broadband and wireless technologies – can enable people and businesses to make more energy-efficient choices and reduce environmental impacts in many ways. AT&T has set a goal to deliver connectivity solutions that enable our business customers to reduce a gigaton (1 B MT CO2e) of GHG emissions by 2035. Between 2018-2022, cumulative tracked customer emissions reductions enabled by AT&T totaled approximately 149.2 M MT CO2e - approx. 15% progress toward our 2035 Gigaton Goal. We engage customers and technology collaborators to integrate AT&T technology to drive energy and resource efficiency. As we talk to customers, we learn that many are committed to reducing their emissions and have set public goals to do so. We are able to share how AT&T’s products and services can help them reduce their own emissions or create products to help their customers reduce their emissions.
+What is the time horizon: Our Gigaton Goal runs through 2035. We actively engage customers toward achievement of this goal and expect to continue until the goal is achieved.
+Substantial strategic decision: Our Gigaton Goal has support from the highest level of the business, including officer members of our CSR Governance Council, led by our Chief Sustainability Officer, and Governance and Policy Committee of the AT&T Board of Directors. We have a working team of CSR, sales and product representatives that meets regularly to seize this opportunity. We developed case studies that quantify GHG emissions reduction potential AT&T technology enables across a wide range of impact areas, including EV charging stations, smart buildings, energy efficient network equipment and pipeline leak detection. These real-world applications serve as relatable examples for other customers and can help drive demand for AT&T products and services that enable emissions reductions. We invest in our network infrastructure each year, creating the platform for our 5G, fiber, and IoT technologies that are key enablers of efficiency for our customers. We anticipate that opportunities will continue to increase over the next several decades. We are committed to engaging stakeholders on the ability of AT&T technology to enable carbon emissions reductions through 2035 and beyond (long term time horizon).
+Supply chain and/or value chain	
+Yes
+Extreme weather events could disrupt our suppliers’ ability to provide us with the products and services we require to provide a reliable network to our customers. Our strategy has been influenced such that we build redundancies into our supply chain and sourcing strategies so we are not overly reliant on individual suppliers. If any given supplier were to be impacted by extreme weather events and unable to fulfill its obligation to AT&T, redundancies built into our sourcing strategies would help ensure our ability to maintain operations. The time horizon covered by this strategy is long-term, as is our overall sourcing strategy. AT&T made the substantive and strategic decision to use the supply chain TIA Assessor Tool and to participate in the CDP Supply Chain Survey, both of which assess suppliers' GHG emissions and related climate risk and resiliency. With the data we receive from these tools, we can better understand how our suppliers are improving their resiliency against climate risk, including extreme weather events. Note: Starting in 2023, AT&T will no longer utilize the TIA Assessor in our supplier sustainability program.
+Investment in R&D	
+Yes
+The identified climate-related risks and opportunities have impacted how we engage customers around the benefits of AT&T’s products and services. AT&T set a goal to deliver connectivity solutions that enable business customers to reduce a gigaton of greenhouse gas emissions by 2035. We call this the AT&T Gigaton Goal. Between 2018-2022, AT&T has tracked cumulative customer emissions reductions we’ve enabled of approximately 149.2 million MT CO2e.This reflects approximately 15% progress toward our 2035 Gigaton Goal.
+
+As we make progress toward that goal, we are engaging customers and technology collaborators to integrate AT&T technology into business processes to drive energy and resource efficiency. These innovations and products require investment in research and development (R&D) to meet the demands of our customers and meet our Gigaton Goal.
+
+The demand for lower emissions products and services could impact our investment in R&D related to these products by driving an increase in R&D to develop and bring to market those products and services.
+
+We continue to actively engage customers in this discussion and we expect to continue to do so for years to come, even beyond the Gigaton Goal 2035 target year (long-term time horizon). As we talk to customers, we have received feedback that many are committed to reducing their emissions and have set public goals to show their commitment – presenting an opportunity for AT&T technology to enable those reductions.
+
+As part of our efforts to meet our Gigaton Goal, we are inviting customers with climate-focused goals to collaborate with AT&T on solutions like Internet-of-Things (IoT) and 5G—solutions that can help them or their customers reduce their environmental impacts. In general, we see ongoing demand for our products and services that have the potential to help reduce emissions. As such, we have made the substantial and strategic decision to invest in 5G, fiber, and IoT technology that are key enablers of efficiency for our customers.
+Operations	
+Yes
+The identified climate-related risks and opportunities impact our operations in many ways, including our approach to resource conservation to manage operating costs. Our strategy to address risk to our operations is to set goals to make our operations more efficient, thereby lowering our consumption of resources such as fuel and water. We set long-term goals to address these risks, commensurate with AT&T’s climate change and GHG emissions reduction strategy. Any increase in price of the resources we consume to power our operations could lead to an increase in our operating costs. This applies to water and fossil fuel-based energies.
+
+We work to reduce our consumption where possible but do rely in part on natural resources to power our network and fleet. AT&T takes a two-pronged approach to reducing emissions. We first focus on how to reduce consumption of resources. Second, we see how consumption can be less impactful. Our efforts include decreasing water and kWh consumption while managing an ever-increasing amount of network traffic. Additionally, we focus on making the kWh consumption of our network more environmentally friendly by procuring large quantities of renewable energy. As we transition to EVs, the corresponding energy consumption will be targeted towards renewables to minimize the impact.
+
+Approx. 19% of our water consumption occurs in areas designated as high or extremely high water stressed environments. AT&T strives to reduce domestic water consumption in high and extremely high water stressed areas.
+Scope 2 emissions account for the majority of our total operational emissions. Since purchased kWh represents our greatest opportunity for emissions savings, we have multi-year transition plans in place to reduce kWh consumption where possible and accelerate energy efficiency efforts. Our most strategic decision in this area is to engage in long-term strategic renewable energy contracts, which will help reduce dependence on fossil fuel-based electricity. We are also committed to be carbon neutral across our global operations by 2035. To guide our progress toward our net-zero emissions goal, we set a 2030 Science Based Target for Scope 1 and 2 emissions that aligns to 1.5-degree scenario and was approved by the SBTi. The time horizon for this strategy is long-term, as are our goals and renewable energy contracts.
+C3.4
+(C3.4) Describe where and how climate-related risks and opportunities have influenced your financial planning.
+Financial planning elements that have been influenced	Description of influence
+Row 1	
+Assets
+Our Climate Change Analysis Tool (CCAT) allows AT&T to identify long term climate-related risks and apply this insight to short term decision-making. Our climate adaptation strategy includes both our current assets as well as the siting of future assets such as network equipment. Making current and future assets more climate resilient has significant potential cost savings opportunities, as it helps to ensure we maintain service in the face of future climate change impacts.
+Case study and Time horizon:
+Situation: To help mitigate the financial impact of extreme weather disruptions on the company, AT&T wanted to understand the potential impact of climate change on its physical infrastructure.
+Task: Secure credible and actionable climate data in order to build a tool to visualize climate impacts on AT&T infrastructure.
+Action: AT&T’s CSR team and Argonne National Labs developed a plan for Argonne to produce climate data that AT&T could leverage to build a tool, capable of visualizing climate impacts on the company’s infrastructure. Once a concept had been developed, the CSR team met with key stakeholders in the business including network, finance, and risk management teams to discuss what features and inputs the tool would need to help with network maintenance and planning. This feedback was factored into the development of the tool.
+Results: In 2019, AT&T launched the first iteration of the CCAT tool, initially covering the southeast region, and in September 2020, AT&T announced its expansion to cover the 48 contiguous U.S. states. We are now able to use CCAT to cross-reference fiber cable locations with inland and coastal flooding projections that look out 30 years in the future (spanning short-, medium- and long-term time frames). We can also now visualize the impact of climate-related events such as wind, droughts and wildfires on network assets like cell sites and central offices. Damage to these assets can cost millions of dollars and inhibit our ability to provide network services to our customers, which can negatively impact our reputation. We use information from our CCAT tool in our strategic planning processes related to investments in preventative maintenance, disaster recovery and future construction decisions. For example, the climate data is integrated into our site selection, network hardening and construction processes, including deciding whether additional investments are necessary add physical barriers like flood gates help protect assets from flooding risk.
+Looking ahead, the climate resilience working team is building and testing new methodologies to simplify and apply the data as well as interviewing business stakeholders to identify additional use cases. For example, In 2022, we received, validated and analyzed new climate data from Argonne covering inland and coastal flooding for the Northeast and Gulf regions of the U.S. We also developed a new methodology to simplify hazard data, making it easier for network engineers to use the data to deliver business value. At the same time, we are integrating the climate data into our network planning and design tools. Our mobility team can use the climate projections to identify locations that are at higher risk of climate impacts. This helps the team plan future network builds and allows AT&T unique insight into how various climate events affect different parts of our infrastructure. Our risk management organization has showcased the CCAT tool and climate data insights to insurance vendors, positioning AT&T to potentially benefit from insurance cost savings and/or improved terms of insurance coverage.
+Also, communities face an unprecedented challenge to simultaneously respond to and prepare for the shocks that climate change is wreaking on infrastructure, critical systems and people. As the frequency and severity of climate-related events increase, it’s critical for community leaders and public safety officials to have the tools and actionable insights needed to assess and address their vulnerabilities.
+
+To solve this problem, we’ve made our climate data available to the public. To scale the awareness and utilization of the data, AT&T, the Federal Emergency Management Agency (FEMA) and the U.S. Department of Energy’s Argonne National Laboratory have created the Climate Risk and Resilience Portal (ClimRR). The portal provides AT&T and Argonne’s high-resolution data about localized future climate risks in an accessible format to state, local, tribal and territorial emergency managers and other community leaders.
+C3.5
+(C3.5) In your organization’s financial accounting, do you identify spending/revenue that is aligned with your organization’s climate transition?
+Identification of spending/revenue that is aligned with your organization’s climate transition	Indicate the level at which you identify the alignment of your spending/revenue with a sustainable finance taxonomy
+Row 1	
+No, but we plan to in the next two years
+<Not Applicable>
+C4. Targets and performance
+C4.1
+(C4.1) Did you have an emissions target that was active in the reporting year?
+Absolute target
+C4.1a
+(C4.1a) Provide details of your absolute emissions target(s) and progress made against those targets.
+Target reference number
+Abs 1
+Is this a science-based target?
+Yes, and this target has been approved by the Science Based Targets initiative
+Target ambition
+1.5°C aligned
+Year target was set
+2019
+Target coverage
+Company-wide
+Scope(s)
+Scope 1
+Scope 2
+Scope 2 accounting method
+Market-based
+Scope 3 category(ies)
+<Not Applicable>
+Base year
+2015
+Base year Scope 1 emissions covered by target (metric tons CO2e)
+1134340
+Base year Scope 2 emissions covered by target (metric tons CO2e)
+7694918
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+8829258
+Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100
+Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in Scope 3, Category 2: Capital goods (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions in Scope 3, Category 6: Business travel (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in Scope 3, Category 7: Employee commuting (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as % of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 10: Processing of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target as % of total base year emissions in Scope 3, Category 14: Franchises (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in Scope 3, Category 15: Investments (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target as % of total base year emissions in Scope 3, Other (upstream) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target as % of total base year emissions in Scope 3, Other (downstream) (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope 3 categories)
+<Not Applicable>
+Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected Scopes
+100
+Target year
+2030
+Targeted reduction from base year (%)
+63
+Total emissions in target year covered by target in all selected Scopes (metric tons CO2e) [auto-calculated]
+Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+917036
+Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+3861164
+Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 10: Processing of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 14: Franchises emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 15: Investments emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (upstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (downstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+4778200
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Please explain target coverage and identify any exclusions
+100% coverage of Scope 1 and Scope 2 emissions. No exclusions.
+Plan for achieving target, and progress made to the end of the reporting year
+AT&T's plan to achieve it's SBTi is focused on three main areas: energy efficiency, renewable electricity procurement, and implementation of zero-emissions vehicles and electricity generation.
+List the emissions reduction initiatives which contributed most to achieving this target
+<Not Applicable>
+Target reference number
+Abs 2
+Is this a science-based target?
+No, but we are reporting another target that is science-based
+Target ambition
+<Not Applicable>
+Year target was set
+2020
+Target coverage
+Company-wide
+Scope(s)
+Scope 1
+Scope 2
+Scope 2 accounting method
+Market-based
+Scope 3 category(ies)
+<Not Applicable>
+Base year
+2019
+Base year Scope 1 emissions covered by target (metric tons CO2e)
+990955
+Base year Scope 2 emissions covered by target (metric tons CO2e)
+5430949
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+6421904
+Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100
+Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in Scope 3, Category 2: Capital goods (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions in Scope 3, Category 6: Business travel (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in Scope 3, Category 7: Employee commuting (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as % of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 10: Processing of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target as % of total base year emissions in Scope 3, Category 14: Franchises (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in Scope 3, Category 15: Investments (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target as % of total base year emissions in Scope 3, Other (upstream) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target as % of total base year emissions in Scope 3, Other (downstream) (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope 3 categories)
+<Not Applicable>
+Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected Scopes
+100
+Target year
+2035
+Targeted reduction from base year (%)
+100
+Total emissions in target year covered by target in all selected Scopes (metric tons CO2e) [auto-calculated]
+Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+917036
+Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+3861164
+Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 10: Processing of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 14: Franchises emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 15: Investments emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (upstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (downstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+4778200
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Please explain target coverage and identify any exclusions
+100% coverage of Scope 1 and Scope 2 emissions. No exclusions.
+Plan for achieving target, and progress made to the end of the reporting year
+AT&T's plan to achieve it's SBTi is focused on three main areas: energy efficiency, renewable electricity procurement, and implementation of zero-emissions vehicles and electricity generation.
+List the emissions reduction initiatives which contributed most to achieving this target
+<Not Applicable>
+C4.2
+(C4.2) Did you have any other climate-related targets that were active in the reporting year?
+Net-zero target(s)
+Other climate-related target(s)
+C4.2b
+(C4.2b) Provide details of any other climate-related targets, including methane reduction targets.
+Target reference number
+Oth 1
+Year target was set
+2019
+Target coverage
+Company-wide
+Target type: absolute or intensity
+Absolute
+Target type: category & Metric (target numerator if reporting an intensity target)
+Engagement with suppliers	Percentage of suppliers (by emissions) with a science-based target
+Target denominator (intensity targets only)
+<Not Applicable>
+Base year
+2019
+Figure or percentage in base year
+0
+Target year
+2024
+Figure or percentage in target year
+50
+Figure or percentage in reporting year
+53
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Achieved
+Is this target part of an emissions target?
+No
+Is this target part of an overarching initiative?
+Science Based Targets initiative – approved supplier engagement target
+Please explain target coverage and identify any exclusions
+As part of AT&T’s Science-Based Targets (SBTs), AT&T will work to ensure that 50% of our suppliers (covering purchased goods and services, capital goods and downstream leased assets as a portion of spend) will set their own science-based Scope 1 and Scope 2 targets by 2024.
+Plan for achieving target, and progress made to the end of the reporting year
+<Not Applicable>
+List the actions which contributed most to achieving this target
+Engagement includes one-to-one conversations with key suppliers to review SBTi guidelines and possible target paths, mass outreach to suppliers in our Supplier Sustainability Assessment program on the importance of SBTs and being a signatory to CDP’s SBT Campaign. In 2022, we hosted a training for suppliers that emphasized the importance of using reporting and sustainability disclosures to reduce the environmental impact of our suppliers’ operations, with participants representing over $7 billion in annual spend.
+Target reference number
+Oth 2
+Year target was set
+2021
+Target coverage
+Company-wide
+Target type: absolute or intensity
+Absolute
+Target type: category & Metric (target numerator if reporting an intensity target)
+Waste management	metric tons of waste diverted from landfill
+Target denominator (intensity targets only)
+<Not Applicable>
+Base year
+2019
+Figure or percentage in base year
+0
+Target year
+2030
+Figure or percentage in target year
+30
+Figure or percentage in reporting year
+27.9
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Is this target part of an emissions target?
+No
+Is this target part of an overarching initiative?
+No, it’s not part of an overarching initiative
+Please explain target coverage and identify any exclusions
+By 2035, AT&T will reduce the amount of U.S. waste we send to landfill by 30% (2019 base year).This target is inclusive of AT&T Communications, U.S. operations.
+Plan for achieving target, and progress made to the end of the reporting year
+We will achieve this target through a combination of optimizing waste services and collaborating with waste vendors, increasing recycling, improving data accuracy and tracking, minimizing plastic waste used in operations and diverting surplus office furniture.
+List the actions which contributed most to achieving this target
+<Not Applicable>
+C4.2c
+(C4.2c) Provide details of your net-zero target(s).
+Target reference number
+NZ1
+Target coverage
+Company-wide
+Absolute/intensity emission target(s) linked to this net-zero target
+Abs1
+Abs2
+Target year for achieving net zero
+2035
+Is this a science-based target?
+No, but we are reporting another target that is science-based
+Please explain target coverage and identify any exclusions
+AT&T has committed to be carbon neutral across its entire global operations by 2035. The company aims to achieve net zero Scope 1 and 2 emissions.
+Do you intend to neutralize any unabated emissions with permanent carbon removals at the target year?
+Yes
+Planned milestones and/or near-term investments for neutralization at target year
+Though AT&T aims to reduce our footprint to as close to zero emissions as possible, there may be some sources of emissions that cannot be eliminated. AT&T may evaluate neutralizing unabated emissions intermittently, through the purchase of high-quality carbon offsets, if we deviate from the planned trajectory toward our emissions reductions plan.
+Planned actions to mitigate emissions beyond your value chain (optional)
+See AT&T’s Gigaton Goal overview and methodology: https://about.att.com/content/dam/csr/2019/environment/Combined_10x_%20ATT%20Gigaton%20Methodology%20FINAL%20August%202021.pdf.
+C4.3
+(C4.3) Did you have emissions reduction initiatives that were active within the reporting year? Note that this can include those in the planning and/or implementation phases.
+Yes
+C4.3a
+(C4.3a) Identify the total number of initiatives at each stage of development, and for those in the implementation stages, the estimated CO2e savings.
+Number of initiatives	Total estimated annual CO2e savings in metric tonnes CO2e (only for rows marked *)
+Under investigation	
+211
+To be implemented*	
+107
+21979
+Implementation commenced*	
+1
+75
+Implemented*	
+6586
+1087365
+Not to be implemented	
+96
+C4.3b
+(C4.3b) Provide details on the initiatives implemented in the reporting year in the table below.
+Initiative category & Initiative type
+Transportation	Company fleet vehicle efficiency
+Estimated annual CO2e savings (metric tonnes CO2e)
+4085
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 1
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+1379886
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+No payback
+Estimated lifetime of the initiative
+6-10 years
+Comment
+Use of hybrid vehicles in Fleet
+Initiative category & Initiative type
+Energy efficiency in production processes	Other, please specify (Heating, Ventilation and Air Conditioning (HVAC))
+Estimated annual CO2e savings (metric tonnes CO2e)
+49050
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+8376591
+Investment required (unit currency – as specified in C0.4)
+14441377
+Payback period
+1-3 years
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Energy impacting optimization, upgrade and repair to building infrastructure and systems - 413 completed projects.
+Central Office Optimization project to implement and optimize Enterprise Building Management System using advanced analytics and Machine Learning - 152 completed projects.
+Total of 565 completed projects.
+Initiative category & Initiative type
+Energy efficiency in production processes	Process optimization
+Estimated annual CO2e savings (metric tonnes CO2e)
+1020239
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+132201980
+Investment required (unit currency – as specified in C0.4)
+42238969
+Payback period
+1-3 years
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Decommission of network assets as part of network transformation to Software Defined Networks (SDN) with Network Functions Virtualization (NFV), 5,933 projects completed.
+Initiative category & Initiative type
+Other, please specify	Other, please specify (Real Estate decommission and disposition)
+Estimated annual CO2e savings (metric tonnes CO2e)
+18076
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+3559304
+Investment required (unit currency – as specified in C0.4)
+61646994
+Payback period
+16-20 years
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Annualized energy impact of closure and reduction of square footage of real estate, 88 projects completed. Payback calculated is exclusive to energy savings.
+C4.3c
+(C4.3c) What methods do you use to drive investment in emissions reduction activities?
+Method	Comment
+Dedicated budget for energy efficiency
+Within the Energy Team, we have dedicated resources focused on identifying and testing energy and emissions-saving products. These are evaluated as Proof-of-concept to examine the materiality of the promised benefit, the scalability of the solution, and favorability of the overall business case to AT&T.
+Internal incentives/recognition programs
+To promote accountability and drive results, we use an Energy Scorecard to benchmark the energy performance at our top 800 energy-consuming facilities and 1,200 retail locations. The Scorecard reports energy management at each of these facilities. In addition, Scorecards report on projects and initiatives undertaken by the Real Estate Organization and with the Network Decommissioning Program. The Energy Scorecards are published quarterly to all Real Estate Organization Directors and network to enable them to see clearly how their energy use is trending. Quarterly, the Energy Team — led by the AVP of Network Engineering & Operations — reviews performances and gives each Energy ’scorecarded’ facility a grade, determined by not only by savings results, but also by the types of initiatives attempted for the facility personnel. The Retail Scorecards are scheduled to be reviewed on an annual basis.
+Other (Energy Industry Leadership and Collaboration)
+We collaborate with others in the industry and across our supply chain to develop more efficient products and practices. AT&T is a founding member in The Green Grid, a global consortium dedicated to advancing energy efficiency in data centers and business computing ecosystems – and GreenTouch, an industry consortium whose mission is to deliver the architecture, specifications and roadmap to increase network energy efficiency by a factor of 1,000 compared to 2010 levels. AT&T is a member, and one of our officers is Chairman of the Board of Directors, of the Alliance for Telecommunication Industry Solutions (ATIS), the North American telecommunications standards development organization. AT&T also initiated and vice-chair the ATIS STEP-TEE (Sustainability in Telecom: Energy and Protection - Telecommunications Energy Efficiency) committee, which developed a methodology for measuring and reporting the energy efficiency of telecommunications equipment. AT&T is involved with the US Green Building Council (USGBC) and its Leadership in Energy and Environmental Design (LEED) program, a third-party verification program for green building. Several AT&T facilities have received prestigious LEED Platinum or Gold certifications. Finally, AT&T participates in organizations such as Edison Electric Institute (EEI) and its Customer Advisory Group (CAG), as well as the Association of Energy Engineers (AEE).
+Other (Network transformation)
+In our Network organizations, programs and structures are in place to carefully engineer the transformation from our legacy network architecture toward AT&T's Software Defined Network (SDN) through Network Functions Virtualization, and to evaluate our capacity needs across every platform and layer. Through this, we craft and execute on detailed plans to eliminate capacity and componentry that is not required for the longer vision of the AT&T SDN. For FY2022, we had 1,590M annualized kWh removed from the network via decommission activity. In FY2023, with Universal Mobile Telecommunications System (UMTS) sunset largely completed, we are currently forecasting 387M annualized kWh to be removed from the network via decommission activities. The removed components represent incremental reduction in our electrical and environmental (cooling) load, as well as our space requirements.
+Other (Low carbon purchase strategy)
+AT&T continues to be one of the largest corporate purchasers of renewable energy in the U.S. AT&T is currently ranked 6th on the EPA’s Green Power Partnership Fortune 500 Partners List. In 2022, AT&T supported the production of nearly 2.8 billion kwh of renewable energy.
+C4.5
+(C4.5) Do you classify any of your existing goods and/or services as low-carbon products?
+Yes
+C4.5a
+(C4.5a) Provide details of your products and/or services that you classify as low-carbon products.
+Level of aggregation
+Group of products or services
+Taxonomy used to classify product(s) or service(s) as low-carbon
+The EU Taxonomy for environmentally sustainable economic activities
+Type of product(s) or service(s)
+Other	Other, please specify (Connectivity solutions that enable users to operate more efficiently and reduce emissions. Multiple use cases across many sectors.)
+Description of product(s) or service(s)
+Current and emerging broadband-enabled solutions such as Internet of Things (IoT) and 5G/edge computing solutions can help businesses make better decisions, improve efficiencies, save money, reduce GHG emissions and drive new revenue – all while solving tough operational problems. These “Smart Climate Solutions" can help customers reduce emissions through efficiency and through new product development:
+Efficiency: IoT delivers near-real-time insights and analytics to many aspects of business, helping them make data-driven decisions that streamline processes, lower operating costs and drive value. By adding 5G, AI, video analytics, augmented reality or other technologies, opportunities to drive efficiency and emissions reductions can expand even further. Connectivity can also help support operational efficiency and emissions reduction by enabling equipment performance insights, helping customers optimize maintenance and reduce use of electricity, fuel, water and raw materials.
+Product Development: Many customers are looking for ways integrate connectivity into the next generation of products and services, unlocking the potential to drive emissions reduction and grow new revenue. Connectivity can enable product enhancements such as continuous monitoring that enables resources efficiency, a transition to renewable/smart energy and continuous data-enabled business models that support low emissions innovation. https://www.business.att.com/products/business-sustainability.html
+Have you estimated the avoided emissions of this low-carbon product(s) or service(s)
+Yes
+Methodology used to calculate avoided emissions
+Evaluating the carbon-reducing impacts of ICT
+Life cycle stage(s) covered for the low-carbon product(s) or services(s)
+Use stage
+Functional unit used
+The functional unit used to determine the emissions reduction impact depends on the use case. In many cases, it’s the number of connected devices, but in some cases it’s another unit such as building or vehicle. A complete list is available on our methodology document: https://about.att.com/content/dam/csr/2019/environment/Combined_10x_%20ATT%20Gigaton%20Methodology%20FINAL%20August%202021.pdf
+Reference product/service or baseline scenario used
+The baseline scenario for each impact analysis depends on the use case. In general, the baseline scenario is measured before the connectivity solution is implemented, establishing the “before connectivity” state. Then, the performance is measured “after connectivity,” when a connectivity solution has been added. The full list of use cases is available here: https://about.att.com/content/dam/csr/2019/environment/Combined_10x_%20ATT%20Gigaton%20Methodology%20FINAL%20August%202021.pdf
+Life cycle stage(s) covered for the reference product/service or baseline scenario
+Use stage
+Estimated avoided emissions (metric tons CO2e per functional unit) compared to reference product/service or baseline scenario
+578
+Explain your calculation of avoided emissions, including any assumptions
+Note that the 578 avoided emissions factor reflected above is for a single Smart Climate Solution (in this case, fleet management). Factors for all of our Smart Climate Solutions use cases that can be found here: https://about.att.com/ecms/dam/csr/2023/Environment/2022AT&T_Gigaton_Goal_Progress_Update_FINAL.pdf
+
+We worked with Carbon Trust to establish a methodology that we use to calculate emissions factors. We used best practices to develop the methodology, including functional unit, Business-as-usual (BAU) baseline, enabling effects, rebound effects, and others.
+
+Here is the link to the details of our methodology: https://about.att.com/content/dam/csr/2019/environment/Combined_10x_%20ATT%20Gigaton%20Methodology%20FINAL%20August%202021.pdf
+Revenue generated from low-carbon product(s) or service(s) as % of total revenue in the reporting year
+33
+C5. Emissions methodology
+C5.1
+(C5.1) Is this your first year of reporting emissions data to CDP?
+No
+C5.1a
+(C5.1a) Has your organization undergone any structural changes in the reporting year, or are any previous structural changes being accounted for in this disclosure of emissions data?
+Row 1
+Has there been a structural change?
+Yes, a divestment
+Name of organization(s) acquired, divested from, or merged with
+Warner Media
+Details of structural change(s), including completion dates
+In April 2022, we completed a transaction to combine our WarnerMedia segment, subject to certain exceptions, with a subsidiary of Discovery Inc.
+C5.1b
+(C5.1b) Has your emissions accounting methodology, boundary, and/or reporting year definition changed in the reporting year?
+Change(s) in methodology, boundary, and/or reporting year definition?	Details of methodology, boundary, and/or reporting year definition change(s)
+Row 1	
+Yes, a change in methodology
+Yes, a change in boundary
+Yes, a change in reporting year definition
+In 2022, we expanded our reporting capabilities to include fuel and energy-related activities, downstream transportation and distribution, employee commuting and use of sold products. We have also expanded our reporting on Purchased Goods and Services, Capital Goods and Upstream Transportation and Distribution to represent the full upstream supply chain and are now able to report the data for the current calendar year. In line with the change to an EPA-developed, spend-based Environmentally-Extended Input-Output (EEIO) methodology in this year’s emissions accounting methodology, AT&T updated our Scope 3 baseline.
+C5.1c
+(C5.1c) Have your organization’s base year emissions and past years’ emissions been recalculated as a result of any changes or errors reported in C5.1a and/or C5.1b?
+Base year recalculation	Scope(s) recalculated	Base year emissions recalculation policy, including significance threshold	Past years’ recalculation
+Row 1	
+Yes
+Scope 3
+We follow the Greenhouse Gas Protocol’s significance threshold of 5%. Based on updates made to our methodology, we have restated our Scope 3 emissions back to our 2015 baseline.
+Yes
+C5.2
+(C5.2) Provide your base year and base year emissions.
+Scope 1
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+1134340
+Comment
+Base year was updated when resetting Science-Based Target (SBT) to 1.5 degrees in 2020.
+Scope 2 (location-based)
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+7694918
+Comment
+Base year was updated when resetting Science-Based Target (SBT) to 1.5 degrees in 2020.
+Scope 2 (market-based)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+6729677
+Comment
+Scope 3 category 1: Purchased goods and services
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+6597079
+Comment
+Scope 3 category 2: Capital goods
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+3188292
+Comment
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+2843530
+Comment
+Scope 3 category 4: Upstream transportation and distribution
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+495916
+Comment
+Scope 3 category 5: Waste generated in operations
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+54333
+Comment
+Scope 3 category 6: Business travel
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+81923
+Comment
+Scope 3 category 7: Employee commuting
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+167454
+Comment
+Scope 3 category 8: Upstream leased assets
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3 category 9: Downstream transportation and distribution
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3 category 10: Processing of sold products
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3 category 11: Use of sold products
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+195749
+Comment
+Scope 3 category 12: End of life treatment of sold products
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3 category 13: Downstream leased assets
+Base year start
+January 1 2015
+Base year end
+December 31 2015
+Base year emissions (metric tons CO2e)
+3309268
+Comment
+Scope 3 category 14: Franchises
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3 category 15: Investments
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3: Other (upstream)
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 3: Other (downstream)
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+C5.3
+(C5.3) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+Defra Environmental Reporting Guidelines: Including streamlined energy and carbon reporting guidance, 2019
+Energy Information Administration 1605(b)
+IPCC Guidelines for National Greenhouse Gas Inventories, 2006
+The Climate Registry: General Reporting Protocol
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+The Greenhouse Gas Protocol: Scope 2 Guidance
+US EPA Center for Corporate Climate Leadership: Indirect Emissions From Purchased Electricity
+US EPA Center for Corporate Climate Leadership: Direct Emissions from Stationary Combustion Sources
+US EPA Center for Corporate Climate Leadership: Direct Emissions from Mobile Combustion Sources
+US EPA Emissions & Generation Resource Integrated Database (eGRID)
+Other, please specify (US EPA Center for Corporate Climate Leadership:Waste Generated in Operations, IPCC Fifth Assessment Report, Green-e Residual Mix Emission Rates, Association of Issuing Bodies RE-DISS Residual Mix Emission Factors, USEEIO v1.1.1 March 2022 Release)
+C6. Emissions data
+C6.1
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+Gross global Scope 1 emissions (metric tons CO2e)
+917036
+Start date
+January 1 2022
+End date
+December 31 2022
+Comment
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+​Scope 2, location-based​
+We are reporting a Scope 2, location-based figure
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+Comment
+C6.3
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+Scope 2, location-based
+4962516
+Scope 2, market-based (if applicable)
+3861164
+Start date
+January 1 2022
+End date
+December 31 2022
+Comment
+C6.4
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?
+No
+C6.5
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+6100783
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Emissions calculated are based on industry averages, i.e., the US EPA EEIO emissions intensities per procurement category and total AT&T spend in the category. AT&T is developing the capability to integrate supplier specific emissions factors as well as LCA data when available from suppliers. Those capabilities are expected to grow over the next several years.
+Capital goods
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+3209432
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Emissions calculated are based on industry averages, i.e., the US EPA EEIO emissions intensities per procurement category and total AT&T spend in the category. AT&T is developing the capability to integrate supplier specific emissions factors as well as LCA data when available from suppliers. Those capabilities are expected to grow over the next several years.
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+1895345
+Emissions calculation methodology
+Average data method
+Fuel-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Extraction, production, and transportation of fuels and energy purchased or acquired by the reporting company in the reporting year, not already accounted for in scope 1 or scope 2, including: Upstream emissions of purchased fuels, upstream emissions of purchased electricity, transmission & distribution losses.
+Upstream transportation and distribution
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+714031
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Emissions calculated are based on industry averages, i.e., the US EPA EEIO emissions intensities per procurement category and total AT&T spend in the category. AT&T is developing the capability to integrate supplier specific emissions factors as well as LCA data when available from suppliers. Those capabilities are expected to grow over the next several years.
+Waste generated in operations
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+72160
+Emissions calculation methodology
+Waste-type-specific method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+AT&T waste generated includes corrugated containers, office paper, lumber, yard trimmings, mixed paper, mixed metals, mixed plastics, mixed recyclables, food waste, mixed organics, construction debris and mixed municipal solid waste. AT&T utilized the EPA’s Emission Factors Hub to report emissions from several different waste management practices.
+Business travel
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+68699
+Emissions calculation methodology
+Distance-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Given the emergence of alternatives to rental cars for local business transportation (Uber, Lyft, etc.), we know that there is now a segment of business travel that is essentially unaccounted for. We believe that, with some development effort, we may be able to at least partially close this gap in future reports.
+Employee commuting
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+107825
+Emissions calculation methodology
+Average data method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+AT&T analyzes employee commuting patterns based on job designation and utilizes average data by state / country for determining distance traveled, mode and emissions.
+Upstream leased assets
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+All upstream leased assets are included in Scope 1 or Scope 2.
+Downstream transportation and distribution
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+AT&T has determined categories 4 and 9 (upstream and downstream transportation and distribution) are relevant and have been calculated. Per the GHG Protocol “Outbound transportation and distribution services that are purchased by the reporting company are excluded from category 9 and included in category 4 (Upstream transportation and distribution) because the reporting company purchases the service”. AT&T’s total transportation footprint is included in Category 4.
+Processing of sold products
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+AT&T only sells finished goods.
+Use of sold products
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+256627
+Emissions calculation methodology
+Methodology for direct use phase emissions, please specify (AT&T utilizes the actual battery capacity of each device we sell (when available) to calculate daily energy consumption. For devices where actual battery capacity is not available, AT&T utilizes an average for each specific OEM and product type. )
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+100
+Please explain
+AT&T utilizes the actual battery capacity of each device we sell (when available) to calculate daily energy consumption. For devices where actual battery capacity is not available, AT&T utilizes an average for each specific OEM and product type.
+End of life treatment of sold products
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+AT&T analyzed emissions associated with end-of-life treatment of sold products and the emissions were deemed immaterial
+Downstream leased assets
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+700304
+Emissions calculation methodology
+Methodology for direct use phase emissions, please specify (AT&T analyzes the average energy consumption of each gateway it deploys and utilizes the total active device count to determine category electricity consumption and emissions.)
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+100
+Please explain
+AT&T analyzes the average energy consumption of each gateway it deploys and utilizes the total active device count to determine category electricity consumption and emissions.
+Franchises
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+AT&T does not franchise.
+Investments
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+AT&T is not a financial institution
+Other (upstream)
+Evaluation status
+Please select
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Other (downstream)
+Evaluation status
+Please select
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+C6.5a
+(C6.5a) Disclose or restate your Scope 3 emissions data for previous years.
+Past year 1
+Start date
+January 1 2021
+End date
+December 31 2021
+Scope 3: Purchased goods and services (metric tons CO2e)
+6843391
+Scope 3: Capital goods (metric tons CO2e)
+3160160
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+2014171
+Scope 3: Upstream transportation and distribution (metric tons CO2e)
+651805
+Scope 3: Waste generated in operations (metric tons CO2e)
+73053
+Scope 3: Business travel (metric tons CO2e)
+107644
+Scope 3: Employee commuting (metric tons CO2e)
+120972
+Scope 3: Upstream leased assets (metric tons CO2e)
+0
+Scope 3: Downstream transportation and distribution (metric tons CO2e)
+0
+Scope 3: Processing of sold products (metric tons CO2e)
+0
+Scope 3: Use of sold products (metric tons CO2e)
+254711
+Scope 3: End of life treatment of sold products (metric tons CO2e)
+0
+Scope 3: Downstream leased assets (metric tons CO2e)
+1658054
+Scope 3: Franchises (metric tons CO2e)
+0
+Scope 3: Investments (metric tons CO2e)
+0
+Scope 3: Other (upstream) (metric tons CO2e)
+0
+Scope 3: Other (downstream) (metric tons CO2e)
+0
+Comment
+Past year 2
+Start date
+January 1 2020
+End date
+December 31 2020
+Scope 3: Purchased goods and services (metric tons CO2e)
+7136519
+Scope 3: Capital goods (metric tons CO2e)
+3150431
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+2166675
+Scope 3: Upstream transportation and distribution (metric tons CO2e)
+670733
+Scope 3: Waste generated in operations (metric tons CO2e)
+65646
+Scope 3: Business travel (metric tons CO2e)
+39028
+Scope 3: Employee commuting (metric tons CO2e)
+137062
+Scope 3: Upstream leased assets (metric tons CO2e)
+195446
+Scope 3: Downstream transportation and distribution (metric tons CO2e)
+0
+Scope 3: Processing of sold products (metric tons CO2e)
+0
+Scope 3: Use of sold products (metric tons CO2e)
+2723766
+Scope 3: End of life treatment of sold products (metric tons CO2e)
+0
+Scope 3: Downstream leased assets (metric tons CO2e)
+0
+Scope 3: Franchises (metric tons CO2e)
+0
+Scope 3: Investments (metric tons CO2e)
+0
+Scope 3: Other (upstream) (metric tons CO2e)
+0
+Scope 3: Other (downstream) (metric tons CO2e)
+0
+Comment
+Past year 3
+Start date
+January 1 2019
+End date
+December 31 2019
+Scope 3: Purchased goods and services (metric tons CO2e)
+7120393
+Scope 3: Capital goods (metric tons CO2e)
+3712786
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+2272434
+Scope 3: Upstream transportation and distribution (metric tons CO2e)
+597924
+Scope 3: Waste generated in operations (metric tons CO2e)
+34267
+Scope 3: Business travel (metric tons CO2e)
+162955
+Scope 3: Employee commuting (metric tons CO2e)
+146597
+Scope 3: Upstream leased assets (metric tons CO2e)
+0
+Scope 3: Downstream transportation and distribution (metric tons CO2e)
+0
+Scope 3: Processing of sold products (metric tons CO2e)
+0
+Scope 3: Use of sold products (metric tons CO2e)
+206501
+Scope 3: End of life treatment of sold products (metric tons CO2e)
+0
+Scope 3: Downstream leased assets (metric tons CO2e)
+3705329
+Scope 3: Franchises (metric tons CO2e)
+0
+Scope 3: Investments (metric tons CO2e)
+0
+Scope 3: Other (upstream) (metric tons CO2e)
+0
+Scope 3: Other (downstream) (metric tons CO2e)
+0
+Comment
+Past year 4
+Start date
+January 1 2018
+End date
+December 31 2018
+Scope 3: Purchased goods and services (metric tons CO2e)
+8025365
+Scope 3: Capital goods (metric tons CO2e)
+3882305
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+2491626
+Scope 3: Upstream transportation and distribution (metric tons CO2e)
+576382
+Scope 3: Waste generated in operations (metric tons CO2e)
+44548
+Scope 3: Business travel (metric tons CO2e)
+97516
+Scope 3: Employee commuting (metric tons CO2e)
+159707
+Scope 3: Upstream leased assets (metric tons CO2e)
+0
+Scope 3: Downstream transportation and distribution (metric tons CO2e)
+0
+Scope 3: Processing of sold products (metric tons CO2e)
+0
+Scope 3: Use of sold products (metric tons CO2e)
+252741
+Scope 3: End of life treatment of sold products (metric tons CO2e)
+0
+Scope 3: Downstream leased assets (metric tons CO2e)
+4216923
+Scope 3: Franchises (metric tons CO2e)
+0
+Scope 3: Investments (metric tons CO2e)
+0
+Scope 3: Other (upstream) (metric tons CO2e)
+Scope 3: Other (downstream) (metric tons CO2e)
+Comment
+Past year 5
+Start date
+January 1 2017
+End date
+December 31 2017
+Scope 3: Purchased goods and services (metric tons CO2e)
+8262163
+Scope 3: Capital goods (metric tons CO2e)
+3683363
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+2601383
+Scope 3: Upstream transportation and distribution (metric tons CO2e)
+577847
+Scope 3: Waste generated in operations (metric tons CO2e)
+58499
+Scope 3: Business travel (metric tons CO2e)
+98596
+Scope 3: Employee commuting (metric tons CO2e)
+150172
+Scope 3: Upstream leased assets (metric tons CO2e)
+0
+Scope 3: Downstream transportation and distribution (metric tons CO2e)
+0
+Scope 3: Processing of sold products (metric tons CO2e)
+0
+Scope 3: Use of sold products (metric tons CO2e)
+196360
+Scope 3: End of life treatment of sold products (metric tons CO2e)
+0
+Scope 3: Downstream leased assets (metric tons CO2e)
+3525402
+Scope 3: Franchises (metric tons CO2e)
+0
+Scope 3: Investments (metric tons CO2e)
+0
+Scope 3: Other (upstream) (metric tons CO2e)
+0
+Scope 3: Other (downstream) (metric tons CO2e)
+0
+Comment
+C6.7
+(C6.7) Are carbon dioxide emissions from biogenic carbon relevant to your organization?
+Yes
+C6.7a
+(C6.7a) Provide the emissions from biogenic carbon relevant to your organization in metric tons CO2.
+CO2 emissions from biogenic carbon (metric tons CO2)	Comment
+Row 1	
+375
+C6.10
+(C6.10) Describe your gross global combined Scope 1 and 2 emissions for the reporting year in metric tons CO2e per unit currency total revenue and provide any additional intensity metrics that are appropriate to your business operations.
+Intensity figure
+0.00003957
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+4778200
+Metric denominator
+unit total revenue
+Metric denominator: Unit total
+120741000000
+Scope 2 figure used
+Market-based
+% change from previous year
+4.39
+Direction of change
+Decreased
+Reason(s) for change
+Change in renewable energy consumption
+Other emissions reduction activities
+Divestment
+Change in revenue
+Please explain
+We are comparing 2022 market-based emissions to 2021 market-based emissions:
+Scope 1&2 Emissions: -13.87% (Decrease)
+Revenue: -9.92% (Decrease)
+4.78 million MTCO2e/$120.74 Billion dollars
+Emissions reduction activities, as well as the continuing impact of RECs for Large Scale Renewable energy drove the numerator changes.
+C7. Emissions breakdowns
+C7.1
+(C7.1) Does your organization break down its Scope 1 emissions by greenhouse gas type?
+Yes
+C7.1a
+(C7.1a) Break down your total gross global Scope 1 emissions by greenhouse gas type and provide the source of each used greenhouse warming potential (GWP).
+Greenhouse gas	Scope 1 emissions (metric tons of CO2e)	GWP Reference
+CO2
+664081
+IPCC Fifth Assessment Report (AR5 – 100 year)
+CH4
+779
+IPCC Fifth Assessment Report (AR5 – 100 year)
+N2O
+3051
+IPCC Fifth Assessment Report (AR5 – 100 year)
+HFCs
+249125
+IPCC Fifth Assessment Report (AR5 – 100 year)
+C7.2
+(C7.2) Break down your total gross global Scope 1 emissions by country/area/region.
+Country/area/region	Scope 1 emissions (metric tons CO2e)
+United States of America
+902600
+Other, please specify (Rest of world)
+14436
+C7.3
+(C7.3) Indicate which gross global Scope 1 emissions breakdowns you are able to provide.
+By activity
+C7.3c
+(C7.3c) Break down your total gross global Scope 1 emissions by business activity.
+Activity	Scope 1 emissions (metric tons CO2e)
+Ground fleet
+472241
+Refrigerant
+249124
+Stationary Generators
+105188
+Fuel
+79225
+Flight Ops
+5970
+Portable Generators
+5288
+C7.5
+(C7.5) Break down your total gross global Scope 2 emissions by country/area/region.
+Country/area/region	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+United States of America
+4766165
+3660133
+Other, please specify (Rest of world)
+196351
+201031
+C7.6
+(C7.6) Indicate which gross global Scope 2 emissions breakdowns you are able to provide.
+By activity
+C7.6c
+(C7.6c) Break down your total gross global Scope 2 emissions by business activity.
+Activity	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+Electric power
+4951969
+3850617
+Steam
+9286
+9286
+Chilled water
+1261
+1261
+C7.7
+(C7.7) Is your organization able to break down your emissions data for any of the subsidiaries included in your CDP response?
+No
+C7.9
+(C7.9) How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?
+Decreased
+C7.9a
+(C7.9a) Identify the reasons for any change in your gross global emissions (Scope 1 and 2 combined), and for each of them specify how your emissions compare to the previous year.
+Change in emissions (metric tons CO2e)	Direction of change in emissions	Emissions value (percentage)	Please explain calculation
+Change in renewable energy consumption	
+164753
+Decreased
+2.97
+Additional renewable energy certificates (RECs) retired resulted in a decrease of 164,753 MT CO2e. Compared to total Scope 1 and 2 emissions in 2021, this comprises 2.97% of the overall change in emissions. This figure compares the relative impact in Market A + B for 2022 (1,105,983 MTCO2e) versus 2022 total renewable energy kWh (2,797,982,713 kWh), and then multiplies that impact by the incremental renewable energy kWh (416,801,603 kWh), such that (1,105,983 / 2,797,982,713)*416,801,603 = 164,753 mt CO2e (2.97% decrease).
+Other emissions reduction activities	
+1091450
+Decreased
+19.67
+Emissions reductions activities reduced our Scope 1 and 2 emissions by approximately 1,091,450 MTCO2e. When compared to CY 2021's scope 1 and scope 2 market-based total of 5,481,610 MT CO2e, this results in a 19.9% decrease (-1,091,450 / 5,481,610) * 100 = -19.67%).
+Divestment	
+169911
+Decreased
+3.06
+The divestment of WarnerMedia represents a total decrease of 169,911 MTCO2e using 2021 WarnerMedia emissions totals, which is a 3.06% decrease in total Scope 1 and 2 emissions compared to 2021 (-169,911/5,547,709)*100=-3.06%).
+Acquisitions		
+<Not Applicable>
+Mergers		
+<Not Applicable>
+Change in output		
+<Not Applicable>
+Change in methodology	
+273775
+Decreased
+4.93
+The change in methodology considered here relates to updated emission factors for the current reporting season. Here, we accounted for the differences in emissions for each emission source relative to the emission factors available for 2021 reporting. We are calculating and adding to this the actual emissions difference for the operation of our fleet of natural gas fuel cells.
+Scope 1 + Scope 2 EF changes + fuel cell EF changes = -272,846 + -929 = -273,775 MTCO2e (-4.93%)
+Change in boundary		
+<Not Applicable>
+Change in physical operating conditions		
+<Not Applicable>
+Unidentified	
+930379
+Increased
+16.77
+The value of unidentified changes in emissions is +930,379 MTCO2e. When compared to CY 2021's scope 1 and 2 total of 5,547,709 MTCO2e, this results in a 16.77% increase ((930,379 / 5,547,709) * 100 = 16.77%).
+Other		
+<Not Applicable>
+C7.9b
+(C7.9b) Are your emissions performance calculations in C7.9 and C7.9a based on a location-based Scope 2 emissions figure or a market-based Scope 2 emissions figure?
+Market-based
+C8. Energy
+C8.1
+(C8.1) What percentage of your total operational spend in the reporting year was on energy?
+More than 0% but less than or equal to 5%
+C8.2
+(C8.2) Select which energy-related activities your organization has undertaken.
+Indicate whether your organization undertook this energy-related activity in the reporting year
+Consumption of fuel (excluding feedstocks)	
+Yes
+Consumption of purchased or acquired electricity	
+Yes
+Consumption of purchased or acquired heat	
+No
+Consumption of purchased or acquired steam	
+Yes
+Consumption of purchased or acquired cooling	
+Yes
+Generation of electricity, heat, steam, or cooling	
+Yes
+C8.2a
+(C8.2a) Report your organization’s energy consumption totals (excluding feedstocks) in MWh.
+Heating value	MWh from renewable sources	MWh from non-renewable sources	Total (renewable and non-renewable) MWh
+Consumption of fuel (excluding feedstock)	
+HHV (higher heating value)
+1698
+2704622
+2706321
+Consumption of purchased or acquired electricity	
+<Not Applicable>
+2797983
+10437749
+13235732
+Consumption of purchased or acquired heat	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired steam	
+<Not Applicable>
+0
+41000
+41000
+Consumption of purchased or acquired cooling	
+<Not Applicable>
+0
+12453
+12453
+Consumption of self-generated non-fuel renewable energy	
+<Not Applicable>
+0
+<Not Applicable>
+0
+Total energy consumption	
+<Not Applicable>
+2799681
+13195825
+15995506
+C8.2b
+(C8.2b) Select the applications of your organization’s consumption of fuel.
+Indicate whether your organization undertakes this fuel application
+Consumption of fuel for the generation of electricity	
+Yes
+Consumption of fuel for the generation of heat	
+Yes
+Consumption of fuel for the generation of steam	
+No
+Consumption of fuel for the generation of cooling	
+No
+Consumption of fuel for co-generation or tri-generation	
+No
+C8.2c
+(C8.2c) State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.
+Sustainable biomass
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other biomass
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+1698
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+1698
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+B5, B10 & B20 biomass calculated as to the biomass percentage of the fuel type. Remainder (diesel) apportioned to Oil.
+Other renewable fuels (e.g. renewable hydrogen)
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Coal
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Oil
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+2238765
+MWh fuel consumed for self-generation of electricity
+406114
+MWh fuel consumed for self-generation of heat
+1832651
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Gas
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+465857
+MWh fuel consumed for self-generation of electricity
+38749
+MWh fuel consumed for self-generation of heat
+427108
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other non-renewable fuels (e.g. non-renewable hydrogen)
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Total fuel
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+2706321
+MWh fuel consumed for self-generation of electricity
+444863
+MWh fuel consumed for self-generation of heat
+2261457
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+C8.2d
+(C8.2d) Provide details on the electricity, heat, steam, and cooling your organization has generated and consumed in the reporting year.
+Total Gross generation (MWh)	Generation that is consumed by the organization (MWh)	Gross generation from renewable sources (MWh)	Generation from renewable sources that is consumed by the organization (MWh)
+Electricity	
+265943
+261786
+4158
+0
+Heat	
+0
+0
+0
+0
+Steam	
+0
+0
+0
+0
+Cooling	
+0
+0
+0
+0
+C8.2e
+(C8.2e) Provide details on the electricity, heat, steam, and/or cooling amounts that were accounted for at a zero or near-zero emission factor in the market-based Scope 2 figure reported in C6.3.
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Unbundled procurement of energy attribute certificates (EACs)
+Energy carrier
+Electricity
+Low-carbon technology type
+Solar
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+18176
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Southern California Edison Green Rate Program
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Financial (virtual) power purchase agreement (VPPA)
+Energy carrier
+Electricity
+Low-carbon technology type
+Wind
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+10777
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+Yes
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+2022
+Comment
+Large-Scale Solar Energy in PJM territory with RECs swapped in ERCOT
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Financial (virtual) power purchase agreement (VPPA)
+Energy carrier
+Electricity
+Low-carbon technology type
+Wind
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+2707583
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+Yes
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+2019
+Comment
+Large-Scale Solar Energy in ERCOT and NAR
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Unbundled procurement of energy attribute certificates (EACs)
+Energy carrier
+Electricity
+Low-carbon technology type
+Hydropower (capacity unknown)
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+52786
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Calpine Energy hydroelectric energy supply contract.
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Unbundled procurement of energy attribute certificates (EACs)
+Energy carrier
+Electricity
+Low-carbon technology type
+Solar
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+8661
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Pacific Gas & Electric Solar Choice Program
+C8.2g
+(C8.2g) Provide a breakdown by country/area of your non-fuel energy consumption in the reporting year.
+Country/area
+United States of America
+Consumption of purchased electricity (MWh)
+12734218
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+<Not Applicable>
+Consumption of purchased heat, steam, and cooling (MWh)
+53453
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Other, please specify (Rest of the world)
+Consumption of purchased electricity (MWh)
+501514
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+<Not Applicable>
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+C9. Additional metrics
+C9.1
+(C9.1) Provide any additional climate-related metrics relevant to your business.
+Description
+Energy usage
+Metric value
+29.73
+Metric numerator
+Total Scope 1+2 emissions
+Metric denominator (intensity metric only)
+Total AT&T employees
+% change from previous year
+6.21
+Direction of change
+Decreased
+Please explain
+Net decrease in metric: Emissions (Scope 1 + 2 MB): -12.83% decrease; Employees: -7.06% decrease. The denominator (Employees) changed at a less negative slope than the numerator (Emissions).
+Description
+Other, please specify (Emissions Intensity)
+Metric value
+24.3
+Metric numerator
+MTCO2e
+Metric denominator (intensity metric only)
+Petabytes of data carried
+% change from previous year
+26.81
+Direction of change
+Decreased
+Please explain
+AT&T has decreased the emissions associated with the energy it procures. AT&T data traffic increased while enery consumption decreased.
+C10. Verification
+C10.1
+(C10.1) Indicate the verification/assurance status that applies to your reported emissions.
+Verification/assurance status
+Scope 1	
+Third-party verification or assurance process in place
+Scope 2 (location-based or market-based)	
+Third-party verification or assurance process in place
+Scope 3	
+Third-party verification or assurance process in place
+C10.1a
+(C10.1a) Provide further details of the verification/assurance undertaken for your Scope 1 emissions, and attach the relevant statements.
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Moderate assurance
+Attach the statement
+AT&T_Assurance Statement_2023.pdf
+Page/ section reference
+AT&T Assurance Statement - Pages: 1-3
+Relevant standard
+AA1000AS
+Proportion of reported emissions verified (%)
+100
+C10.1b
+(C10.1b) Provide further details of the verification/assurance undertaken for your Scope 2 emissions and attach the relevant statements.
+Scope 2 approach
+Scope 2 location-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+AT&T_Assurance Statement_2023.pdf
+Page/ section reference
+AT&T Assurance Statement - Pages: 1-3
+Relevant standard
+AA1000AS
+Proportion of reported emissions verified (%)
+100
+Scope 2 approach
+Scope 2 market-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+AT&T_Assurance Statement_2023.pdf
+Page/ section reference
+AT&T Assurance Statement - Pages: 1-3
+Relevant standard
+AA1000AS
+Proportion of reported emissions verified (%)
+100
+C10.1c
+(C10.1c) Provide further details of the verification/assurance undertaken for your Scope 3 emissions and attach the relevant statements.
+Scope 3 category
+Scope 3: Waste generated in operations
+Scope 3: Business travel
+Scope 3: Downstream leased assets
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+AT&T_Assurance Statement_2023.pdf
+Page/section reference
+AT&T Assurance Statement - Pages: 1-3
+Relevant standard
+AA1000AS
+Proportion of reported emissions verified (%)
+100
+C10.2
+(C10.2) Do you verify any climate-related information reported in your CDP disclosure other than the emissions figures reported in C6.1, C6.3, and C6.5?
+Yes
+C10.2a
+(C10.2a) Which data points within your CDP disclosure have been verified, and which verification standards were used?
+Disclosure module verification relates to	Data verified	Verification standard	Please explain
+C8. Energy
+Energy consumption
+AA100AS
+Per our Independent Accountant’s Report, "AT&T has implemented rigorous processes to collect and aggregate global energy consumption. Upon evaluating this system, Sustainable1 found that data was accurate overall, and any minor corrections were made as necessary. "
+AT&T_Assurance Statement_2023.pdf
+C11. Carbon pricing
+C11.1
+(C11.1) Are any of your operations or activities regulated by a carbon pricing system (i.e. ETS, Cap & Trade or Carbon Tax)?
+No, and we do not anticipate being regulated in the next three years
+C11.2
+(C11.2) Has your organization canceled any project-based carbon credits within the reporting year?
+No
+C11.3
+(C11.3) Does your organization use an internal price on carbon?
+No, but we anticipate doing so in the next two years
+C12. Engagement
+C12.1
+(C12.1) Do you engage with your value chain on climate-related issues?
+Yes, our suppliers
+Yes, our customers/clients
+C12.1a
+(C12.1a) Provide details of your climate-related supplier engagement strategy.
+Type of engagement
+Information collection (understanding supplier behavior)
+Details of engagement
+Collect GHG emissions data at least annually from suppliers 
+Collect targets information at least annually from suppliers 
+Collect climate-related risk and opportunity information at least annually from suppliers  
+Collect other climate related information at least annually from suppliers
+% of suppliers by number
+1
+% total procurement spend (direct and indirect)
+83
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+We focus on this group of suppliers because they represent over 80% of our spend, in line with our public goal to, “by 2025, lead our supply chain to improve its social and environmental impacts by integrating sustainability performance metrics into our sourcing decisions for 80% of our spend.” By focusing on this group of large suppliers, we can maximize our impact and address the largest sources of Scope 3 emissions. Working with the CDP Supply Chain program, AT&T annually reaches out to approximately 30 suppliers. Through our engagement with CDP Supply Chain, we collect climate change and emissions information from our suppliers.
+Impact of engagement, including measures of success
+Working with the CDP Supply Chain program, AT&T annually reaches out to approximately 300 suppliers, representing over 80% of AT&T Communications spend. We focus on our top 80% of spend as a way to enable our leadership in supplier engagement and track progress toward our public supply chain goals. AT&T continues to make progress with efforts including: incorporation of sustainability clauses into agreements and RFPs, training our sourcing managers on the principles of sustainability, and providing updates to sourcing managers on supplier sustainability performance. AT&T will continue to expand incorporation of sustainability-oriented standards and analyses into sourcing decisions.
+
+We measure success in our supplier engagement via increases in the percent of suppliers providing reliable emissions data. A successful program would see high numbers of suppliers requested to respond to the CDP questionnaire tracking emissions (80%+) as we know that this is the first step to reducing emissions. In 2022, suppliers representing 73% of spend reported that they track GHG emissions, an increase from 65% in 2021, which represents 97% of suppliers AT&T requested to complete the CDP questionnaire in 2022. 61% have specific GHG goals, representing 81% of requested suppliers.
+Comment
+AT&T supplier emissions data collection does not partition emission data by type of supplier engagement. We are, therefore, opting to provide the % total procurement spend in lieu of the % of supplier-related Scope 3 emissions.
+Type of engagement
+Engagement & incentivization (changing supplier behavior)
+Details of engagement
+Climate change performance is featured in supplier awards scheme
+% of suppliers by number
+1
+% total procurement spend (direct and indirect)
+83
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+In 2022, AT&T suppliers utilized the CDP Supply Chain Questionnaire and the TIA Sustainability Assessor metrics to measure and report their GHG emissions and sustainability progress. This provides our company and the other participating companies the necessary means to benchmark supplier emissions and work with suppliers on making improvements. We focus on this group of suppliers because they represent over 80% of our spend, in line with our public goal to, “by 2025, lead our supply chain to improve its social and environmental impacts by integrating sustainability performance metrics into our sourcing decisions for 80% of our spend.” By focusing on this group of large suppliers, can maximize our impact and address the largest sources of Scope 3 emissions. We recognize suppliers based on their score on the CDP Supply Chain Questionnaire, whether they measure and report their emissions, whether they have a science-based target for Scope 1 and Scope 2 emissions reduction and outstanding performance on the TIA Sustainability Assessor aligning on TL 9000 quality standards across 10 areas of sustainability.
+Impact of engagement, including measures of success
+AT&T annually reaches out to approximately 300 of our suppliers, representing over 80% of AT&T Communications spend. In alignment with our 2025 goal of “leading our supply chain to improve its social and environmental impacts by integrating sustainability metrics into our sourcing decisions,” we are focusing on standardized industry metrics. Through our work with CDP Supply Chain, the Joint Audit Cooperation (JAC) and TIA-QuEST Forum, we work to move our suppliers along an industry roadmap to continuously improve measurements benchmarking and results in sustainable supplier performance. We measure success in our supplier engagement through our suppliers setting their own emissions reduction goals. Our Scope 3 SBT is to have 50% of our spend be with suppliers with their own Scope 1 and 2 science-based targets. In 2022, we achieved this goal two years ahead of schedule with 53% of our spend in 2022 being with suppliers with at least Scope 1 and Scope 2 emissions reduction targets. AT&T’s support of our suppliers in setting emissions reduction targets and rewarding these efforts reduces the emissions impacts in our supply chain.
+Comment
+AT&T supplier emissions data collection does not partition emission data by type of supplier engagement. We are, therefore, opting to provide the % total procurement spend in lieu of the % of supplier-related Scope 3 emissions.
+Type of engagement
+Other, please specify (Collaboration & Onboarding)
+Details of engagement
+Other, please specify (Run an engagement campaign to educate suppliers about climate change. Provide training, support, and best practices on how to set science-based targets .)
+% of suppliers by number
+1
+% total procurement spend (direct and indirect)
+83
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+We focus on this group of suppliers because they represent over 80% of our spend, in line with our public goal to, “by 2025, lead our supply chain to improve its social and environmental impacts by integrating sustainability performance metrics into our sourcing decisions for 80% of our spend.” By focusing on this group of large suppliers, can maximize our impact and address the largest sources of Scope 3 emissions.
+Impact of engagement, including measures of success
+In 2022, AT&T held trainings for approximately 200 sourcing managers to improve their understanding of climate change and the importance of reducing their environmental impact. Enhancing our sourcing managers’ understanding will enable them to better work with suppliers to support AT&T’s ESG goals and their own ESG journeys, and we plan to offer the training again in 2023. We also produced and online training for suppliers to teach companies about calculating emissions and setting targets to reduce their emissions which was rolled out for the 2023 reporting period for all suppliers requested to complete the CDP Questionnaire. In our first year of utilizing the training, we hope to have at least one representative from 15 companies complete the training and provide feedback on their learning and suggestions to improve the training going forward.
+Comment
+C12.1b
+(C12.1b) Give details of your climate-related engagement strategy with your customers.
+Type of engagement & Details of engagement
+Collaboration & innovation	Run a campaign to encourage innovation to reduce climate change impacts
+% of customers by number
+29
+% of customer - related Scope 3 emissions as reported in C6.5
+Please explain the rationale for selecting this group of customers and scope of engagement
+Through the Connected Climate Initiative, we are focused on delivering connectivity-driven solutions to help our AT&T Business customers reduce emissions. We have identified 9 key Impact Areas where AT&T connectivity can play a fundamental role in reducing emissions, including Modern Workplace, Transportation, Healthcare, Smart Cities and Buildings, Industrial, Energy, Consumer/Retail, Food, Beverage and Agriculture, and Reseller. AT&T Business customers represent 29% of annual revenue. We calculated this based on our 2022 Business Solutions revenue of approximately $35 billion. $35 billion is 29% of AT&T’s 2022 annual revenue of $120.7 billion.
+
+We engage our customers in two ways. The first way is by introducing the idea of Smart Climate Solutions to customers who have set emissions reduction goals. As more customers set emissions reduction goals, we will position AT&T products and services that can help them achieve those goals. This can happen as part of a customer RFP response, executive briefing, or other customer meeting(s). Secondly, If the customer would like to expand collaboration beyond a traditional vendor relationship with us, we introduce them to AT&T’s Connected Climate Initiative (CCI). CCI represents a group of complementary technology companies, customers, academics and environmental NGOs that share the goal of reducing emissions at scale.
+Impact of engagement, including measures of success
+We measure success in three ways:
+1. Customer engagement: We leverage internal systems to monitor customer engagement to see what types of solutions are of highest value.
+2. Revenue: We also track revenue associated with Smart Climate Solutions. We are still in early stages of automating the tracking for both these metrics, but our long-term vision is to use these metrics to guide our path forward to maximize customer value and emissions reduction.
+3. Emissions: We track AT&T-enabled customers emissions reduction metric via a methodology we developed in collaboration with BSR and the Carbon Trust. We measure our progress against our Gigaton goal by calculating the cumulative impact of emissions reduction from 2018, when we first calculated our emissions reduction enablement, until 2035. When we set this goal, we established a directional pathway to achieving it. We consider our progress to be a success if we have met at least 100% of the annual trajectory as defined by the pathway. At the end of 2022, we calculated cumulative AT&T-enabled customer emissions reductions of 149.2 million metric tons of CO2e – 15% toward our goal, in our first five years.
+
+Details on our emissions reduction progress can be found here: https://about.att.com/ecms/dam/csr/2023/Environment/2022AT&T_Gigaton_Goal_Progress_Update_FINAL.pdf
+C12.2
+(C12.2) Do your suppliers have to meet climate-related requirements as part of your organization’s purchasing process?
+Yes, climate-related requirements are included in our supplier contracts
+C12.2a
+(C12.2a) Provide details of the climate-related requirements that suppliers have to meet as part of your organization’s purchasing process and the compliance mechanisms in place.
+Climate-related requirement
+Other, please specify (Our Citizenship & Sustainability clause is standard in all contracts with significant suppliers.)
+Description of this climate related requirement
+AT&T’s agreements contractually compel suppliers to conduct business with respect for corporate citizenship, sustainability supplier diversity and human rights, and to conduct their business operations in a manner consistent with AT&T’s corporate social responsibility (CSR) practices. AT&T expects suppliers to adhere to high social standards, reduce the environmental impact of their products and services, support energy efficiencies and respond to AT&T’s sustainability-related information requests.
+% suppliers by procurement spend that have to comply with this climate-related requirement
+95
+% suppliers by procurement spend in compliance with this climate-related requirement
+95
+Mechanisms for monitoring compliance with this climate-related requirement
+Supplier self-assessment
+Response to supplier non-compliance with this climate-related requirement
+Other, please specify (Suppliers not in compliance with our requirements are removed from the opportunity to be listed as an AT&T preferred supplier.)
+C12.3
+(C12.3) Does your organization engage in activities that could either directly or indirectly influence policy, law, or regulation that may impact the climate?
+Row 1
+External engagement activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+Yes, we engage directly with policy makers
+Yes, our membership of/engagement with trade associations could influence policy, law, or regulation that may impact the climate
+Does your organization have a public commitment or position statement to conduct your engagement activities in line with the goals of the Paris Agreement?
+Yes
+Attach commitment or position statement(s)
+ClimateChangeGreenhouseGasEmissionsATTSustainabilityReporting.pdf
+ATT 2023 Climate Strategy & Transition Plan.pdf
+Describe the process(es) your organization has in place to ensure that your external engagement activities are consistent with your climate commitments and/or climate transition plan
+We engage in activities that align with our ESG Policies, Climate Strategy and Transition Plan. When assessing organizations to support and/or partner/collaborate with, we ensure their values and goals align with ours.
+Primary reason for not engaging in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+Explain why your organization does not engage in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+C12.3a
+(C12.3a) On what policy, law, or regulation that may impact the climate has your organization been engaging directly with policy makers in the reporting year?
+Specify the policy, law, or regulation on which your organization is engaging with policy makers
+Carbon fee and dividend along the lines proposed by Climate Leadership Council (CLC). Fee assessed per ton of carbon emissions, distributed to US citizens as regular dividend, border adjustment mechanism and regulatory simplification. This would need to be accomplished through federal legislation
+Category of policy, law, or regulation that may impact the climate  
+Carbon pricing, taxes, and subsidies
+Focus area of policy, law, or regulation that may impact the climate
+Carbon taxes
+Policy, law, or regulation geographic coverage
+National
+Country/area/region the policy, law, or regulation applies to
+United States of America
+Your organization’s position on the policy, law, or regulation
+Support with no exceptions
+Description of engagement with policy makers
+AT&T is a founding member of the Climate Leadership Council. We support the CLC’s plan that envisions a rising fee on carbon emissions, rebating revenues as dividends to all Americans, a border-adjustment mechanism and regulatory simplification
+Details of exceptions (if applicable) and your organization’s proposed alternative approach to the policy, law or regulation
+<Not Applicable>
+Have you evaluated whether your organization’s engagement on this policy, law, or regulation is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+Please explain whether this policy, law or regulation is central to the achievement of your climate transition plan and, if so, how?
+AT&T assesses how regulations, developments in technology, and market or reputational factors could affect our company. An increase in the cost of GHG emissions, such as through an imposed fuel or carbon tax or other pricing mechanism, may drive up the cost of fossil fuel-based energy. AT&T relies in part on fossil fuel-based energy to power our network and fleet. We also purchase a significant amount of electricity to power our operations. While we are working to increase the amount of renewable electricity in our portfolio, we still rely on the grid and non-renewable sources to ensure our energy supply. Any policy that increases the cost of GHG emissions and/or a policy that may drive up the cost of fossil fuel-based energy or power has the potential to increase our operating costs.
+C12.3b
+(C12.3b) Provide details of the trade associations your organization is a member of, or engages with, which are likely to take a position on any policy, law or regulation that may impact the climate.
+Trade association
+Other, please specify (Global eSustainability Initiative (GeSI))
+Is your organization’s position on climate change policy consistent with theirs?
+Consistent
+Has your organization attempted to influence their position in the reporting year?
+Yes, we publicly promoted their current position
+Describe how your organization’s position is consistent with or differs from the trade association’s position, and any actions taken to influence their position
+The Global eSustainability Initiative (GeSI) fosters open cooperation across international boundaries and the promotion of technologies that foster sustainable development. GeSI brings together leading information and communications technology (ICT) companies — including telecommunications service providers and manufacturers as well as industry associations — and nongovernmental organizations committed to achieving sustainability objectives through innovative technology. Through our participation in the GeSI organization, AT&T is represented in projects and activities centered in the three primary focus areas of GeSI: Climate Change (i.e., climate mitigations, energy efficiency, Science Based Targets), Supply Chain (i.e., responsible supply chains, conflict minerals) and Human Rights.
+
+In 2015, Accenture conducted a study (SMARTer 2030) on behalf of the Global eSustainability Initiative (GeSI) and its member companies, including AT&T. The SMARTer 2030 report showed that the ICT industry can enable a low-carbon society and help respond to the climate change challenge by 2030. ICT-enabled solutions offer the potential to reduce GHG emissions by 9.7 times the amount of carbon emitted.
+Funding figure your organization provided to this trade association in the reporting year (currency as selected in C0.4)
+Describe the aim of your organization’s funding
+<Not Applicable>
+Have you evaluated whether your organization’s engagement with this trade association is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+Trade association
+Business Roundtable
+Is your organization’s position on climate change policy consistent with theirs?
+Consistent
+Has your organization attempted to influence their position in the reporting year?
+Yes, we publicly promoted their current position
+Describe how your organization’s position is consistent with or differs from the trade association’s position, and any actions taken to influence their position
+BRT’s Statement on Climate Change: “Because the consequences of global warming for society and ecosystems are potentially serious and far-reaching, steps to address the risks of such warming are prudent even now, while the science continues to evolve. The BRT supports collective actions that will lead to the reduction of GHG emissions on a global basis with the goal of slowing increases in GHG concentrations in the atmosphere and ultimately stabilizing them at levels that will address the risks of climate change. These actions need to be coordinated with efforts to address other urgent world priorities, such as reducing poverty, improving public health, reducing environmental degradation and raising living standards. Reliable and affordable world supplies of energy are essential for meeting these challenges. Although BRT supports actions to address global warming, our members have a range of views and preferences about the policy tools that will best achieve that objective...BRT supports an open and constructive dialogue about the principles that should shape climate policy and the pros and cons of various options.”
+AT&T recognizes that climate change is happening, that GHG emissions are contributing to it, and that transitioning to a more resource efficient world will be a primary determinant of success in the 21st century global economy. We also believe that our technology is central to the success of this emerging global economy. We are committed to helping our customers retain their competitive edge in the global marketplace by leveraging our broadband network and services to create more economic value while reducing their energy consumption and emissions. We are also deeply committed to ongoing research, development and innovation that will introduce future products and services to help our customers live their lives and run their businesses more sustainably. At the same time, we must continually strive to reduce our own energy intensity and GHG emissions in all of our operations. As demand for our products and services increases, the amount of energy needed to power our network will also increase. Despite this challenge, we are committed to operating in an environmentally responsible and sustainable manner through energy and water conservation and by focusing our efforts where they will have the most impact. We are also committed to working with our suppliers to limit environmental impacts and GHG emissions in our supply chain.
+Funding figure your organization provided to this trade association in the reporting year (currency as selected in C0.4)
+Describe the aim of your organization’s funding
+<Not Applicable>
+Have you evaluated whether your organization’s engagement with this trade association is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+Trade association
+US Chamber of Commerce
+Is your organization’s position on climate change policy consistent with theirs?
+Consistent
+Has your organization attempted to influence their position in the reporting year?
+Yes, we publicly promoted their current position
+Describe how your organization’s position is consistent with or differs from the trade association’s position, and any actions taken to influence their position
+According to the U.S. Chamber’s website: “The climate is changing and humans are contributing to these changes. We believe that there is much common ground on which all sides of this discussion could come together to address climate change with policies that are practical, flexible, predictable and durable. We believe in a policy approach that acknowledges the costs of action and inaction and the competitiveness of the U.S. economy.”
+
+AT&T recognizes the importance of transitioning to a world that is more resource efficient. We believe that the ability to increase resource efficiency and reduce greenhouse gas emissions will be a primary determinant of success in the 21st century world economy. We also believe that technology is an important component of this transition.
+Funding figure your organization provided to this trade association in the reporting year (currency as selected in C0.4)
+Describe the aim of your organization’s funding
+<Not Applicable>
+Have you evaluated whether your organization’s engagement with this trade association is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+C12.4
+(C12.4) Have you published information about your organization’s response to climate change and GHG emissions performance for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Publication
+In mainstream reports
+Status
+Complete
+Attach the document
+2023-notice-of-annual-meeting-of-stockholders-and-proxy-statement.pdf
+Page/Section reference
+AT&T Proxy - Pages: SUM3, 27, 29-31, 48
+Content elements
+Governance
+Strategy
+Emissions figures
+Emission targets
+Comment
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+ClimateChangeGreenhouseGasEmissionsATTSustainabilityReporting.pdf
+Page/Section reference
+Climate Change & Greenhouse Gas Issue Brief - Pages: 1-16
+Content elements
+Governance
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Comment
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+2022_2023 ATT-Sustainability-Summary.pdf
+Page/Section reference
+ESG Summary - Pages: 3, 23-27
+Content elements
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Other metrics
+Comment
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+SASB _ AT&T Sustainability Reporting.pdf
+Page/Section reference
+SASB Index - Page: 2
+Content elements
+Other metrics
+Comment
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+ATT TCFD FINAL 2023.pdf
+Page/Section reference
+TCFD Index - Pages: 1-15
+Content elements
+Governance
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Comment
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+Energy Management _ AT&T Sustainability Reporting.pdf
+Page/Section reference
+Energy Management Issue Brief - Pages: 1-8
+Content elements
+Governance
+Strategy
+Other metrics
+Comment
+Publication
+In mainstream reports
+Status
+Complete
+Attach the document
+2022-complete-annual-report.pdf
+Page/Section reference
+AT&T 2022 Corporate Annual Report - Page 4, 27,-29, 32
+Content elements
+Risks & opportunities
+Emission targets
+Comment
+C12.5
+(C12.5) Indicate the collaborative frameworks, initiatives and/or commitments related to environmental issues for which you are a signatory/member.
+Environmental collaborative framework, initiative and/or commitment	Describe your organization’s role within each framework, initiative and/or commitment
+Row 1	
+Global e-Sustainability Initiative
+UN Global Compact
+• GeSI: Through our participation in the Global e-Sustainability Initiative (GeSI), AT&T is represented in projects and activities centered in the three primary focus areas of GeSI: Climate Change (i.e., climate mitigations, energy efficiency, Science Based Targets), Supply Chain (i.e., responsible supply chains, conflict minerals) and Human Rights. (source: CDP 12.3b)
+• UN Global Compact: As a signatory to the United Nations Global Compact (UNGC), AT&T supports the UNGC’s 10 principles on these topics. We seek to apply these principles in the strategy and operations of our company, and our action on these topics is expressed throughout our reporting materials. (source: UNGC Communication on Progress)
+C15. Biodiversity
+C15.1
+(C15.1) Is there board-level oversight and/or executive management-level responsibility for biodiversity-related issues within your organization?
+Board-level oversight and/or executive management-level responsibility for biodiversity-related issues	Description of oversight and objectives relating to biodiversity	Scope of board-level oversight
+Row 1	
+Yes, both board-level oversight and executive management-level responsibility
+AT&T’s SVP of Corporate Social Responsibility (CSR) and ESG, who is also our Chief Sustainability Officer (CSO), is deeply involved in major climate-related strategy decisions, such as the planning and execution of projects, including our collaboration with the National Fish and Wildlife Foundation in 2020 and the Arbor Day Foundation in 2021, both of which have biodiversity impacts. The CSO also oversees ESG goal setting, such as our emissions and waste goals, which have biodiversity impacts.
+
+The Governance and Policy Committee (GPC) of our Board has the highest level of responsibility for climate change-related activities within AT&T. The GPC has four members and meets four times/year. Our CSO is present at each GPC meeting to discuss climate-related issues as they relate to AT&T’s overall strategy, which has biodiversity impacts. The GPC provides input/guidance in the development of our strategy, as well as our programmatic and managerial approach. Our CSO also meets intermittently with individual members of the GPC to discuss sustainability-related topics of interest to the individual committee member.
+
+The GPC’s charter outlines the Committee’s responsibilities related to public policy and specifically cites its authority over corporate policies and practices in furtherance of our CSR activities, including environmental policies. Programmatic operations for climate change-related activities fall under CSR at AT&T, therefore the GPC is ultimately responsible for biodiversity related topics, such as our climate change strategy.
+<Not Applicable>
+C15.2
+(C15.2) Has your organization made a public commitment and/or endorsed any initiatives related to biodiversity?
+Indicate whether your organization made a public commitment or endorsed any initiatives related to biodiversity	Biodiversity-related public commitments	Initiatives endorsed
+Row 1	
+Yes, we have made public commitments and publicly endorsed initiatives related to biodiversity
+Commitment to not explore or develop in legally designated protected areas
+Commitment to respect legally designated protected areas
+Commitment to avoidance of negative impacts on threatened and protected species
+Other, please specify (US laws and regulations)
+C15.3
+(C15.3) Does your organization assess the impacts and dependencies of its value chain on biodiversity?
+Impacts on biodiversity
+Indicate whether your organization undertakes this type of assessment
+Please select
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+Dependencies on biodiversity
+Indicate whether your organization undertakes this type of assessment
+Please select
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+C15.4
+(C15.4) Does your organization have activities located in or near to biodiversity- sensitive areas in the reporting year?
+Please select
+C15.5
+(C15.5) What actions has your organization taken in the reporting year to progress your biodiversity-related commitments?
+Have you taken any actions in the reporting period to progress your biodiversity-related commitments?	Type of action taken to progress biodiversity- related commitments
+Row 1	
+Please select
+<Not Applicable>
+C15.6
+(C15.6) Does your organization use biodiversity indicators to monitor performance across its activities?
+Does your organization use indicators to monitor biodiversity performance?	Indicators used to monitor biodiversity performance
+Row 1	
+Please select
+Please select
+C15.7
+(C15.7) Have you published information about your organization’s response to biodiversity-related issues for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Report type	Content elements	Attach the document and indicate where in the document the relevant biodiversity information is located
+In voluntary sustainability report or other voluntary communications
+Content of biodiversity-related policies or commitments
+Governance
+Climate Change & GHG Issue Brief - Pages: 11-12
+ClimateChangeGreenhouseGasEmissionsATTSustainabilityReporting.pdf
+C16. Signoff
+C-FI
+(C-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please note that this field is optional and is not scored.
+C16.1
+(C16.1) Provide details for the person that has signed off (approved) your CDP climate change response.
+Job title	Corresponding job category
+Row 1	
+Senior Executive Vice President and Chief Financial Officer
+Chief Financial Officer (CFO)

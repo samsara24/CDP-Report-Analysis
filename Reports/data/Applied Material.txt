@@ -1,0 +1,3106 @@
+CDP
+More... ZC
+About us Our work Why disclose? Become a member Data and insights
+Applied Materials Inc. - Climate Change 2023
+C0. Introduction
+C0.1
+(C0.1) Give a general description and introduction to your organization.
+  
+
+Applied Materials, Inc. (Nasdaq: AMAT) provides manufacturing equipment, services, and software to the semiconductor, display and related industries.  Founded in 1967, Applied Materials is the leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. Our expertise in modifying materials at atomic levels and on an industrial scale enables customers to transform possibilities into reality. From our commitment to the well-being of our employees and their communities, to our sustainable and ethical business practices, we are focused on our goal to Make Possible® a Better Future.  
+
+Applied Materials is committed to growing profitably and sustaining our business in an environmentally and socially responsible manner. We use our resources and technology leadership to enable the creation of products that improve the way people live.  As of the end of 2022, Applied Materials employed approximately 33,000 regular full-time employees and owned a total of approximately 8,152,000 square feet of space and leased another 4,267,000 square feet of space for offices, plants and warehouses, and research and development centers.  
+
+
+
+In 2022 we continued to make progress across our various climate-related goals, which include: 
+
+• 100% renewable electricity in the U.S. by 2022 - achieved
+
+• 100% renewable electricity globally by 2030 
+
+• 50% reduction in our Scope 1 and Scope 2 emissions by 2030 
+
+• Set our Scope 3 Science-Based Target of reaching a 55% intensity-based reduction of Scope 3 Product-use emissions per wafer by 2030, from a 2019 base year
+
+C0.2
+(C0.2) State the start and end date of the year for which you are reporting data and indicate whether you will be providing emissions data for past reporting years.
+Reporting year
+Start date
+November 1 2021
+End date
+October 31 2022
+Indicate if you are providing emissions data for past reporting years
+Yes
+Select the number of past reporting years you will be providing Scope 1 emissions data for
+3 years
+Select the number of past reporting years you will be providing Scope 2 emissions data for
+3 years
+Select the number of past reporting years you will be providing Scope 3 emissions data for
+1 year
+C0.3
+(C0.3) Select the countries/areas in which you operate.
+Canada
+China
+Finland
+France
+Germany
+Greece
+India
+Ireland
+Israel
+Italy
+Japan
+Malaysia
+Netherlands
+Philippines
+Republic of Korea
+Singapore
+Taiwan, China
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+C0.4
+(C0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+C0.5
+(C0.5) Select the option that describes the reporting boundary for which climate-related impacts on your business are being reported. Note that this option should align with your chosen approach for consolidating your GHG inventory.
+Operational control
+C0.8
+(C0.8) Does your organization have an ISIN code or another unique identifier (e.g., Ticker, CUSIP, etc.)?
+Indicate whether you are able to provide a unique identifier for your organization	Provide your unique identifier
+Yes, a Ticker symbol
+AMAT
+C1. Governance
+C1.1
+(C1.1) Is there board-level oversight of climate-related issues within your organization?
+Yes
+C1.1a
+(C1.1a) Identify the position(s) (do not include any names) of the individual(s) on the board with responsibility for climate-related issues.
+Position of individual or committee	Responsibilities for climate-related issues
+Board-level committee
+Responsibilities: Applied’s Corporate Governance and Nominating Committee (CGNC) oversees sustainability and climate-related strategy to foster accountability. On a quarterly basis the CGNC is
+briefed by the Director of ESG and Managing Director of Environmental, Health and Safety (EHS) on the status of Applied’s company-wide environmental, social and governance (ESG) strategy,
+which is focused on integrating sustainability into our operations and company culture through initiatives aligned to business strategy that address a broad set of stakeholders, including customers,
+employees, suppliers, governments and our local communities. The CGNC reviews progress on Applied’s various climate-related goals, which address the company’s emissions, renewable electricity
+procurement, and product efficiency, as well as climate-related reporting and disclosures (namely our annual sustainability report). The CGNC also reviews Applied Materials’ overall ESG strategy, including the performance and evolution of the company’s climate and energy goals and initiatives. Example of climate-related actions: The CGNC recently reviewed and provided input on Applied Materials’ climate-related disclosures, including GHG data, progress on goals, and our TCFD report. The CGNC also discussed with management SEC proposed rules on climate-related disclosures.
+C1.1b
+(C1.1b) Provide further details on the board’s oversight of climate-related issues.
+Frequency with which climate-related issues are a scheduled agenda item	Governance mechanisms into which climate-related issues are integrated	Scope of board-level oversight	Please explain
+Scheduled – all meetings
+Overseeing and guiding employee incentives
+Reviewing and guiding strategy
+Monitoring the implementation of a transition plan
+Monitoring progress towards corporate targets
+<Not Applicable>
+Applied Materials’ Senior Director of ESG presents progress on Applied Materials’ overall ESG strategy and climate-related goals and initiatives to the CGNC (Board committee) on a quarterly basis. This includes the review of performance across all climate-related goals, including our absolute emission reduction goals, 100% renewable electricity goals, and our product efficiency goals, as well as a discussion of actions being taken to continue progress towards these goals. The CGNC also reviews Applied Materials’ ESG strategy to ensure the company is continuing to prioritize the most significant climate-related issues within its strategy and is prepared for any new trends or expectations.
+C1.1d
+(C1.1d) Does your organization have at least one board member with competence on climate-related issues?
+Board member(s) have competence on climate-related issues	Criteria used to assess competence of board member(s) on climate-related issues	Primary reason for no board-level competence on climate-related issues	Explain why your organization does not have at least one board member with competence on climate-related issues and any plans to address board-level competence in the future
+Row 1	
+Yes
+Criteria include:
+- Previous tangible professional experience related to climate-related issues (i.e., renewable energy)
+- Understanding of key climate-related concepts, including GHG reporting principles and considerations
+- Awareness and understanding of emerging climate-related reporting and disclosure expectations or regulations
+<Not Applicable>
+<Not Applicable>
+C1.2
+(C1.2) Provide the highest management-level position(s) or committee(s) with responsibility for climate-related issues.
+Position or committee
+Chief Executive Officer (CEO)
+Climate-related responsibilities of this position
+Implementing a climate transition plan
+Integrating climate-related issues into the strategy
+Setting climate-related corporate targets
+Monitoring progress against climate-related corporate targets
+Managing value chain engagement on climate-related issues
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+Reports to the board directly
+Frequency of reporting to the board on climate-related issues via this reporting line
+Quarterly
+Please explain
+Applied Materials’ CEO holds overall responsibility for climate-related issues. The CEO and his executive team, which represent different functions of the business, review, assess, and provide input on the company’s ESG strategy through the annual strategic review process. Tracking of our corporate 2030 climate goals, which cover Applied Materials’ emissions reductions, 100% renewable electricity, and product efficiency goals, are tracked and reviewed by this team via our Corporate Scorecard. Progress on these goals and discussion of emerging climate and energy issues and opportunities are presented for monitoring and review to the CEO and the Corporate Governance and Nominating Committee of the Board of Directors on a quarterly basis by the Senior Director of ESG.
+C1.3
+(C1.3) Do you provide incentives for the management of climate-related issues, including the attainment of targets?
+Provide incentives for the management of climate-related issues	Comment
+Row 1	
+Yes
+Objectives to incentivize progress against towards Applied Materials’ stated climate goals, including Scope 1 and 2 emissions reductions, 100% renewable electricity, and product efficiency goals, are included in our Corporate Scorecard, which is used to inform the annual incentive bonus for executives, including the CEO.
+C1.3a
+(C1.3a) Provide further details on the incentives provided for the management of climate-related issues (do not include the names of individuals).
+Entitled to incentive
+Corporate executive team
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Performance indicator(s)
+Progress towards a climate-related target
+Achievement of a climate-related target
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Objectives to incentivize progress towards Applied Materials’ climate goals are tracked and incorporated into the Corporate Scorecard, which is used to inform the annual incentive bonus. Objectives to measure progress towards the following goals are included in the scorecard:
+- 50% reduction of scope 1 and 2 emissions by 2030
+-100% renewable electricity in the U.S. by 2022, and globally by 2030
+- 30% reduction in energy and chemical consumption per wafer for semiconductor products by 2030
+- 55% reduction per wafer in Scope 3 product-use emissions by 2030
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+The incentive directly ties to ensuring progress on our climate commitments across Scope 1, 2, and 3. These targets support alignment with our climate transition plan by incentivizing emission reductions and expanded use of clean energy.
+C2. Risks and opportunities
+C2.1
+(C2.1) Does your organization have a process for identifying, assessing, and responding to climate-related risks and opportunities?
+Yes
+C2.1a
+(C2.1a) How does your organization define short-, medium- and long-term time horizons?
+From (years)	To (years)	Comment
+Short-term	
+0
+5
+Medium-term	
+5
+10
+Long-term	
+10
+30
+C2.1b
+(C2.1b) How does your organization define substantive financial or strategic impact on your business?
+ Applied Materials defines substantive financial or strategic impacts as those that could materially and adversely affect Applied Materials’ business, financial performance, continuity of operations, and/or cause reputational harm. Our risk assessment processes allow us to evaluate and prioritize the impact of emerging and ongoing risks, which would be considered substantive based on factors like probability, magnitude, and duration, depending on the scenario. The thresholds used to determine whether an impact is substantive are specific to the risk, scenarios, and time horizons evaluated; thus, generalizations on specific thresholds are difficult to provide. Some quantitative indicators we use to assess whether an impact is substantive include:  
+
+% Change to Applied Materials’ OPEX  
+% Change to Applied Materials’ profit margins  
+% Revenue gains/losses  
+% Change in market share  
+Number of days of interrupted R&D or manufacturing  
+Number of days/weeks of accelerated/delayed time to market  
+Potential for swings in stock price due to shareholder behavior  
+Presence or absence of mitigating factors  
+C2.2
+(C2.2) Describe your process(es) for identifying, assessing and responding to climate-related risks and opportunities.
+Value chain stage(s) covered
+Direct operations
+Upstream
+Downstream
+Risk management process
+Integrated into multi-disciplinary company-wide risk management process
+Frequency of assessment
+Annually
+Time horizon(s) covered
+Short-term
+Medium-term
+Long-term
+Description of process
+Identification and evaluation of climate-related risks and opportunities occurs at various levels of the business, described below.
+
+Identifying risks and opportunities:
+- During 2020-2022 Applied Materials completed its first comprehensive physical and transition risk assessments with the support of Trucost (S&P Global). To identify climate-related risks and opportunities across our value chain, the assessments relied on a blend of internal leadership stakeholder interviews and surveys, and industry benchmarking and research to determine the most relevant physical and transition climate-related risks for Applied Materials and its value chain.
+
+- Applied Materials’ ESG team uses the Datamaran platform to systematically identify and prioritize ESG-related issues (including climate, energy, and renewable energy) most important to its stakeholders. The results were informed through Applied Materials’ internal stakeholder input along with Datamaran’s aggregated research and benchmarking of external stakeholder sources (customer and industry peer reports, regulations, media, etc.)
+
+- Applied Materials’ Business Continuity team works with site-level teams to identify and track location-specific risks, which include environmental and climate-related risks. A templated approach is used to track historical risk-related events that may inform future trends.
+
+Evaluating risks and opportunities:
+- Climate-related risk is assessed by company executives relative to other multi-disciplinary company-wide risks in Applied Materials’ enterprise risk management (ERM) annual survey.
+
+- Physical climate risks were modelled for our top 32 global facilities using RCP 2.6, 4.5, and 8.5 climate scenarios and CMIP5 models to determine their statistical likelihood and identify risk factors such as wildfires, water stress, and flooding that could impact these locations from 2020-2050. Similar risks were evaluated by interviewing Applied Materials stakeholders considering both our own business operations and the company’s global supply chain.
+
+- Transition risks associated with Applied Materials’ own business and value chain related to potential shifts in future carbon pricing between 2020-2050 were compiled by Trucost using a blend of publicly available carbon pricing data across 100 geographies, low/medium/high price increase scenarios based on existing climate commitments and 2°C pathways and Applied Materials-specific business growth modelling. Interviewed stakeholders also considered policy, market, reputational, and technology-related risks and opportunities and evaluated the likelihood, timeframes in which the risks could occur, and relevance of impacts for our operations and upstream and downstream across our value chain. External research and peer benchmarking were also conducted to evaluate reputational risks and technology-related risks within the semiconductor manufacturing sector.
+
+Responding to climate-related risks:
+- Applied Materials has continued to monitor and prepare for potential acute physical climate-related risks on an annual basis, with responsibility for identifying company-wide and site-specific risks resting with a core team of global emergency response, crisis management, and business continuity personnel, as well as local facilities teams. Our risk identification, mitigation, and management plans help ensure our ability to recover quickly from climate-related events and effectively support our customers’ and suppliers’ operations.
+
+Applied Materials has been monitoring certain transitional risks, including new and modified climate change regulations and their potential impact on our business operations, .as well as changes in sources of energy and mandatory disclosure of carbon emissions from our operations. California, the U.S., Europe, UK, and China, are all at the forefront of seeking to mandate climate disclosures. These are all considered in the Applied Materials environmental management system (EMS).
+
+At the asset level, we use the site facilities and business continuity teams to identify local physical risks and concerns to business units and operations. Oftentimes, the ISO 14001 EMS, PSI Behavior Change Framework or Private Sector Preparation, or variations of these frameworks, are used with tool development to identify site specific concerns.
+C2.2a
+(C2.2a) Which risk types are considered in your organization's climate-related risk assessments?
+Relevance & inclusion	Please explain
+Current regulation	
+Relevant, always included
+Applied Materials analyzes existing regulations and their impact on the business to guide the development of compliance strategies. For example, to comply with current European Union regulations restricting the importation of hazardous substances, Applied Materials re-designed certain product lines to ensure the products would meet EU importation standards.
+Emerging regulation	
+Relevant, always included
+The emergence of, and potential for, regulation is actively being monitored by our legal, government affairs and other teams to determine potential business impacts, where relevant to Applied Materials’ business.
+
+For example, we’ve been monitoring potential future regulatory restrictions on emission-intensive process chemicals that are used in some of our semiconductor tools. This may require process modifications to meet future emissions constraints. Other examples include EPA’s proposed regulation on reducing HFCs, as well as active monitoring of the evolving regulatory space around climate risk disclosures in the EU and by the SEC.
+
+Applied Materials utilizes a third-party regulatory monitoring agency to assess emerging regulations that may impact our operations.
+Technology	
+Relevant, always included
+The energy efficiency and carbon intensity of semiconductor equipment is a key concern for value chain partners. Applied Materials actively monitors customers’ evolving climate-related commitments and is directly engaged with customers on these topics to build awareness of Applied Materials’ capabilities to enhance efficiency through both hardware and software solutions. The company continuously evaluates and invests in R&D to develop technologies that are competitive and help customers meet their resource efficiency goals.
+Legal	
+Relevant, always included
+Legal requirements applicable to Applied Materials operations and value chain are proactively identified, assessed, and implemented, as appropriate. Each manufacturing and R&D site maintains a comprehensive register of environmental requirements. In addition, Applied Materials’ Product Safety organization tracks product-related requirements, including those related to climate change. For example, Applied Materials is anticipating additional reporting requirements regarding the use of refrigerants for chillers and certain semiconductor processes.
+Market	
+Relevant, always included
+Market risks associated with shifts in customer preferences toward purchasing less resource-intensive products are also considered in the risk assessment. For example, as customers are exposed to increasing energy and water constraints in their manufacturing operations, or to meet their climate commitments, they are likely to shift their purchasing preferences towards more energy and water-efficient equipment.
+Reputation	
+Relevant, always included
+Applied Materials' reputation within the industry, and among all stakeholders, is essential to preserving the integrity of our brand. In particular, as investor interest in ESG and climate-related topics increases, comprehensive public reporting of our performance and initiatives has become increasingly critical. Applied Materials monitors evolving expectations using a prioritized set of ESG rating/ratings reports and actively benchmarks its own climate performance, goals, and initiatives against key industry peers.
+Acute physical	
+Relevant, always included
+Applied Materials' climate risk assessment considers acute physical risks across our top global assets that may be susceptible to extreme weather events based on their geographical location. Our top 32 facilities are rated and ranked based on their risk exposure to acute events such as wildfires, hurricanes, and floods, while the overall portfolio is scored based on the composite physical risk scores.
+Chronic physical	
+Relevant, always included
+Applied Materials' climate risk assessments consider chronic physical risks across top global assets based on their geographical location. Our top 32 facilities were rated and ranked based on their risk exposure to chronic trends such as water stress and sea level rise.
+C2.3
+(C2.3) Have you identified any inherent climate-related risks with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.3a
+(C2.3a) Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Risk 1
+Where in the value chain does the risk driver occur?
+Downstream
+Risk type & Primary climate-related risk driver
+Market	Changing customer behavior
+Primary potential financial impact
+Decreased revenues due to reduced demand for products and services
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Applied Materials’ customers’ chip manufacturing operations are typically both energy and water intensive, and customers are increasingly focusing on improving the efficiency and overall resource consumption of their manufacturing processes and setting ambitious goals to lower their impacts. Over time, customers may also be subject to both cost and regulatory pressures that incentivize them to shift their purchasing preferences towards increasingly more energy and water-efficient equipment. There is a risk of impacts to revenues and market share if Applied Materials is unable to outpace its competitors in offering more efficient equipment that enables customers to meet their business and environmental goals. Applied Materials addresses this risk through its 3x30 goals aimed at achieving a 30% reduction in energy and chemical impact for its semiconductor products on a per-wafer basis by 2030. In addition, Applied Materials is developing solutions such as the iSystemTM controller, EcoTwin software, and Aeris-G abatement system, which are enabling our customers to comprehensively measure and manage the power usage and optimization of our tools and the systems that support them.
+Time horizon
+Medium-term
+Likelihood
+Unlikely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Determining the potential impact to revenues associated with Applied Materials not keeping pace with competitors in offering more efficient equipment is extremely difficult due to the number of variables in play (how many and which customers will shift their purchasing behaviors, to what extent environmental performance of products would be weighed against other product criteria, how many competitive products are on the market, etc.) and can produce a wide range of results.
+Cost of response to risk
+0
+Description of response and explanation of cost calculation
+Applied’s existing R&D and 3x30 team budgets already encompass the funds to continuously assess and implement efficiency measures to our equipment (estimated <1% total R&D budget), thus no added costs are required to manage this risk at this time. Applied has established its 3x30 goals and a team of experts including a Design for Sustainability Center of Excellence who are supporting this initiative to ensure the company continues to enhance its offering of products that reduce energy and emissions impacts. We are actively engaging with key customers to bring awareness to existing sustainability solutions that we offer as well as to identify collaborative opportunities to reduce our collective footprints.
+Comment
+C2.4
+(C2.4) Have you identified any climate-related opportunities with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.4a
+(C2.4a) Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Opp1
+Where in the value chain does the opportunity occur?
+Downstream
+Opportunity type
+Products and services
+Primary climate-related opportunity driver
+Development of new products or services through R&D and innovation
+Primary potential financial impact
+Increased revenues resulting from increased demand for products and services
+Company-specific description
+Applied Materials offers equipment and service features that enable our customers to save energy and reduce emissions, such as the iSystemTM controller, which provides automated tracking of power usage across fab systems, EcoTwin software, which enables fab operators to optimize the performance of Applied tools, and Aeris-G, which is designed to abate GHG emissions more effectively than traditional abatement solutions. As our key customers set and begin driving towards their ambitious emission-reduction goals (such as scope 1 and 2 emissions reductions or Net Zero goals), demand and preference for energy and emission-reducing solutions will continue to grow. Applied Materials is positioned to expand our offering of such solutions, whether through more efficient components, processes, or tool monitoring systems and services.
+Time horizon
+Medium-term
+Likelihood
+About as likely as not
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Determining the potential impact to enhanced revenues associated with Applied Materials offering more efficient equipment is extremely difficult due to the number of variables in play (how many and which customers will shift their purchasing behaviors, to what extent environmental performance of products would be weighed against other product criteria, how many competitive products are on the market, etc.). Regardless, Applied Materials understands that producing equipment that is efficient and enables customers to meet their environmental goals can help us maintain our strong position in the market.
+Cost to realize opportunity
+0
+Strategy to realize opportunity and explanation of cost calculation
+Applied’s existing R&D and 3x30 team budgets already encompass the funds to continuously assess and implement efficiency measures to our equipment (estimated <1% total R&D budget), thus no added costs are required to manage this risk at this time. . Applied has established its 3x30 goals and a team of experts including a Design for Sustainability Center of Excellence who are supporting this initiative to ensure the company continues to enhance its offering of products that reduce energy and emissions impacts. We are actively engaging with our key customers to bring awareness to existing sustainability solutions that we offer as well as to identify collaborative opportunities to reduce our collective footprints.
+Comment
+C3. Business Strategy
+C3.1
+(C3.1) Does your organization’s strategy include a climate transition plan that aligns with a 1.5°C world?
+Row 1
+Climate transition plan
+Yes, we have a climate transition plan which aligns with a 1.5°C world
+Publicly available climate transition plan
+Yes
+Mechanism by which feedback is collected from shareholders on your climate transition plan
+We have a different feedback mechanism in place
+Description of feedback mechanism
+Applied Materials gathers feedback from shareholders through a series of investor outreach meetings conducted throughout the year.
+Frequency of feedback collection
+More frequently than annually
+Attach any relevant documents which detail your climate transition plan (optional)
+https://www.appliedmaterials.com/us/en/corporate-responsibility/planet/net-zero.html
+Explain why your organization does not have a climate transition plan that aligns with a 1.5°C world and any plans to develop one in the future
+<Not Applicable>
+Explain why climate-related risks and opportunities have not influenced your strategy
+<Not Applicable>
+C3.2
+(C3.2) Does your organization use climate-related scenario analysis to inform its strategy?
+Use of climate-related scenario analysis to inform strategy	Primary reason why your organization does not use climate-related scenario analysis to inform its strategy	Explain why your organization does not use climate-related scenario analysis to inform its strategy and any plans to use it in the future
+Row 1	
+Yes, qualitative and quantitative
+<Not Applicable>
+<Not Applicable>
+C3.2a
+(C3.2a) Provide details of your organization’s use of climate-related scenario analysis.
+Climate-related scenario	Scenario analysis coverage	Temperature alignment of scenario	Parameters, assumptions, analytical choices
+Physical climate scenarios	RCP 2.6
+Company-wide
+<Not Applicable>
+Top 32 facility locations were analyzed against the model from 2020-2050 for the following risks:
+- Coldwave
+- Flood
+- Heatwave
+- Hurricane
+- Sea level rise
+- Water stress
+- Wildfire
+Physical climate scenarios	RCP 4.5
+Company-wide
+<Not Applicable>
+Top 32 facility locations were analyzed against the model from 2020-2050 for the following risks:
+- Coldwave
+- Flood
+- Heatwave
+- Hurricane
+- Sea level rise
+- Water stress
+- Wildfire
+Physical climate scenarios	RCP 8.5
+Company-wide
+<Not Applicable>
+Top 32 facility locations were analyzed against the model from 2020-2050 for the following risks:
+- Coldwave
+- Flood
+- Heatwave
+- Hurricane
+- Sea level rise
+- Water stress
+- Wildfire
+
+Transition scenarios	IEA 2DS
+Company-wide
+<Not Applicable>
+Carbon price scenario if policies are implemented in line with the 2-degree Celsius scenario
+Transition scenarios	IEA NZE 2050
+Company-wide
+<Not Applicable>
+Carbon price scenario if full implementation of country Nationally Determined Contributions are met per the Paris Climate Agreement
+C3.2b
+(C3.2b) Provide details of the focal questions your organization seeks to address by using climate-related scenario analysis, and summarize the results with respect to these questions.
+Row 1
+Focal questions
+- Which physical climate risks pose the greatest risk to our operations?
+- Which facilities and locations are subject to relatively higher acute or chronic physical climate risks?
+- How do the relative risk trends fluctuate between 2020-2050?
+- What impact would higher carbon prices have on Applied Materials’ business and its supply chain?
+- What level of reputational risk is Applied Materials exposed to, and how are we poised to perform against our industry peers?
+Results of the climate-related scenario analysis with respect to the focal questions
+- The specific scenarios selected provide a comprehensive spread of possible warming scenarios to assess the potential scale of relevant risks relative to the temperature scenarios.
+- Water stress, wildfire, and flooding pose relatively higher climate risks to Applied Materials’ facilities as compared to other physical risks such cold waves, heatwaves, and sea level rise.
+- Applied Materials has facilities located in India, Israel and certain regions of the US, areas that are exposed to relatively higher risks associated with water stress, wildfire, and/or flooding.
+- The risk trends between 2030-2050 are generally stable
+- Applied Materials has low risk exposure with regards to increases in carbon pricing when accounting for our emission reduction goals and potential impact as a percentage of our OPEX and profit margins between 2030-2050
+- Overall market-related risks related to our top suppliers is low considering their sectors, profit margins, and geographic exposure
+- According to Trucost’s assessment, Applied Materials has a moderate level of reputation risk based on our industry classification, carbon intensity, and GHG reduction goals and strategy
+- The results have informed engagement with facilities and business continuity teams to help monitor and further evaluate risks identified in the assessment as well as to identify other mitigating actions that could be implemented, such as additional water-saving and recycling measures over the next 1-5 years.
+C3.3
+(C3.3) Describe where and how climate-related risks and opportunities have influenced your strategy.
+Have climate-related risks and opportunities influenced your strategy in this area?	Description of influence
+Products and services	
+Yes
+As customer preferences shift toward more energy-efficient products, Applied Materials has and continues to develop technologies that allow customers to meet current and future environmental obligations to their own customers, regulators, and other stakeholders. For example, Applied Materials is actively producing technologies to reduce the power consumption of semi-conductor chips and providing more effective abatement solutions. We also produce systems and services to improve the overall energy efficiency of semiconductor fabrication facilities. These strategies are being implemented and monitored in the immediate-to-short-term (1-5 years) and longer term (over the next 10 years).
+Supply chain and/or value chain	
+Yes
+Applied Materials' tier 1 supply chain, consisting of over 3,000 suppliers, is spread across the globe. Given Applied Materials ' supply chain is geographically diverse, well-coordinated and proficient at managing continuity risks, recent impacts of severe weather events, such as typhoons and hurricanes, have been relatively modest. Applied Materials is currently assessing its top (approximately 80% by spend) suppliers on environmental performance via the Responsible Business Association (RBA) self-assessment questionnaire, which has suppliers report on their GHG tracking, goals, and initiatives, as well as a targeted GHG survey. Suppliers considered high risk (evaluated each year) are audited against the framework. This strategy is being implemented and monitored in the immediate-to-short-term (1-5 years) and longer term (over the next 10 years).
+Investment in R&D	
+Yes
+As environmental regulations emerge and evolve in different regions where Applied Materials operates, the company must design products that comply with varying standards to continue serving customers. For example, when the European Union restricted the types of refrigerants that can be imported, Applied Materials invested in R&D to redesign certain products so they would no longer be reliant on the restricted chemicals. These strategies are being implemented and monitored in the immediate-to-short-term (1-5 years) and longer term (over the next 10 years).
+Operations	
+Yes
+As Applied Materials expands its operations to meet growing semiconductor demand, we are integrating climate considerations into the evaluation of new construction and leases, such as access to stable supply of energy and water. For example, we are adjusting energy modeling for our new R&D facilities to ensure we are planning for energy demands in a warming climate and building in water recycling processes. These strategies are being implemented and monitored in the immediate-to-short-term (1-5 years) and longer term (over the next 10-20 years).
+C3.4
+(C3.4) Describe where and how climate-related risks and opportunities have influenced your financial planning.
+Financial planning elements that have been influenced	Description of influence
+Row 1	
+Indirect costs
+Capital expenditures
+Capital allocation
+Capital Allocation: As customer purchasing behaviors shift and regulations emerge and evolve in the short-term, Applied Materials has the opportunity to develop technologies that meet more stringent efficiency and emissions requirements. The company invests R&D funds to test and develop a suite of products that deliver improved energy performance and reduced chemical impact. For example, Applied has recently announced two new product announcements that deliver such sustainability benefits: The Sculpta® patterning tool and Vistara™ platform.
+
+Indirect costs: To increase resiliency, reduce operating costs, and meet our 100% renewable electricity goals, Applied Materials has been and continues to evaluate and procure renewable sources of electricity through means such as on-site solar arrays, utility green energy programs, and a virtual power purchase agreement (VPPA).
+
+Capital expenditures: Applied Materials has invested and continues to evaluate investments in renewable energy projects such as on-site solar, as well as operation efficiency projects such as lighting retrofits or upgrades to more efficient equipment. Projects are evaluated using Applied Materials’ standard capital project evaluation process based on their projected financial performance and strategic value.
+C3.5
+(C3.5) In your organization’s financial accounting, do you identify spending/revenue that is aligned with your organization’s climate transition?
+Identification of spending/revenue that is aligned with your organization’s climate transition	Indicate the level at which you identify the alignment of your spending/revenue with a sustainable finance taxonomy
+Row 1	
+No, but we plan to in the next two years
+<Not Applicable>
+C4. Targets and performance
+C4.1
+(C4.1) Did you have an emissions target that was active in the reporting year?
+Absolute target
+C4.1a
+(C4.1a) Provide details of your absolute emissions target(s) and progress made against those targets.
+Target reference number
+Abs 1
+Is this a science-based target?
+Yes, we consider this a science-based target, and the target is currently being reviewed by the Science Based Targets initiative
+Target ambition
+1.5°C aligned
+Year target was set
+2020
+Target coverage
+Company-wide
+Scope(s)
+Scope 1
+Scope 2
+Scope 2 accounting method
+Market-based
+Scope 3 category(ies)
+<Not Applicable>
+Base year
+2019
+Base year Scope 1 emissions covered by target (metric tons CO2e)
+64965
+Base year Scope 2 emissions covered by target (metric tons CO2e)
+78677
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+143642
+Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100
+Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in Scope 3, Category 2: Capital goods (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions in Scope 3, Category 6: Business travel (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in Scope 3, Category 7: Employee commuting (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as % of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 10: Processing of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target as % of total base year emissions in Scope 3, Category 14: Franchises (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in Scope 3, Category 15: Investments (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target as % of total base year emissions in Scope 3, Other (upstream) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target as % of total base year emissions in Scope 3, Other (downstream) (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope 3 categories)
+<Not Applicable>
+Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected Scopes
+100
+Target year
+2030
+Targeted reduction from base year (%)
+50
+Total emissions in target year covered by target in all selected Scopes (metric tons CO2e) [auto-calculated]
+Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+66553
+Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+72933
+Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 10: Processing of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 14: Franchises emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 15: Investments emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (upstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (downstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+139486
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Please explain target coverage and identify any exclusions
+The absolute target covers 100% of our company-wide Scope 1 and Scope 2 market-based emissions in the base year and is currently undergoing validation by SBTi.
+Plan for achieving target, and progress made to the end of the reporting year
+Applied Materials has already made progress towards its scope 1 and 2 target in 2022, achieving a 3% reduction from our 2019 baseline year despite record business growth. The biggest factor contributing to this is our scaling of renewable electricity procurement, namely our White Mesa, TX wind VPPA coming online in 2021. Other utility-level procurement of renewables as well as some efficiencies at our facilities are also supporting progress towards our goal. Looking forward, Applied Materials has developed a roadmap to reach its goal of 100% renewable electricity globally, which will be the key lever to achieving our scope 1 and 2 SBT. In addition, measures to enhance efficiency across our buildings, manufacturing sites, and labs are also in the process of being evaluated as well as methods for any new buildings to meet high standards for energy efficient equipment and access to renewable electricity.
+List the emissions reduction initiatives which contributed most to achieving this target
+<Not Applicable>
+C4.2
+(C4.2) Did you have any other climate-related targets that were active in the reporting year?
+Target(s) to increase low-carbon energy consumption or production
+Net-zero target(s)
+Other climate-related target(s)
+C4.2a
+(C4.2a) Provide details of your target(s) to increase low-carbon energy consumption or production.
+Target reference number
+Low 1
+Year target was set
+2020
+Target coverage
+Company-wide
+Target type: energy carrier
+Electricity
+Target type: activity
+Consumption
+Target type: energy source
+Renewable energy source(s) only
+Base year
+2019
+Consumption or production of selected energy carrier in base year (MWh)
+400850
+% share of low-carbon or renewable energy in base year
+39
+Target year
+2030
+% share of low-carbon or renewable energy in target year
+100
+% share of low-carbon or renewable energy in reporting year
+69
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Is this target part of an emissions target?
+This target is a part of Applied Materials' science-based target submitted to SBTi, currently undergoing validation.
+Is this target part of an overarching initiative?
+RE100
+Science Based Targets initiative
+Please explain target coverage and identify any exclusions
+The target covers 100% of Applied Materials’ electricity load and Scope 2 emissions.
+Plan for achieving target, and progress made to the end of the reporting year
+Applied Materials reached 100% renewable electricity in the U.S. in FY22, furthering our global renewable electricity rate to 69%. We worked with an outside consultant to evaluate the landscape of renewable energy opportunities across our global portfolio, and developed a roadmap of procurement mechanisms (i.e., VPPA’s, utility programs, onsite projects) to reach 100% renewable energy by 2030. Applied Materials is now focused on executing on this roadmap and identifying renewable energy solutions in key international markets such as Taiwan, Israel, and China.
+List the actions which contributed most to achieving this target
+<Not Applicable>
+C4.2b
+(C4.2b) Provide details of any other climate-related targets, including methane reduction targets.
+Target reference number
+Oth 1
+Year target was set
+2022
+Target coverage
+Company-wide
+Target type: absolute or intensity
+Intensity
+Target type: category & Metric (target numerator if reporting an intensity target)
+Other, please specify	Other, please specify (Scope 3 Category 11 (Use of Sold Products) emissions (CO2e))
+Target denominator (intensity targets only)
+Other, please specify (Per wafer pass)
+Base year
+2019
+Figure or percentage in base year
+1.75
+Target year
+2030
+Figure or percentage in target year
+0.79
+Figure or percentage in reporting year
+1.25
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Is this target part of an emissions target?
+This target is currently Applied's Scope 3 reduction goal, submitted and under review by SBTi.
+Is this target part of an overarching initiative?
+Science Based targets initiative - other
+Please explain target coverage and identify any exclusions
+The target covers all semiconductor products contributing to our current Category 11 Use of Sold Products emissions, which covers over 80% of total Scope 3 emissions in the base year. Applied Materials’ Display products (5% of total sales in FY22) are excluded from Category 11 calculations due to limited data availability.
+Plan for achieving target, and progress made to the end of the reporting year
+There are two key components to enable the achievement of this target: 1) Reducing the energy and chemical impact of Applied Materials’ products to make them more efficient, and 2) Customers powering our equipment with clean energy. Applied Materials has already established its 3x30 goals and program to make its products more efficient through various means, including improvements in product design, chemical abatement, and optimizing recipes. We are also fortunate that many of our customers already have established renewable energy and Scope 2 emission reduction goals. Applied Materials has engaged key customers to evaluate collaborative opportunities to expand the use of clean energy at fabs and is participating in industry groups such as the SEMI Climate Consortium, CEBA, and RE100 to ensure we’re playing our part to expand clean energy access across our global markets.
+List the actions which contributed most to achieving this target
+<Not Applicable>
+C4.2c
+(C4.2c) Provide details of your net-zero target(s).
+Target reference number
+NZ1
+Target coverage
+Company-wide
+Absolute/intensity emission target(s) linked to this net-zero target
+Abs1
+Int1
+Target year for achieving net zero
+2040
+Is this a science-based target?
+Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the next two years
+Please explain target coverage and identify any exclusions
+The target covers 100% of Scope 1 and 2 emissions and 90% of total Scope 3 emissions. Applied has developed a Net Zero playbook – a clear pathway and detailed plan to work across our industry, including with customers and supply chain partners, on the journey to net zero.
+Do you intend to neutralize any unabated emissions with permanent carbon removals at the target year?
+Unsure
+Planned milestones and/or near-term investments for neutralization at target year
+<Not Applicable>
+Planned actions to mitigate emissions beyond your value chain (optional)
+We are prioritizing attention and investment on decarbonizing our own value chain. We are monitoring opportunities to mitigate emissions beyond the value chain and may consider such actions in the future as the market matures.
+C4.3
+(C4.3) Did you have emissions reduction initiatives that were active within the reporting year? Note that this can include those in the planning and/or implementation phases.
+Yes
+C4.3a
+(C4.3a) Identify the total number of initiatives at each stage of development, and for those in the implementation stages, the estimated CO2e savings.
+Number of initiatives	Total estimated annual CO2e savings in metric tonnes CO2e (only for rows marked *)
+Under investigation	
+0
+0
+To be implemented*	
+0
+0
+Implementation commenced*	
+0
+0
+Implemented*	
+12
+121465
+Not to be implemented	
+0
+0
+C4.3b
+(C4.3b) Provide details on the initiatives implemented in the reporting year in the table below.
+Initiative category & Initiative type
+Low-carbon energy generation	Wind
+Estimated annual CO2e savings (metric tonnes CO2e)
+68460
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+149900
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+11-15 years
+Comment
+Applied Materials signed a 12-year VPPA contract with White Mesa Wind. The project went online in Q4 2021. Annual CO2e savings are calculated using US EPA eGRID ERCOT factors, and monetary savings are based on current US Wind REC prices.
+Initiative category & Initiative type
+Low-carbon energy consumption	Low-carbon electricity mix
+Estimated annual CO2e savings (metric tonnes CO2e)
+25070
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+54900
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Silicon Valley Clean Energy is a Community Choice Energy program servicing Applied Materials' Silicon Valley operations with clean energy. Applied Materials undergoes periodic renewals of this utility renewable energy program. Monetary savings are based on current US Wind REC prices.
+Initiative category & Initiative type
+Low-carbon energy consumption	Low-carbon electricity mix
+Estimated annual CO2e savings (metric tonnes CO2e)
+5728
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+12500
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Austin Energy retire their RECs on behalf of their customers as a part of their standard delivery. Monetary savings are based off current US Wind REC prices.
+Initiative category & Initiative type
+Low-carbon energy consumption	Low-carbon electricity mix
+Estimated annual CO2e savings (metric tonnes CO2e)
+3691
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+8100
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Flathead Electric Co-Op provides 100% carbon-free hydropower to our Montana facilities. Monetary savings are based off current US Wind REC prices.
+Initiative category & Initiative type
+Low-carbon energy consumption	Low-carbon electricity mix
+Estimated annual CO2e savings (metric tonnes CO2e)
+197
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+400
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+Ongoing
+Comment
+San Jose Clean Energy is a Community Choice Energy program servicing Applied Materials' San Jose operations with clean energy. Applied Materials undergoes periodic renewals of this utility renewable energy program. Monetary savings are based on current US Wind REC prices.
+Initiative category & Initiative type
+Low-carbon energy generation	Solar PV
+Estimated annual CO2e savings (metric tonnes CO2e)
+1000
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (location-based)
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+36100
+Investment required (unit currency – as specified in C0.4)
+16000000
+Payback period
+>25 years
+Estimated lifetime of the initiative
+11-15 years
+Comment
+Applied Materials has installed solar photovoltaic arrays at our facilities located in Sunnyvale, California; Singapore; Xi’an, China; Bengaluru, India, and Austin, Texas, with estimated CO2 savings of 1,000 tCO2e annually. Monetary savings are based on country-specific electricity prices and current US Wind REC prices.
+Initiative category & Initiative type
+Low-carbon energy consumption	Other, please specify (Unbundled Renewable Energy Certificates (RECs) )
+Estimated annual CO2e savings (metric tonnes CO2e)
+12132
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+0
+Investment required (unit currency – as specified in C0.4)
+26600
+Payback period
+No payback
+Estimated lifetime of the initiative
+<1 year
+Comment
+Applied undergoes assessments of REC decisions on an annual basis. Purchased unbundled green-E certified, US Wind RECs.
+Initiative category & Initiative type
+Low-carbon energy consumption	Large hydropower (>25 MW)
+Estimated annual CO2e savings (metric tonnes CO2e)
+2327
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+36100
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+Ongoing
+Comment
+Our Alzenau, Germany operations are powered by large hydropower. Monetary savings are based off current Germany REC prices.
+Initiative category & Initiative type
+Low-carbon energy consumption	Solar PV
+Estimated annual CO2e savings (metric tonnes CO2e)
+1385
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+1900
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+11-15 years
+Comment
+A portion of our electricity consumption in the International Tech Park in Bangalore, India is offset through rooftop solar PV, which is financed by building owner. Monetary savings are based off current India REC prices.
+Initiative category & Initiative type
+Energy efficiency in buildings	Lighting
+Estimated annual CO2e savings (metric tonnes CO2e)
+157
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (location-based)
+Scope 2 (market-based)
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+32900
+Investment required (unit currency – as specified in C0.4)
+84300
+Payback period
+1-3 years
+Estimated lifetime of the initiative
+16-20 years
+Comment
+LED upgrades across multiple countries and facilities. Cost savings are based on average country electricity prices.
+Initiative category & Initiative type
+Energy efficiency in buildings	Heating, Ventilation and Air Conditioning (HVAC)
+Estimated annual CO2e savings (metric tonnes CO2e)
+442
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (location-based)
+Scope 2 (market-based)
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+158500
+Investment required (unit currency – as specified in C0.4)
+46200
+Payback period
+<1 year
+Estimated lifetime of the initiative
+16-20 years
+Comment
+HVAC upgrades across multiple countries and facilities. Cost savings are based on average country electricity prices.
+Initiative category & Initiative type
+Energy efficiency in buildings	Building Energy Management Systems (BEMS)
+Estimated annual CO2e savings (metric tonnes CO2e)
+877
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (location-based)
+Scope 2 (market-based)
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+546700
+Investment required (unit currency – as specified in C0.4)
+2500
+Payback period
+<1 year
+Estimated lifetime of the initiative
+16-20 years
+Comment
+BEMS upgrades and installations across multiple countries and facilities. Cost savings are based on average country electricity prices.
+C4.3c
+(C4.3c) What methods do you use to drive investment in emissions reduction activities?
+Method	Comment
+Internal finance mechanisms
+Over time, we invest in our infrastructure to improve its energy efficiency and reduce associated GHG emissions. Enhancing building systems such as replacing aging heating and cooling systems or retrofitting lighting systems improves operational efficiencies and supports sustainability initiatives.
+
+As we purchase (or design and build) new buildings, we look for ways to incorporate energy efficiency measures, ensuring we’re selecting efficient equipment and lighting, optimizing heating and cooling, and evaluating onsite renewable energy opportunities.
+C4.5
+(C4.5) Do you classify any of your existing goods and/or services as low-carbon products?
+Yes
+C4.5a
+(C4.5a) Provide details of your products and/or services that you classify as low-carbon products.
+Level of aggregation
+Product or service
+Taxonomy used to classify product(s) or service(s) as low-carbon
+Other, please specify (SEMI S23 Guide for Conservation of Energy, Utilities and Materials Used by Semiconductor Manufacturing Equipment )
+Type of product(s) or service(s)
+Other	Other, please specify (More efficient semiconductor manufacturing systems )
+Description of product(s) or service(s)
+Applied Materials offers emissions measurement systems, pollution abatement equipment and consulting services to help our customers reduce their GHG emissions. Our company provides an industry standard calculation of the energy consumption of our products (using the SEMI S23 standard), allowing our customers to forecast energy use and emissions related to the operation of our equipment. This data allows our company to work with our customers to improve the environmental performance of our products. The Applied Materials iSystem controller is one example of how our products can help our customers reduce energy and resource consumption in their semiconductor manufacturing operations. In today’s semiconductor fab, the focus on saving energy and resources has shifted from facility operations to the subfab, which contains support equipment (pumps, abatement systems, etc.) that can consume around half of the total energy use of the fabrication facility. To reduce energy consumption and conserve natural resources, we offer the Applied Materials iSystem controller, which incorporates a hot standby idle mode in subfab control systems. While monitoring tool operation, the Applied Materials iSystem controller collects valuable data that can be used to generate resource consumption and GHG emissions. Applied Materials has shipped units used to connect more than 5,900 pieces of subfab equipment in customer fabs, thereby supporting customer sustainability initiatives.
+Have you estimated the avoided emissions of this low-carbon product(s) or service(s)
+Yes
+Methodology used to calculate avoided emissions
+Estimating and Reporting the Comparative Emissions Impacts of Products (WRI)
+Life cycle stage(s) covered for the low-carbon product(s) or services(s)
+Use stage
+Functional unit used
+One year of operating of iSystem controller in a semiconductor fab
+Reference product/service or baseline scenario used
+Customer energy use and emissions without iSystem enabled
+Life cycle stage(s) covered for the reference product/service or baseline scenario
+Use stage
+Estimated avoided emissions (metric tons CO2e per functional unit) compared to reference product/service or baseline scenario
+84600
+Explain your calculation of avoided emissions, including any assumptions
+Our methodology focuses on reductions in energy usage, which are converted to emissions reductions based on the regional grid mix. We are basing the avoided emissions is number (84,600 tons of CO2e) on a public ESG report from our customer, TSMC (source: https://esg.tsmc.com/en/update/responsibleSupplyChain/caseStudy/28/index.html).
+Revenue generated from low-carbon product(s) or service(s) as % of total revenue in the reporting year
+1
+Level of aggregation
+Product or service
+Taxonomy used to classify product(s) or service(s) as low-carbon
+Other, please specify (SEMI S23 Guide for Conservation of Energy, Utilities and Materials Used by Semiconductor Manufacturing Equipment )
+Type of product(s) or service(s)
+Other	Other, please specify (More efficient semiconductor manufacturing systems )
+Description of product(s) or service(s)
+Awareness of global warming is increasing, and the regulatory push to effect GHG emissions reduction is in full swing. Recognizing this, Applied Materials continues to search for proactive, cost-effective ways of reducing the high global-warming potential (GWP) of the gaseous chemicals used when operating our equipment, such as perfluorocarbon compounds (PFCs), NF3 and SF6.
+
+The Applied Materials Aeris-G system is a pre-pump plasma abatement solution that uses less energy by treating the actual process gas volume—a smaller and more concentrated volume than what is treated by post-pump abatement units. The plasma dissociation combined with the low volume of nitrogen in the Aeris-G chamber during abatement minimizes NOx emissions to near zero. The Aeris-G unit operates "on-demand," further reducing operating costs compared to energy-hungry, continuous operation post-pump abatement.
+
+The Aeris-G system can be installed within the pump footprint of each chamber. Ideal for existing tool installations, it easily fits into existing exhaust lines and requires only power, nitrogen, cooling water and ultrapure water connections. For new tool installations, Aeris-G saves subfab space, reduces utility and exhaust connections, and minimizes installation costs while improving abatement efficiency.
+Have you estimated the avoided emissions of this low-carbon product(s) or service(s)
+Yes
+Methodology used to calculate avoided emissions
+Other, please specify (Spectral analysis of waste stream to quantitatively measure elimination of GHGs, following EPA methodology )
+Life cycle stage(s) covered for the low-carbon product(s) or services(s)
+Use stage
+Functional unit used
+Per wafer pass through a process tool that is abated through an Aeris-G unit
+Reference product/service or baseline scenario used
+Process application without any abatement
+Life cycle stage(s) covered for the reference product/service or baseline scenario
+Use stage
+Estimated avoided emissions (metric tons CO2e per functional unit) compared to reference product/service or baseline scenario
+0.055
+Explain your calculation of avoided emissions, including any assumptions
+This avoided emissions calculation depends highly on the wafer process application. Aeris-G is typically able to reduce emissions because the system provides destruction removal efficiency (DRE) >95%, typical for CF4, and DRE >99%, typical for SF6, CHF3, C3F8, NF3, C4F8. This calculation is compared to process tools with no abatement (0% DRE) in place.
+Revenue generated from low-carbon product(s) or service(s) as % of total revenue in the reporting year
+1
+C5. Emissions methodology
+C5.1
+(C5.1) Is this your first year of reporting emissions data to CDP?
+No
+C5.1a
+(C5.1a) Has your organization undergone any structural changes in the reporting year, or are any previous structural changes being accounted for in this disclosure of emissions data?
+Row 1
+Has there been a structural change?
+No
+Name of organization(s) acquired, divested from, or merged with
+<Not Applicable>
+Details of structural change(s), including completion dates
+<Not Applicable>
+C5.1b
+(C5.1b) Has your emissions accounting methodology, boundary, and/or reporting year definition changed in the reporting year?
+Change(s) in methodology, boundary, and/or reporting year definition?	Details of methodology, boundary, and/or reporting year definition change(s)
+Row 1	
+Yes, a change in reporting year definition
+Changed from calendar year reporting to fiscal year reporting to better align with company reporting. Applied Materials’ fiscal year ends on the last Sunday in October, however for simplicity we are reporting from November 1 – October 31
+C5.1c
+(C5.1c) Have your organization’s base year emissions and past years’ emissions been recalculated as a result of any changes or errors reported in C5.1a and/or C5.1b?
+Base year recalculation	Scope(s) recalculated	Base year emissions recalculation policy, including significance threshold	Past years’ recalculation
+Row 1	
+Yes
+Scope 1
+Scope 2, location-based
+Scope 2, market-based
+We have restated all data in terms of our fiscal year, regardless of the change in emissions threshold.
+Yes
+C5.2
+(C5.2) Provide your base year and base year emissions.
+Scope 1
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+64965
+Comment
+Scope 1 2019 data is being restated to align with Applied Materials’ fiscal year rather than calendar year.
+Scope 2 (location-based)
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+144672
+Comment
+Scope 2 2019 data is being restated to align with Applied Materials’ fiscal year rather than calendar year.
+Scope 2 (market-based)
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+78677
+Comment
+Scope 2 2019 data is being restated to align with Applied Material’s’ fiscal year rather than calendar year.
+Scope 3 category 1: Purchased goods and services
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+1862516
+Comment
+Spend-based analysis of total 2019 direct and indirect spend using 2018 U.S. EPA EEIO factors applying a deflator to convert to 2019.
+Scope 3 category 2: Capital goods
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+61953
+Comment
+Spend-based analysis of total 2019 capital spend using 2018 U.S. EPA EEIO factors applying a deflator to convert to 2019.
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+36012
+Comment
+Average-data method using total 2019 energy consumption by source and 2019 DEFRA fuels and T&D emission factors. Well-to-tank (WTT) emissions from Transmission & Distribution (T&D) losses are not included.
+Scope 3 category 4: Upstream transportation and distribution
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+224136
+Comment
+Revised from last year’s disclosure to incorporate methodology improvements. Spend-based analysis of total 2019 transportation and distribution spend by mode (air, ocean, ground) using 2018 U.S. EPA EEIO factors applying a deflator to convert to 2019.
+Scope 3 category 5: Waste generated in operations
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+531
+Comment
+2019 waste tonnage by disposal method using relevant 2019 DEFRA waste emission factors. Represents data from over 80% of sites by square footage.
+Scope 3 category 6: Business travel
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+97953
+Comment
+• Air travel calculated using total 2019 distances traveled by cabin type using relevant DEFRA business travel emission factors
+• Hotel stays based on total number of nights using the 2019 DEFRA hotel stay emission factor
+• Vehicle rentals based on total 2019 spend using a 2019 U.S. EPA EEIO factor
+Scope 3 category 7: Employee commuting
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+76751
+Comment
+• Estimated using total 2019 employee headcount by region
+• Assumption on proportion of employees in each region commuting by various transportation modes and average distances travelled (based on country census or commuter survey data)
+• Calculated using the relevant2019 DEFRA transportation mode factor
+Scope 3 category 8: Upstream leased assets
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+2601
+Comment
+Includes leased vehicles and equipment with total 2019 fuel consumption or mileage using 2019 DEFRA fuel and vehicle factors. Where fuel consumption or distance is not available, estimates are used based on number and type of vehicles.
+Scope 3 category 9: Downstream transportation and distribution
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+191577
+Comment
+• Estimated using total shipped units in 2019 with an average weight per unit and a breakdown of which global regions they were shipped to
+• The average distance per unit was estimated using the most common shipping locations.
+• The mode of transport breakdown was based on available outbound data
+• Calculated using the relevant 2019 U.S. EPA ton-mile factor
+Scope 3 category 10: Processing of sold products
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Not applicable - Applied’s products are not processed by customers
+Scope 3 category 11: Use of sold products
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+10203120
+Comment
+• Revised from last year’s disclosure to incorporate methodology improvements.
+• Calculated based on 2019 sold units using the SEMI S23 standard to model Applied Materials semiconductor tools’ annual energy consumption across product categories, multiplied by an average 10-year product lifespan.
+• Emissions in this category include the energy, chemicals and gases used by Applied Materials semiconductor tools as well as the subfab equipment required to power the tools.
+• Also includes emissions from the combustion of natural gas in point-of-use abatement systems where applicable.
+• Does not yet include emissions from refurbished tools, nor from Applied Materials‘ Display business (which represented 11% of total net sales in 2019) or other products. We will incorporate these emissions estimates in future reporting years.
+Scope 3 category 12: End of life treatment of sold products
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+713
+Comment
+• Based on total weight of 2019 sold units
+• Uses an assumption on primary material composition of products
+• Calculated using relevant 2019 DEFRA waste factors
+Scope 3 category 13: Downstream leased assets
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+3330
+Comment
+Estimated based on square footage of leased assets by building type using CBECS conversion factors.
+Scope 3 category 14: Franchises
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Not applicable – Applied does not have franchises
+Scope 3 category 15: Investments
+Base year start
+November 1 2018
+Base year end
+October 31 2019
+Base year emissions (metric tons CO2e)
+4492
+Comment
+Based on investee business sector, total 2019 revenues, and % ownership stake mapped to US EPA EEIO sector spend-based emission factors. For 2 (out of 27) companies where company revenues were not available, averages were used based on the other companies’ revenues.
+Scope 3: Other (upstream)
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Not applicable
+Scope 3: Other (downstream)
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Not applicable
+C5.3
+(C5.3) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+IPCC Guidelines for National Greenhouse Gas Inventories, 2006
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+The Greenhouse Gas Protocol: Scope 2 Guidance
+The Greenhouse Gas Protocol: Corporate Value Chain (Scope 3) Standard
+US EPA Center for Corporate Climate Leadership: Direct Emissions from Stationary Combustion Sources
+US EPA Center for Corporate Climate Leadership: Direct Emissions from Mobile Combustion Sources
+US EPA Emissions & Generation Resource Integrated Database (eGRID)
+C6. Emissions data
+C6.1
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+Gross global Scope 1 emissions (metric tons CO2e)
+66553
+Start date
+November 1 2021
+End date
+October 31 2022
+Comment
+Past year 1
+Gross global Scope 1 emissions (metric tons CO2e)
+47821
+Start date
+November 1 2020
+End date
+October 31 2021
+Comment
+Past year 2
+Gross global Scope 1 emissions (metric tons CO2e)
+55506
+Start date
+November 1 2019
+End date
+October 31 2020
+Comment
+Past year 3
+Gross global Scope 1 emissions (metric tons CO2e)
+64965
+Start date
+November 1 2018
+End date
+October 31 2019
+Comment
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+​Scope 2, location-based​
+We are reporting a Scope 2, location-based figure
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+Comment
+Many of our operations are located in regions that have substantial quantities of renewable electricity sources available. To capture these benefits, we are reporting both market-based and location-based figures.
+C6.3
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+Scope 2, location-based
+161303
+Scope 2, market-based (if applicable)
+72933
+Start date
+November 1 2021
+End date
+October 31 2022
+Comment
+Past year 1
+Scope 2, location-based
+147087
+Scope 2, market-based (if applicable)
+65573
+Start date
+November 1 2020
+End date
+October 31 2021
+Comment
+Past year 2
+Scope 2, location-based
+138521
+Scope 2, market-based (if applicable)
+77433
+Start date
+November 1 2019
+End date
+October 31 2020
+Comment
+Past year 3
+Scope 2, location-based
+144672
+Scope 2, market-based (if applicable)
+78677
+Start date
+November 1 2018
+End date
+October 31 2019
+Comment
+There is a slight adjustment (<1%) in our Scope 2 location-based figure compared to our published Sustainability Report due to updated calculations from fiscal year reporting.
+C6.4
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?
+No
+C6.5
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+3810964
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Spend-based analysis of total FY21 and FY22 direct and indirect spend using 2018 U.S. EPA EEIO detailed commodity factors with sector-specific deflators applied to get to equivalent 2021 and 2022 dollars. The deflator is determined using producer price indices at the sector account level, mapped to the relevant NAICS code using IMPLAN (2022). EEIO factors incorporate margins that include both direct and indirect emissions associated with the production of commodity or industry from cradle to the point of sale. Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Capital goods
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+179156
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Spend-based analysis of total FY21 and FY22 capital spend using 2018 U.S. EPA EEIO factors with sector-specific deflators applied to get to equivalent 2021 and 2022 dollars. The deflator is determined using producer price indices at the sector account level, mapped to the relevant NAICS code using IMPLAN (2022). Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+56544
+Emissions calculation methodology
+Average data method
+Fuel-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Average-data method using total FY21 and FY22 electricity consumption by country converted using 2020 IEA country-level fuel mix factors (via Ecoinvent v3.9.1) and fuel consumption by source converted using 2021/2022 DEFRA fuels emissions factors. Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Upstream transportation and distribution
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+752299
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+Spend-based analysis of total FY21 and FY22 transportation and distribution spend by mode (air, ocean, ground) using 2018 U.S. EPA EEIO factors with a deflator applied to get to equivalent 2021 and 2022 dollars. The deflator is determined using producer price indices at the sector account level, mapped to the relevant NAICS code using IMPLAN (2022). Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Waste generated in operations
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+1941
+Emissions calculation methodology
+Average data method
+Waste-type-specific method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+FY21 and FY22 waste tonnage by disposal method using a combination of 2021/2022 DEFRA, EPA WARM v15.1, and Ecoinvent v3.9.1 (referencing IPCC 2021 GWP (AR6) waste disposal emission factors). The waste data represents over 80% of operations by square footage. Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Business travel
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+52538
+Emissions calculation methodology
+Spend-based method
+Fuel-based method
+Distance-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+-Emissions from global air, hotel, rail, and majority of car rentals booked through Applied Materials’ travel platform are calculated using 3rd party, Advito’s, detailed analytics methodology
+-Remaining travel-related emissions from sources not booked in Applied Materials’ travel platform (e.g., additional car rentals, taxi/ride-share, fuel reimbursement) are calculated using 2018 US EPA EEIO factors with a deflator applied to get to equivalent 2021 and 2022 dollars. The deflator is determined using producer price indices at the sector account level, mapped to the relevant NAICS code using IMPLAN (2022).
+-Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Employee commuting
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+31902
+Emissions calculation methodology
+Average data method
+Distance-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+• Employee home city and primary office location are used to calculate round-trip commute distances
+o In cases where home or office location is missing, assumptions are set on average commute distance based on location
+• Where available, badge data is used to calculate frequency of commutes to the office
+o Where badge data is unavailable assumptions are made on frequency of commutes based on worker type and location
+• Assumptions are made on the modes of transportation used for commuting by country based on external research on transportation trends by country
+• 2021/2022 DEFRA transportation emission factors are used to convert distances traveled by mode of transport to emissions, including WTT and tank-to-wheels (TTW) emissions.
+Upstream leased assets
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+3860
+Emissions calculation methodology
+Average data method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+-Includes leased vehicles and equipment with total FY21 and FY22 fuel consumption or mileage using 2021/2022 DEFRA and 2020 IEA fuel and vehicle emission factors. Where fuel consumption or distance is not available, estimates are used based on number and type of vehicles.
+-The calculation includes WTT emissions for vehicles
+-Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Downstream transportation and distribution
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+229937
+Emissions calculation methodology
+Average data method
+Distance-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+• Estimated using total shipped units for FY21 and FY22 with an average weight per unit and a breakdown of global receiving regions
+• The average distance per unit was estimated using the most frequent shipping locations
+• The mode of transport breakdown was based on available outbound data
+• Calculated using the relevant 2022 U.S. EPA ton-mile factors
+• Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Processing of sold products
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Not applicable - Applied’s products do not require further processing by customers
+Use of sold products
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+18821840
+Emissions calculation methodology
+Average data method
+Average product method
+Methodology for direct use phase emissions, please specify (Includes emissions from equipment energy use and process chemicals)
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+• Calculated based on FY21 and FY22 shipped units using the SEMI S23 standard to model Applied semiconductor tools’ annual energy consumption across product categories, multiplied by an average 10-year product lifespan.
+• Emissions in this category include the energy, chemicals and gases used by Applied semiconductor tools as well as the ancillary equipment required to power the tools.
+• Also includes emissions from the combustion of natural gas in point-of-use abatement systems where applicable.
+• 2020 and 2021 country-specific IEA electricity factors are applied based on the country tools were shipped to; IPCC semiconductor emission factors are used to calculate process gas-related emissions
+• Calculations do not include emissions from Applied’s Display business (which represent 5% of total net sales in FY22) or from refurbished tools
+• Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+End of life treatment of sold products
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+940
+Emissions calculation methodology
+Average data method
+Waste-type-specific method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+• Based on total estimated weight of FY21 and FY22 shipped units
+• Uses an assumption on primary material composition of products
+• Calculated using relevant 2021/2022 DEFRA and EPA WARM v15.1 waste disposal factors
+• Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Downstream leased assets
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+2870
+Emissions calculation methodology
+Average data method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+• Estimated based on the square footage of leased-out assets by building type, converted using EIA CBECS (2022)
+• Emissions are calculated using 2020 IEA and 2021 e-GRID GWP factors (via Ecoinvent v3.9.1) and 2021/2022 DEFRA factors
+• Includes WTT and T&D emissions from leased facilities
+• Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Franchises
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Not applicable – Applied does not have any franchises
+Investments
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+158658
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+0
+Please explain
+• Based on FY21 and FY22 annual investment value ($) of holding within investee companies
+• Calculated using 2018 US EPA EEIO factors with a deflator2 applied to get to equivalent 2021 and 2022 dollars mapped to the relevant investee sector
+• The calculation excludes project finance and debt investments; managed investments and client services are not applicable
+• Some Scope 3 categories may exclude recent acquisitions that occurred in FY22, which are estimated to have a nominal impact to the overall footprint and will be integrated in the following reporting year.
+Other (upstream)
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Applied does not have any other upstream emissions sources
+Other (downstream)
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Applied does not have any other downstream emissions sources
+C6.5a
+(C6.5a) Disclose or restate your Scope 3 emissions data for previous years.
+Past year 1
+Start date
+November 1 2020
+End date
+October 31 2021
+Scope 3: Purchased goods and services (metric tons CO2e)
+3146985
+Scope 3: Capital goods (metric tons CO2e)
+148968
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+52142
+Scope 3: Upstream transportation and distribution (metric tons CO2e)
+528876
+Scope 3: Waste generated in operations (metric tons CO2e)
+1975
+Scope 3: Business travel (metric tons CO2e)
+22383
+Scope 3: Employee commuting (metric tons CO2e)
+24343
+Scope 3: Upstream leased assets (metric tons CO2e)
+3715
+Scope 3: Downstream transportation and distribution (metric tons CO2e)
+144619
+Scope 3: Processing of sold products (metric tons CO2e)
+0
+Scope 3: Use of sold products (metric tons CO2e)
+16460624
+Scope 3: End of life treatment of sold products (metric tons CO2e)
+845
+Scope 3: Downstream leased assets (metric tons CO2e)
+3989
+Scope 3: Franchises (metric tons CO2e)
+0
+Scope 3: Investments (metric tons CO2e)
+141055
+Scope 3: Other (upstream) (metric tons CO2e)
+0
+Scope 3: Other (downstream) (metric tons CO2e)
+0
+Comment
+C-CG6.6
+(C-CG6.6) Does your organization assess the life cycle emissions of any of its products or services?
+Assessment of life cycle emissions	Comment
+Row 1	
+Yes
+Applied Materials’ Design for Sustainability Center of Excellence has developed energy and emission modelling solutions for the use-phase of representative groups of semiconductor products.
+C-CG6.6a
+(C-CG6.6a) Provide details of how your organization assesses the life cycle emissions of its products or services.
+Products/services assessed	Life cycle stage(s) most commonly covered	Methodologies/standards/tools applied	Comment
+Row 1	
+Representative selection of products/services
+Use stage
+GHG Protocol Product Accounting & Reporting Standard
+Other, please specify (SEMI S23 )
+Representative sets of semiconductor tools' product use-phase emissions are modelled following the SEMI S23 Guide for Conservation of Energy, Utilities and Materials Used by Semiconductor Manufacturing Equipment. Emissions include the energy, chemicals, and gases used by Applied Materials semiconductor tools as well as the sub-fab equipment required to power the tools and includes the combustion of natural gas in point-of-use abatement systems where applicable.
+C6.7
+(C6.7) Are carbon dioxide emissions from biogenic carbon relevant to your organization?
+No
+C6.10
+(C6.10) Describe your gross global combined Scope 1 and 2 emissions for the reporting year in metric tons CO2e per unit currency total revenue and provide any additional intensity metrics that are appropriate to your business operations.
+Intensity figure
+0.00000541
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+139486
+Metric denominator
+unit total revenue
+Metric denominator: Unit total
+25785000000
+Scope 2 figure used
+Market-based
+% change from previous year
+10
+Direction of change
+Increased
+Reason(s) for change
+Change in output
+Please explain
+The semiconductor industry experienced unprecedented growth due to increasing demand for technologies enabled by chips – including those that are enabling the net zero transition, such as EVs and smarter power sector systems. We were also working to close the gap in our order backlog that resulted from pandemic-related supply chain interruptions, which elevated our production rates.
+Intensity figure
+4.2
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+139486
+Metric denominator
+full time equivalent (FTE) employee
+Metric denominator: Unit total
+33000
+Scope 2 figure used
+Market-based
+% change from previous year
+1.5
+Direction of change
+Increased
+Reason(s) for change
+Change in output
+Please explain
+The semiconductor industry experienced unprecedented growth due to increasing demand for technologies enabled by chips – including those that are enabling the net zero transition, such as EVs and smarter power sector systems. We were also working to close the gap in our order backlog that resulted from pandemic-related supply chain interruptions, which elevated our production rates. Headcount also grew substantially in response to business demand in the past year; therefore, this intensity metric didn’t increase as substantially as the one based on annual revenue.
+C7. Emissions breakdowns
+C7.1
+(C7.1) Does your organization break down its Scope 1 emissions by greenhouse gas type?
+Yes
+C7.1a
+(C7.1a) Break down your total gross global Scope 1 emissions by greenhouse gas type and provide the source of each used greenhouse warming potential (GWP).
+Greenhouse gas	Scope 1 emissions (metric tons of CO2e)	GWP Reference
+CO2
+24430
+IPCC Sixth Assessment Report (AR6 - 100 year)
+N2O
+3274
+IPCC Sixth Assessment Report (AR6 - 100 year)
+PFCs
+25028
+IPCC Sixth Assessment Report (AR6 - 100 year)
+HFCs
+1114
+IPCC Sixth Assessment Report (AR6 - 100 year)
+SF6
+5151
+IPCC Sixth Assessment Report (AR6 - 100 year)
+NF3
+7554
+IPCC Sixth Assessment Report (AR6 - 100 year)
+CH4
+1
+IPCC Sixth Assessment Report (AR6 - 100 year)
+C7.2
+(C7.2) Break down your total gross global Scope 1 emissions by country/area/region.
+Country/area/region	Scope 1 emissions (metric tons CO2e)
+Canada
+13
+China
+1558
+Finland
+1
+France
+0
+Germany
+808
+Greece
+0
+India
+0
+Ireland
+5
+Israel
+5
+Italy
+157
+Japan
+0
+Democratic People's Republic of Korea
+125
+Malaysia
+7
+Netherlands
+15
+Philippines
+3
+Singapore
+2
+Taiwan, China
+507
+United Kingdom of Great Britain and Northern Ireland
+5
+United States of America
+63342
+C7.3
+(C7.3) Indicate which gross global Scope 1 emissions breakdowns you are able to provide.
+By activity
+C7.3c
+(C7.3c) Break down your total gross global Scope 1 emissions by business activity.
+Activity	Scope 1 emissions (metric tons CO2e)
+Stationary Combustion
+24415
+Process Emissions
+41010
+Refrigerants
+1114
+Mobile Combustion
+14
+C7.5
+(C7.5) Break down your total gross global Scope 2 emissions by country/area/region.
+Country/area/region	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+Asia Pacific and Africa
+73032
+71647
+Europe
+3614
+1286
+North America
+84657
+0
+C7.6
+(C7.6) Indicate which gross global Scope 2 emissions breakdowns you are able to provide.
+By activity
+C7.6c
+(C7.6c) Break down your total gross global Scope 2 emissions by business activity.
+Activity	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+Manufacturing/Lab
+43948
+8253
+Mixed Use
+87524
+46630
+Office
+22222
+18023
+Warehouse
+7610
+27
+C7.7
+(C7.7) Is your organization able to break down your emissions data for any of the subsidiaries included in your CDP response?
+No
+C7.9
+(C7.9) How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?
+Increased
+C7.9a
+(C7.9a) Identify the reasons for any change in your gross global emissions (Scope 1 and 2 combined), and for each of them specify how your emissions compare to the previous year.
+Change in emissions (metric tons CO2e)	Direction of change in emissions	Emissions value (percentage)	Please explain calculation
+Change in renewable energy consumption	
+6856
+Decreased
+5
+Change in emissions are due to the increase in renewable energy strategies that became operational in 2021, which resulted in a decrease of overall emissions. The difference in Scope 2 emissions is calculated based on the difference of (2021 Location-based Scope 2 minus 2021 Market-based Scope 2) subtracted from (2022 Location-based Scope 2 minus 2022 Market-based Scope 2)
+Other emissions reduction activities	
+1477
+Decreased
+1
+This figure is the total of CO2e savings from implementing energy efficiency upgrades such as LED lighting, building automation, etc in our reporting year.
+Divestment	
+0
+No change
+0
+Acquisitions	
+0
+No change
+0
+Mergers	
+0
+No change
+0
+Change in output	
+32948
+Increased
+23
+Calculated the difference between 2022 Scope 1 and 2021 Scope 1 plus the difference between 2022 Location-based Scope 2 and 2021 Location-based Scope 2
+Change in methodology	
+0
+No change
+0
+Change in boundary	
+0
+No change
+0
+Change in physical operating conditions	
+0
+No change
+0
+Unidentified	
+0
+No change
+0
+Other	
+0
+No change
+0
+C7.9b
+(C7.9b) Are your emissions performance calculations in C7.9 and C7.9a based on a location-based Scope 2 emissions figure or a market-based Scope 2 emissions figure?
+Market-based
+C-CG7.10
+(C-CG7.10) How do your total Scope 3 emissions for the reporting year compare to those of the previous reporting year?
+Increased
+C-CG7.10a
+(C-CG7.10a) For each Scope 3 category calculated in C6.5, specify how your emissions compare to the previous year and identify the reason for any change.
+Purchased goods and services
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+663980
+% change in emissions in this category
+21
+Please explain
+The semiconductor industry experienced unprecedented growth due to increasing demand for technologies enabled by chips – including those that are enabling the net zero transition, such as EVs and smarter power sector systems. We were also working to close the gap in our order backlog that resulted from pandemic-related supply chain interruptions, which elevated our production rates.
+Capital goods
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+30188
+% change in emissions in this category
+20
+Please explain
+Strong semiconductor demand also drove increasing capital investments to expand our business, such as real estate, facilities improvements, and R&D operations.
+Fuel and energy-related activities (not included in Scopes 1 or 2)
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+4403
+% change in emissions in this category
+8
+Please explain
+Increased energy consumption associated with increase in business production
+Upstream transportation and distribution
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+223422
+% change in emissions in this category
+42
+Please explain
+The semiconductor industry experienced unprecedented growth due to increasing demand for technologies enabled by chips – including those that are enabling the net zero transition, such as EVs and smarter power sector systems. We were also working to close the gap in our order backlog that resulted from pandemic-related supply chain interruptions, which elevated our production rates – particularly through temporary increases in air transportation.
+Waste generated in operations
+Direction of change
+Decreased
+Primary reason for change
+Change in material efficiency
+Change in emissions in this category (metric tons CO2e)
+34
+% change in emissions in this category
+2
+Please explain
+Our waste sent to landfill and incineration both decreased compared to the previous year
+Business travel
+Direction of change
+Increased
+Primary reason for change
+Other, please specify (Post pandemic rebound )
+Change in emissions in this category (metric tons CO2e)
+30155
+% change in emissions in this category
+135
+Please explain
+Business-related travel rebounded post-pandemic. Applied Materials is encouraging smarter business travel practices and aiming to stabilize travel rates well below our FY19 levels. In FY22 we were 46% below our FY19 baseline for business travel.
+Employee commuting
+Direction of change
+Increased
+Primary reason for change
+Other, please specify (Post pandemic rebound change in emissions in this category (metric tons CO2e) )
+Change in emissions in this category (metric tons CO2e)
+7559
+% change in emissions in this category
+31
+Please explain
+Employees started to return to the office post pandemic era closures, however we were still 58% below our FY19 baseline employee commute emissions.
+Upstream leased assets
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+144
+% change in emissions in this category
+4
+Please explain
+Minor increase due to expanding business growth
+Downstream transportation and distribution
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+85318
+% change in emissions in this category
+59
+Please explain
+The semiconductor industry experienced unprecedented growth due to increasing demand for technologies enabled by chips – including those that are enabling the net zero transition, such as EVs and smarter power sector systems. We were also working to close the gap in our order backlog that resulted from pandemic-related supply chain interruptions, which elevated our production rates – particularly through temporary increases in air transportation.
+Use of sold products
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+2361216
+% change in emissions in this category
+14
+Please explain
+The semiconductor industry experienced unprecedented growth due to increasing demand for technologies enabled by chips – including those that are enabling the net zero transition, such as EVs and smarter power sector systems. We were also working to close the gap in our order backlog that resulted from pandemic-related supply chain interruptions, which elevated our production rates.
+End-of-life treatment of sold products
+Direction of change
+Increased
+Primary reason for change
+Change in output
+Change in emissions in this category (metric tons CO2e)
+95
+% change in emissions in this category
+11
+Please explain
+Greater production growth due to business demand and closing production backlog resulted in higher volumes of product that ultimately will require end-of-life processing.
+Downstream leased assets
+Direction of change
+Decreased
+Primary reason for change
+Divestment
+Change in emissions in this category (metric tons CO2e)
+1120
+% change in emissions in this category
+28
+Please explain
+Exited certain leased assets in FY22
+Investments
+Direction of change
+Increased
+Primary reason for change
+Other, please specify (Strong industry performance)
+Change in emissions in this category (metric tons CO2e)
+17603
+% change in emissions in this category
+12
+Please explain
+Increased due to expanded company investment activities, which were correlated with continued strong demand in the semiconductor industry.
+C8. Energy
+C8.1
+(C8.1) What percentage of your total operational spend in the reporting year was on energy?
+More than 0% but less than or equal to 5%
+C8.2
+(C8.2) Select which energy-related activities your organization has undertaken.
+Indicate whether your organization undertook this energy-related activity in the reporting year
+Consumption of fuel (excluding feedstocks)	
+Yes
+Consumption of purchased or acquired electricity	
+Yes
+Consumption of purchased or acquired heat	
+No
+Consumption of purchased or acquired steam	
+No
+Consumption of purchased or acquired cooling	
+No
+Generation of electricity, heat, steam, or cooling	
+Yes
+C8.2a
+(C8.2a) Report your organization’s energy consumption totals (excluding feedstocks) in MWh.
+Heating value	MWh from renewable sources	MWh from non-renewable sources	Total (renewable and non-renewable) MWh
+Consumption of fuel (excluding feedstock)	
+HHV (higher heating value)
+0
+133457
+133457
+Consumption of purchased or acquired electricity	
+<Not Applicable>
+319023
+146892
+463886
+Consumption of purchased or acquired heat	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired steam	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired cooling	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of self-generated non-fuel renewable energy	
+<Not Applicable>
+157
+<Not Applicable>
+157
+Total energy consumption	
+<Not Applicable>
+319180
+280348
+597500
+C8.2b
+(C8.2b) Select the applications of your organization’s consumption of fuel.
+Indicate whether your organization undertakes this fuel application
+Consumption of fuel for the generation of electricity	
+Yes
+Consumption of fuel for the generation of heat	
+Yes
+Consumption of fuel for the generation of steam	
+Yes
+Consumption of fuel for the generation of cooling	
+No
+Consumption of fuel for co-generation or tri-generation	
+No
+C8.2c
+(C8.2c) State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.
+Sustainable biomass
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other biomass
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other renewable fuels (e.g. renewable hydrogen)
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Coal
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Oil
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+866
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Diesel
+Gas
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+132511
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Natural gas and propane
+Other non-renewable fuels (e.g. non-renewable hydrogen)
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Total fuel
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+133457
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+0
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Natural gas, diesel, propane
+C8.2d
+(C8.2d) Provide details on the electricity, heat, steam, and cooling your organization has generated and consumed in the reporting year.
+Total Gross generation (MWh)	Generation that is consumed by the organization (MWh)	Gross generation from renewable sources (MWh)	Generation from renewable sources that is consumed by the organization (MWh)
+Electricity	
+2185
+157
+2185
+157
+Heat	
+0
+0
+0
+0
+Steam	
+0
+0
+0
+0
+Cooling	
+0
+0
+0
+0
+C8.2g
+(C8.2g) Provide a breakdown by country/area of your non-fuel energy consumption in the reporting year.
+Country/area
+Canada
+Consumption of purchased electricity (MWh)
+106
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+China
+Consumption of purchased electricity (MWh)
+18194
+Consumption of self-generated electricity (MWh)
+5
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Finland
+Consumption of purchased electricity (MWh)
+1903
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+France
+Consumption of purchased electricity (MWh)
+188
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Germany
+Consumption of purchased electricity (MWh)
+8831
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Greece
+Consumption of purchased electricity (MWh)
+32
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+India
+Consumption of purchased electricity (MWh)
+7540
+Consumption of self-generated electricity (MWh)
+0.3
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Ireland
+Consumption of purchased electricity (MWh)
+62
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Israel
+Consumption of purchased electricity (MWh)
+41299
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Italy
+Consumption of purchased electricity (MWh)
+903
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Japan
+Consumption of purchased electricity (MWh)
+1090
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Republic of Korea
+Consumption of purchased electricity (MWh)
+6002
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Malaysia
+Consumption of purchased electricity (MWh)
+146
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Netherlands
+Consumption of purchased electricity (MWh)
+188
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Philippines
+Consumption of purchased electricity (MWh)
+66
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Singapore
+Consumption of purchased electricity (MWh)
+22743
+Consumption of self-generated electricity (MWh)
+191
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Taiwan, China
+Consumption of purchased electricity (MWh)
+45723
+Consumption of self-generated electricity (MWh)
+0.02
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+United Kingdom of Great Britain and Northern Ireland
+Consumption of purchased electricity (MWh)
+60
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+United States of America
+Consumption of purchased electricity (MWh)
+306784
+Consumption of self-generated electricity (MWh)
+1989
+Is this electricity consumption excluded from your RE100 commitment?
+No
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+C8.2h
+(C8.2h) Provide details of your organization’s renewable electricity purchases in the reporting year by country/area.
+Country/area of consumption of purchased renewable electricity
+United States of America
+Sourcing method
+Financial (virtual) power purchase agreement (VPPA)
+Renewable electricity technology type
+Wind
+Renewable electricity consumed via selected sourcing method in the reporting year (MWh)
+183604
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of purchased renewable electricity
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+Yes
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+2021
+Vintage of the renewable energy/attribute (i.e. year of generation)
+2022
+Supply arrangement start year
+2021
+Additional, voluntary label associated with purchased renewable electricity
+Green-e
+Comment
+White Mesa Wind VPPA
+Country/area of consumption of purchased renewable electricity
+United States of America
+Sourcing method
+Retail supply contract with an electricity supplier (retail green electricity)
+Renewable electricity technology type
+Renewable electricity mix, please specify (Solar + wind)
+Renewable electricity consumed via selected sourcing method in the reporting year (MWh)
+41929
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of purchased renewable electricity
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Vintage of the renewable energy/attribute (i.e. year of generation)
+2022
+Supply arrangement start year
+2021
+Additional, voluntary label associated with purchased renewable electricity
+No additional, voluntary label
+Comment
+Austin Energy standard delivery of renewable electricity
+Country/area of consumption of purchased renewable electricity
+United States of America
+Sourcing method
+Retail supply contract with an electricity supplier (retail green electricity)
+Renewable electricity technology type
+Renewable electricity mix, please specify (Solar + wind)
+Renewable electricity consumed via selected sourcing method in the reporting year (MWh)
+50671
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of purchased renewable electricity
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Vintage of the renewable energy/attribute (i.e. year of generation)
+2022
+Supply arrangement start year
+2017
+Additional, voluntary label associated with purchased renewable electricity
+No additional, voluntary label
+Comment
+Silicon Valley Clean Energy Community Choice Energy program
+Country/area of consumption of purchased renewable electricity
+Germany
+Sourcing method
+Retail supply contract with an electricity supplier (retail green electricity)
+Renewable electricity technology type
+Large hydropower (>25 MW)
+Renewable electricity consumed via selected sourcing method in the reporting year (MWh)
+7305
+Tracking instrument used
+GO
+Country/area of origin (generation) of purchased renewable electricity
+Germany
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Vintage of the renewable energy/attribute (i.e. year of generation)
+2022
+Supply arrangement start year
+2019
+Additional, voluntary label associated with purchased renewable electricity
+No additional, voluntary label
+Comment
+Applied's Alzenau site is powered by 100% sustainable hydropower
+Country/area of consumption of purchased renewable electricity
+India
+Sourcing method
+Purchase from an on-site installation owned by a third party (on-site PPA)
+Renewable electricity technology type
+Solar
+Renewable electricity consumed via selected sourcing method in the reporting year (MWh)
+2977
+Tracking instrument used
+Contract
+Country/area of origin (generation) of purchased renewable electricity
+India
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Vintage of the renewable energy/attribute (i.e. year of generation)
+2022
+Supply arrangement start year
+2021
+Additional, voluntary label associated with purchased renewable electricity
+No additional, voluntary label
+Comment
+Onsite solar PPA at International Tech Park campus in Bangaluru
+Country/area of consumption of purchased renewable electricity
+United States of America
+Sourcing method
+Unbundled procurement of Energy Attribute Certificates (EACs)
+Renewable electricity technology type
+Wind
+Renewable electricity consumed via selected sourcing method in the reporting year (MWh)
+32536
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of purchased renewable electricity
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+Yes
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+2021
+Vintage of the renewable energy/attribute (i.e. year of generation)
+2022
+Supply arrangement start year
+2021
+Additional, voluntary label associated with purchased renewable electricity
+Green-e
+Comment
+Applied Materials purchased unbundled wind RECs
+C8.2j
+(C8.2j) Provide details of your organization’s renewable electricity generation by country/area in the reporting year.
+Country/area of generation
+China
+Renewable electricity technology type
+Solar
+Facility capacity (MW)
+0.07
+Total renewable electricity generated by this facility in the reporting year (MWh)
+5
+Renewable electricity consumed by your organization from this facility in the reporting year (MWh)
+5
+Energy attribute certificates issued for this generation
+No
+Type of energy attribute certificate
+<Not Applicable>
+Comment
+Owned onsite solar
+Country/area of generation
+India
+Renewable electricity technology type
+Solar
+Facility capacity (MW)
+0.26
+Total renewable electricity generated by this facility in the reporting year (MWh)
+0.3
+Renewable electricity consumed by your organization from this facility in the reporting year (MWh)
+0.3
+Energy attribute certificates issued for this generation
+No
+Type of energy attribute certificate
+<Not Applicable>
+Comment
+Owned onsite solar
+Country/area of generation
+Singapore
+Renewable electricity technology type
+Solar
+Facility capacity (MW)
+0.35
+Total renewable electricity generated by this facility in the reporting year (MWh)
+118
+Renewable electricity consumed by your organization from this facility in the reporting year (MWh)
+118
+Energy attribute certificates issued for this generation
+No
+Type of energy attribute certificate
+<Not Applicable>
+Comment
+owned onsite solar
+Country/area of generation
+United States of America
+Renewable electricity technology type
+Solar
+Facility capacity (MW)
+0.24
+Total renewable electricity generated by this facility in the reporting year (MWh)
+33
+Renewable electricity consumed by your organization from this facility in the reporting year (MWh)
+33
+Energy attribute certificates issued for this generation
+No
+Type of energy attribute certificate
+<Not Applicable>
+Comment
+owned onsite solar
+C8.2k
+(C8.2k) Describe how your organization’s renewable electricity sourcing strategy directly or indirectly contributes to bringing new capacity into the grid in the countries/areas in which you operate.
+Applied Materials has added additional clean energy to the grid in two ways: 
+
+Onsite solar – Applied Materials has invested in onsite solar arrays in China, India, Singapore, and the U.S. Additional onsite projects have been approved in the U.S. and Taiwan, which will be reported on in future years.  
+Virtual Power Purchase Agreement – Applied Materials signed on to a 50MW wind VPPA in White Mesa Texas as a part of a larger deal with other corporate off-takers that enabled the 500MW wind farm to be built, adding new wind power to the ERCOT grid starting in October 2021. 
+C8.2l
+(C8.2l) In the reporting year, has your organization faced any challenges to sourcing renewable electricity?
+Challenges to sourcing renewable electricity	Challenges faced by your organization which were not country/area-specific
+Row 1	
+Yes, in specific countries/areas in which we operate
+<Not Applicable>
+C8.2m
+(C8.2m) Provide details of the country/area-specific challenges to sourcing renewable electricity faced by your organization in the reporting year.
+Country/area	Reason(s) why it was challenging to source renewable electricity within selected country/area	Provide additional details of the barriers faced within this country/area
+Taiwan, China
+Limited supply of renewable electricity in the market
+Prohibitively priced renewable electricity
+Taiwan’s renewable energy market is still limited in scale and unable to meet the total demand needs of buyers in the market. What supply comes online is quickly purchased by much larger buyers, making it difficult and costly for more mid-sized companies like ours to participate. Further, market constraints also drive up the prices of what projects are available. Applied Materials has executed its first PPA in Taiwan but covers only a portion of our full load.
+Singapore
+Lack of electricity market structure supporting bilateral PPAs
+Limited supply of renewable electricity in the market
+Prohibitively priced renewable electricity
+Singapore’s renewable energy supply is extremely limited and constrained by the country’s small physical footprint. Onsite solar seems to be the only viable option for most buyers. Applied Materials is developing further plans for such projects where possible; however, they will not deliver the volume of clean energy required by our operations. The only viable options available are either grid interconnection with neighboring countries or importing green hydrogen, which is still a nascent technology.
+Republic of Korea
+Lack of credible renewable electricity procurement options (e.g. EACs, Green Tariffs)
+Limited supply of renewable electricity in the market
+South Korea’s market is similarly constrained, with no PPA/VPPA options available to the best of our knowledge. The centrally managed utility is prohibitive to new developers coming into the market and adding competitive solutions, and it’s unclear how much the utility is doing to develop its own sources of renewable power.
+C-CG8.5
+(C-CG8.5) Does your organization measure the efficiency of any of its products or services?
+Measurement of product/service efficiency	Comment
+Row 1	
+Yes
+Applied Materials set the goal in 2020 to reduce equivalent energy consumption for semiconductor products by 30% by 2030; as part of this initiative, we are modelling typical energy use across our tools.
+C-CG8.5a
+(C-CG8.5a) Provide details of the metrics used to measure the efficiency of your organization's products or services.
+Category of product or service
+Industrial machinery
+Product or service (optional)
+All semiconductor manufacturing equipment under development since 2019
+% of revenue from this product or service in the reporting year
+73
+Efficiency figure in the reporting year
+Metric numerator
+megawatt hour (MWh)
+Metric denominator
+Other, please specify (Per wafer pass)
+Comment
+Applied Materials is actively tracking energy efficiency across product groups; however we are not ready to share this information publicly.
+C9. Additional metrics
+C9.1
+(C9.1) Provide any additional climate-related metrics relevant to your business.
+C-CE9.6/C-CG9.6/C-CH9.6/C-CN9.6/C-CO9.6/C-EU9.6/C-MM9.6/C-OG9.6/C-RE9.6/C-ST9.6/C-TO9.6/C-TS9.6
+(C-CE9.6/C-CG9.6/C-CH9.6/C-CN9.6/C-CO9.6/C-EU9.6/C-MM9.6/C-OG9.6/C-RE9.6/C-ST9.6/C-TO9.6/C-TS9.6) Does your organization invest in research and development (R&D) of low-carbon products or services related to your sector activities?
+Investment in low-carbon R&D	Comment
+Row 1	
+Yes
+Applied Materials is actively engaging in R&D to develop lower-carbon hardware and software solutions, from identifying more efficient processes, reducing inputs, or providing monitoring to identify hotspots and optimize performance of semiconductor manufacturing. As examples of what these investments are delivering, Applied Materials recently announced the release of new tools such as Sculpta® and Vistara™ that offer energy efficiency and other sustainability benefits to our customers. Beyond the direct impact of our equipment, our technologies are also focused on enabling improved energy performance of semiconductor chips the products they operate within, whether it’s devices or data centers.
+C-CG9.6a
+(C-CG9.6a) Provide details of your organization’s investments in low-carbon R&D for capital goods products and services over the last three years.
+Technology area
+Other, please specify (Semiconductor manufacturing)
+Stage of development in the reporting year
+Large scale commercial deployment
+Average % of total R&D investment over the last 3 years
+R&D investment figure in the reporting year (unit currency as selected in C0.4) (optional)
+Average % of total R&D investment planned over the next 5 years
+Explain how your R&D investment in this technology area is aligned with your climate commitments and/or climate transition plan
+Designed in-house, our web-based modeling and quantification tool analyzes design and end-user data to pinpoint sustainability improvements for legacy, in-production, and design-stage semiconductor manufacturing tools. Modeling efforts focus on our 3x30 goals of reducing energy use, chemical impact, and the equipment’s physical footprint to increase throughput density per square foot of cleanroom space. Analysis of tools in the design stage provides design engineers with data on the tool’s projected resource consumption and other environmental impacts, allowing improvements before the tool goes into production. Analysis of existing tools supports identification of process efficiency improvements that we can communicate to our customers to boost sustainability performance. While Applied Materials does plan to increase investments in low carbon products over the next 5 years, we view such R&D investment as competitive and confidential information, therefore we cannot disclose current or future investment figures publicly.
+C10. Verification
+C10.1
+(C10.1) Indicate the verification/assurance status that applies to your reported emissions.
+Verification/assurance status
+Scope 1	
+Third-party verification or assurance process in place
+Scope 2 (location-based or market-based)	
+Third-party verification or assurance process in place
+Scope 3	
+Third-party verification or assurance process in place
+C10.1a
+(C10.1a) Provide further details of the verification/assurance undertaken for your Scope 1 emissions, and attach the relevant statements.
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+ERM CVS - Assurance Report for Applied Materials CDP Climate 2023 (1).pdf
+Page/ section reference
+All pages
+Relevant standard
+ISAE3000
+Proportion of reported emissions verified (%)
+100
+C10.1b
+(C10.1b) Provide further details of the verification/assurance undertaken for your Scope 2 emissions and attach the relevant statements.
+Scope 2 approach
+Scope 2 location-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+ERM CVS - Assurance Report for Applied Materials CDP Climate 2023 (1).pdf
+Page/ section reference
+all pages
+Relevant standard
+ISAE3000
+Proportion of reported emissions verified (%)
+100
+Scope 2 approach
+Scope 2 market-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+ERM CVS - Assurance Report for Applied Materials CDP Climate 2023 (1).pdf
+Page/ section reference
+all pages
+Relevant standard
+ISAE3000
+Proportion of reported emissions verified (%)
+100
+C10.1c
+(C10.1c) Provide further details of the verification/assurance undertaken for your Scope 3 emissions and attach the relevant statements.
+Scope 3 category
+Scope 3: Purchased goods and services
+Scope 3: Capital goods
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2)
+Scope 3: Upstream transportation and distribution
+Scope 3: Waste generated in operations
+Scope 3: Business travel
+Scope 3: Employee commuting
+Scope 3: Upstream leased assets
+Scope 3: Investments
+Scope 3: Downstream transportation and distribution
+Scope 3: Use of sold products
+Scope 3: End-of-life treatment of sold products
+Scope 3: Downstream leased assets
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+ERM CVS - Assurance Report for Applied Materials CDP Climate 2023 (1).pdf
+Page/section reference
+all pages
+Relevant standard
+ISAE3000
+Proportion of reported emissions verified (%)
+100
+C10.2
+(C10.2) Do you verify any climate-related information reported in your CDP disclosure other than the emissions figures reported in C6.1, C6.3, and C6.5?
+Yes
+C10.2a
+(C10.2a) Which data points within your CDP disclosure have been verified, and which verification standards were used?
+Disclosure module verification relates to	Data verified	Verification standard	Please explain
+C8. Energy
+Energy consumption
+International Standard on Assurance Engagements ISAE 3000 (Revised)
+The following energy data was assured: - Total energy consumption [MWh] - Total electricity consumption [MWh] - Total renewable energy consumption [MWh] - Percentage renewable electricity consumption [%]
+ERM CVS - Assurance Report for Applied Materials CDP Climate 2023 (1).pdf
+C6. Emissions data
+Other, please specify (Emissions intensity)
+International Standard on Assurance Engagements ISAE 3000 (Revised)
+- Scope 1 and 2 emissions intensity by revenue
+- Scope 1 and 2 emissions intensity by employee headcount
+ERM CVS - Assurance Report for Applied Materials CDP Climate 2023 (1).pdf
+C11. Carbon pricing
+C11.1
+(C11.1) Are any of your operations or activities regulated by a carbon pricing system (i.e. ETS, Cap & Trade or Carbon Tax)?
+No, and we do not anticipate being regulated in the next three years
+C11.2
+(C11.2) Has your organization canceled any project-based carbon credits within the reporting year?
+No
+C11.3
+(C11.3) Does your organization use an internal price on carbon?
+No, but we anticipate doing so in the next two years
+C12. Engagement
+C12.1
+(C12.1) Do you engage with your value chain on climate-related issues?
+Yes, our suppliers
+Yes, our customers/clients
+C12.1a
+(C12.1a) Provide details of your climate-related supplier engagement strategy.
+Type of engagement
+Information collection (understanding supplier behavior)
+Details of engagement
+Collect GHG emissions data at least annually from suppliers 
+Collect targets information at least annually from suppliers 
+% of suppliers by number
+4
+% total procurement spend (direct and indirect)
+80
+% of supplier-related Scope 3 emissions as reported in C6.5
+78
+Rationale for the coverage of your engagement
+Applied Materials recognizes the climate and energy impact of our value chain. ~15% of our Scope 3 2019 baseline emissions lie in the Purchased Goods and Services category, demonstrating the importance of gathering information and engaging the suppliers associated with this key category of emissions. Applied Materials evaluates material ESG impacts within our supply chain, including climate and energy performance, by assessing the top (approximately 80% of spend) of our suppliers by spend for compliance with the Responsible Business Alliance code of conduct and by assessing their GHG programs with an additional GHG focused survey. Data is collected and analyzed on an annual basis and is augmented with further external research of climate-related goals and metrics using publicly available information.
+Impact of engagement, including measures of success
+We have escalated the issue of climate and energy management with suppliers through our enhanced effort to gather this level of performance data from our suppliers covering approximately 80% of spend. Our data collection and communication of our expectation to suppliers that these issues be effectively managed help drive action in parts of the semiconductor supply chain that have not typically been reached. Key measures of success include increasing supplier response rates to the survey by ~10% per year as well as increasing the proportion of responding suppliers each year who are a) tracking and measuring their energy and emissions and b) establishing GHG reduction goals.
+Comment
+Type of engagement
+Engagement & incentivization (changing supplier behavior)
+Details of engagement
+Provide training, support, and best practices on how to set science-based targets 
+% of suppliers by number
+4
+% total procurement spend (direct and indirect)
+80
+% of supplier-related Scope 3 emissions as reported in C6.5
+78
+Rationale for the coverage of your engagement
+Applied Materials’ SuCCESS2030 initiative includes a 10-year roadmap that extends our sustainability vision across our supply chain for semiconductor and display manufacturing. Through this program, Applied Materials communicates its ESG priorities, including climate and energy-related issues, engages and educates suppliers on expectations, and identifies high risk suppliers who are then audited against the framework. In 2022 we hosted a supplier webinar to remind suppliers of our commitment to sustainability and inform them of our expectations of quality data and emission reduction goals. To further incentivize their participation, we introduced our partnership with a third party that will help suppliers calculate Scope 1 and 2 emissions and set reduction targets. This assistance is open to all suppliers, but we have focused on suppliers in the top ~80% of spend.
+Impact of engagement, including measures of success
+The webinar and third-party engagement have enabled suppliers to act on the principles covered in the RBA code of conduct, including the expectation to track, set goals against, and reduce GHG emissions. This is an improvement from our 2021 engagement, which focused on educating a limited group of 20 suppliers. This year we are continuing to help suppliers take meaningful steps to sustainability through training, webinars, and data validation. A key measure of success includes increasing the number of suppliers with quality emissions data and commitments to emissions reduction and renewable energy usage.
+Comment
+C12.1b
+(C12.1b) Give details of your climate-related engagement strategy with your customers.
+Type of engagement & Details of engagement
+Education/information sharing	Run an engagement campaign to educate customers about the climate change impacts of (using) your products, goods, and/or services
+% of customers by number
+14
+% of customer - related Scope 3 emissions as reported in C6.5
+70
+Please explain the rationale for selecting this group of customers and scope of engagement
+Scope 3 Category 11 covering the use of our semiconductor products in our customer’s facilities is the largest contributor to our Scope 3 emissions, representing nearly 80% of our total GHG footprint. Applied Materials cannot achieve its own Scope 3 reduction goals without engaging our customers. Applied Materials engages its largest customers by sales and emissions to share information on its low-carbon and more efficient product offerings and will collaborate with customers to model energy savings opportunities and implement solutions, such as our iSystem intelligent controller, which enables tracking of resource consumption, emissions, and other environmental factors. We prioritize our largest customers to amplify the impact these products can have in the market, and fortunately these largest customers are also generally the ones that have their own established climate and energy-related goals and initiatives in place, which we can support through hardware and software solutions. Much of our footprint depends on how our customers use our equipment; therefore, close collaboration is needed to support the development of lower impact processes.
+Impact of engagement, including measures of success
+With this design support, our product groups’ responsibilities extend beyond traditional performance attributes to encompass sustainability performance as well—adding new features to our existing portfolio of energy-saving product enhancements, passing on substantial energy saving opportunities to our customers, and modelling sustainability leadership industry-wide—for example, redesigning chillers and chilling processes to reduce energy and water consumption, locating sensors optimally to collect data and inform sustainability improvements, etc. Through such measures we have enabled annual energy use reductions in the tens of millions of kWh per year for our customers, and we expect this trend to continue to increase in the coming years. Key measures of success include maintaining or increasing engagement with customers representing at least 70% of Scope 3 Category 11 emissions, increasing the total number of energy-saving projects implemented per customer per year, and increasing the total annual savings of such projects in terms of kWh and CO2e.
+C12.2
+(C12.2) Do your suppliers have to meet climate-related requirements as part of your organization’s purchasing process?
+Yes, climate-related requirements are included in our supplier contracts
+C12.2a
+(C12.2a) Provide details of the climate-related requirements that suppliers have to meet as part of your organization’s purchasing process and the compliance mechanisms in place.
+Climate-related requirement
+Climate-related disclosure through a non-public platform
+Description of this climate related requirement
+Applied Materials expects its suppliers representing approximately 80% of procurement spend to disclose their available climate and energy data as a part of the annual RBA assessment process. Applied Materials uses an environmental survey to capture information on total scope 1, 2, and 3 greenhouse gas emissions, energy and water consumption, waste generation, any goals/targets suppliers have set to improve their performance, and where more information regarding their climate, energy and water programs can be found. In addition, Applied Materials reviews suppliers' publicly available sustainability reports and CDP disclosures to track and validate climate-related data. In 2022, Applied Materials further enforced climate-related requirements through a third party that helps suppliers calculate and validate data.
+% suppliers by procurement spend that have to comply with this climate-related requirement
+80
+% suppliers by procurement spend in compliance with this climate-related requirement
+61
+Mechanisms for monitoring compliance with this climate-related requirement
+Supplier self-assessment
+Supplier scorecard or rating
+Response to supplier non-compliance with this climate-related requirement
+Retain and engage
+C12.3
+(C12.3) Does your organization engage in activities that could either directly or indirectly influence policy, law, or regulation that may impact the climate?
+Row 1
+External engagement activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+Yes, our membership of/engagement with trade associations could influence policy, law, or regulation that may impact the climate
+Does your organization have a public commitment or position statement to conduct your engagement activities in line with the goals of the Paris Agreement?
+Yes
+Attach commitment or position statement(s)
+https://www.appliedmaterials.com/us/en/corporate-responsibility/planet/net-zero.html
+Describe the process(es) your organization has in place to ensure that your external engagement activities are consistent with your climate commitments and/or climate transition plan
+The ESG team works closely with Applied Materials’ Government Affairs team to ensure awareness of Applied Materials’ ESG-related priorities and objectives (including climate-related issues) and alignment in any engagement efforts. The Government Affairs team actively flags key updates, rulemaking and opportunities that may pertain to Applied Materials’ climate interests – for example, the passage of the recent Inflation Reduction Act. In July 2023, Applied Materials announced its 2040 Net Zero Playbook which serves as our position statement to conduct engagement activities in line with this ambition.
+Primary reason for not engaging in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+Explain why your organization does not engage in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+C12.3b
+(C12.3b) Provide details of the trade associations your organization is a member of, or engages with, which are likely to take a position on any policy, law or regulation that may impact the climate.
+Trade association
+Other, please specify (Semiconductor Industry Associate (SIA))
+Is your organization’s position on climate change policy consistent with theirs?
+Mixed
+Has your organization attempted to influence their position in the reporting year?
+Yes, and they have changed their position 
+Describe how your organization’s position is consistent with or differs from the trade association’s position, and any actions taken to influence their position
+SIA has generally been active in evaluating and engaging on climate-related issues on behalf of the semiconductor industry. Because it’s a trade organization, it needs to engage and balance the views of many different sector members. Applied Materials offers its input and engagement on relevant climate-related matters where appropriate.
+Funding figure your organization provided to this trade association in the reporting year (currency as selected in C0.4)
+Describe the aim of your organization’s funding
+<Not Applicable>
+Have you evaluated whether your organization’s engagement with this trade association is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+C12.4
+(C12.4) Have you published information about your organization’s response to climate change and GHG emissions performance for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+2022_Sustainability_Annex_F.pdf.coredownload.inline.pdf
+Page/Section reference
+Full report: https://www.appliedmaterials.com/content/dam/site/company/csr/doc/2022_Sustainability_F.pdf.coredownload.inline.pdf
+2022 Sustainability Report: Planet and Progress sections;
+2022 Sustainability Annex: Environmental Metrics, SASB Index, TCFD Index
+Content elements
+Governance
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Other metrics
+Comment
+Publication
+In mainstream reports
+Status
+Complete
+Attach the document
+2022 Annual Report (1).pdf
+Page/Section reference
+pages 4, 16, 18, 23, 25, 34
+Content elements
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Comment
+C12.5
+(C12.5) Indicate the collaborative frameworks, initiatives and/or commitments related to environmental issues for which you are a signatory/member.
+Environmental collaborative framework, initiative and/or commitment	Describe your organization’s role within each framework, initiative and/or commitment
+Row 1	
+RE100
+Task Force on Climate-related Financial Disclosures (TCFD)
+Other, please specify (SEMI Climate Consortium)
+- Applied Materials joined RE100 in the reporting year and is leveraging the resources available to advance its objective of reaching 100% renewable electricity globally by 2030. In particular, we are evaluating policy engagement opportunities in APAC markets such as Taiwan and South Korea.
+
+- This is Applied Materials’ second year reporting in alignment with the TCFD framework. Our TCFD disclosure is reported through our Sustainability Report Annex as well as the CDP Climate questionnaire.
+
+- Applied Materials is a founding member of the newly formed SEMI Climate Consortium (SCC), which is working to advance climate efforts across the semiconductor value chain. Applied Materials serves on the governing council and leads and actively participates in the various SCC working groups.
+C15. Biodiversity
+C15.1
+(C15.1) Is there board-level oversight and/or executive management-level responsibility for biodiversity-related issues within your organization?
+Board-level oversight and/or executive management-level responsibility for biodiversity-related issues	Description of oversight and objectives relating to biodiversity	Scope of board-level oversight
+Row 1	
+No, and we do not plan to have both within the next two years
+<Not Applicable>
+<Not Applicable>
+C15.2
+(C15.2) Has your organization made a public commitment and/or endorsed any initiatives related to biodiversity?
+Indicate whether your organization made a public commitment or endorsed any initiatives related to biodiversity	Biodiversity-related public commitments	Initiatives endorsed
+Row 1	
+No, but we plan to do so within the next 2 years
+<Not Applicable>
+<Not Applicable>
+C15.3
+(C15.3) Does your organization assess the impacts and dependencies of its value chain on biodiversity?
+Impacts on biodiversity
+Indicate whether your organization undertakes this type of assessment
+No and we don’t plan to within the next two years
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+Dependencies on biodiversity
+Indicate whether your organization undertakes this type of assessment
+No and we don’t plan to within the next two years
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+C15.4
+(C15.4) Does your organization have activities located in or near to biodiversity- sensitive areas in the reporting year?
+No
+C15.5
+(C15.5) What actions has your organization taken in the reporting year to progress your biodiversity-related commitments?
+Have you taken any actions in the reporting period to progress your biodiversity-related commitments?	Type of action taken to progress biodiversity- related commitments
+Row 1	
+No, we are not taking any actions to progress our biodiversity-related commitments, but we plan to within the next two years
+<Not Applicable>
+C15.6
+(C15.6) Does your organization use biodiversity indicators to monitor performance across its activities?
+Does your organization use indicators to monitor biodiversity performance?	Indicators used to monitor biodiversity performance
+Row 1	
+No
+Please select
+C15.7
+(C15.7) Have you published information about your organization’s response to biodiversity-related issues for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Report type	Content elements	Attach the document and indicate where in the document the relevant biodiversity information is located
+In voluntary sustainability report or other voluntary communications
+Content of biodiversity-related policies or commitments
+48
+C16. Signoff
+C-FI
+(C-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please note that this field is optional and is not scored.
+C16.1
+(C16.1) Provide details for the person that has signed off (approved) your CDP climate change response.
+Job title	Corresponding job category
+Row 1	
+President and Chief Executive Officer
+Chief Executive Officer (CEO)
+C0. Introduction
+C1. Governance
+C2. Risks and opportunities
+C3. Business Strategy
+C4. Targets and performance
+C5. Emissions methodology
+C6. Emissions data
+C7. Emissions breakdowns
+C8. Energy
+C9. Additional metrics
+C10. Verification
+C11. Carbon pricing
+C12. Engagement
+C15. Biodiversity
+C16. Signoff
+CDP
+Still need help?  Contact us.
+
+© 2024 CDP Worldwide
+Registered Charity no. 1122330
+VAT registration no: 923257921
+
+A company limited by guarantee registered in England no. 05013650
+
+Accredited solutions providers
+Offices
+Staff
+Trustees, board and advisors
+Cookies
+Privacy
+Terms & Conditions
+Careers
+ LinkedIn
+ Twitter
+ YouTube
+ Vimeo

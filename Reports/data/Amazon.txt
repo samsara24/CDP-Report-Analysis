@@ -1,0 +1,2315 @@
+Help Center Guidance & questionnaires Contact Language  Location Account menu 
+CDP
+ ZHAbout us Our work Why disclose? Become a member Data and insights
+Amazon.com Inc - Climate Change 2023
+C0. Introduction
+C0.1
+(C0.1) Give a general description and introduction to your organization.
+  
+
+Amazon is a global company with approximately 1.5 million full- and part-time employees worldwide and operations in Africa, Asia-Pacific, Europe, India, Latin America, the Middle East, and North America. We strive to be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work in the industries in which we operate.
+
+
+
+We have organized our operations into three segments: North America, International, and Amazon Web Services (“AWS”). These segments reflect the way the Company evaluates its business performance and manages its operations. In each of our segments, we serve our primary customer sets, consisting of consumers, sellers, developers, enterprises, content creators, advertisers, and employees. In addition, we provide services, such as advertising to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising. Our dedication to delighting customers drives us to constantly invent on their behalf and has led to the launch of many innovations, including 1-Click shopping, Alexa, Amazon Echo, Amazon Studios, Amazon Web Services (AWS), Career Choice, customer reviews, Fire tablets, Fire TV, Fulfillment by Amazon, Just Walk Out technology, Kindle, Kindle Direct Publishing, personalized recommendations, Prime, and The Climate Pledge.
+
+
+
+We put our customers at the heart of everything we do and relentlessly innovate to meet their needs, enrich their lives, and make every day better. With our mission to be Earth’s most customer-centric company comes an innate aspiration to address the environmental and social challenges our customers and communities face—from the impacts of climate change to social inequity. While these issues are increasingly complex, urgent, and interconnected, we believe in the potential for solutions driven by ingenuity and collaborative action. As an organization serving global communities, we have a broad responsibility to mitigate the impacts of our business, while helping to address the environmental and social challenges we collectively face. We use our scale and culture of innovation to help create a more sustainable future.
+
+
+
+Scaling our positive impact is underpinned by The Climate Pledge—a commitment to be net-zero carbon by 2040—which we co-founded in 2019. The Climate Pledge brings together the world’s top companies to accelerate joint action, cross-sector collaboration, and responsible change. More than 390 companies across 36 countries signed the Pledge by the end of 2022, and we are determined to keep bringing on new partners to help combat climate change.
+
+
+
+Amazon’s responses in this questionnaire are provided as of the date of such responses and are subject to change without notice. Amazon does not undertake to update or revise any such statements. Such responses represent current Amazon policy and intent and are not intended to create legal rights or obligations. Our responses may contain or incorporate by reference public information, as well as information provided to Amazon by third parties, not separately reviewed, approved, or endorsed by Amazon and no representation, warranty, or undertaking is made by Amazon as to the accuracy, reasonableness, or completeness of such information. Inclusion of information in response to this questionnaire is not an indication that the subject or information is material to Amazon’s business or operating results.
+
+
+
+Amazon’s responses include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical or current facts, including statements regarding our plans, initiatives, projections, goals, commitments, expectations, or prospects, are forward-looking. We use words such as aim, anticipate, believe, commit, could, drive, estimate, ensure, expect, goal, intend, may, mission, plan, project, seek, strategy, strive, target, and will or similar expressions to identify forward-looking statements. Forward-looking statements reflect management’s current expectations and inherently involve risks and uncertainties. Actual results or outcomes could differ materially due to a variety of factors, including assumptions not being realized, scientific or technological developments, evolving sustainability strategies, changes in carbon markets, evolving government regulations, our expansion into new products, services, technologies, and geographic regions, or other changes in circumstances, as well as the factors set forth in the “Risk Factors” section of Amazon’s most recent Annual Report on Form 10-K and subsequent filings. The standards of measurement and performance contained in our responses are developing and based on assumptions, and no assurance can be given that any plan, initiative, projection, goal, commitment, expectation, or prospect set forth in our responses can or will be achieved.
+
+C0.2
+(C0.2) State the start and end date of the year for which you are reporting data and indicate whether you will be providing emissions data for past reporting years.
+Reporting year
+Start date
+January 1 2022
+End date
+December 31 2022
+Indicate if you are providing emissions data for past reporting years
+No
+Select the number of past reporting years you will be providing Scope 1 emissions data for
+<Not Applicable>
+Select the number of past reporting years you will be providing Scope 2 emissions data for
+<Not Applicable>
+Select the number of past reporting years you will be providing Scope 3 emissions data for
+<Not Applicable>
+C0.3
+(C0.3) Select the countries/areas in which you operate.
+Please select
+C0.4
+(C0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+C0.5
+(C0.5) Select the option that describes the reporting boundary for which climate-related impacts on your business are being reported. Note that this option should align with your chosen approach for consolidating your GHG inventory.
+Operational control
+C0.8
+(C0.8) Does your organization have an ISIN code or another unique identifier (e.g., Ticker, CUSIP, etc.)?
+Indicate whether you are able to provide a unique identifier for your organization	Provide your unique identifier
+Yes, a Ticker symbol
+AMZN
+Yes, an ISIN code
+US0231351067
+C1. Governance
+C1.1
+(C1.1) Is there board-level oversight of climate-related issues within your organization?
+Yes
+C1.1a
+(C1.1a) Identify the position(s) (do not include any names) of the individual(s) on the board with responsibility for climate-related issues.
+Position of individual or committee	Responsibilities for climate-related issues
+Board-level committee
+The Nominating and Corporate Governance Committee of the Board of Directors oversees and monitors the Company’s environmental and sustainability policies and initiatives, including the Company’s progress on The Climate Pledge, and risks related to the Company’s operations, supply chain, and customer engagement.
+
+The Committee also oversees and monitors the Company’s policies and initiatives relating to corporate social responsibility, including human rights and ethical business practices, and risks related to the Company’s operations and engagement with customers, suppliers, and communities, other than with respect to human capital management matters, which are overseen by the Leadership Development and Compensation Committee, and compliance and controls matters, which are overseen by the Audit Committee.
+
+The Nominating and Corporate Governance Committee met with management in five meetings during 2022 and reviewed matters that included consideration of company policies and initiatives regarding the environment and sustainability, corporate social responsibility, and corporate governance, as well as feedback from the Company’s shareholder engagement on the foregoing matters.
+
+To the extent environmental, sustainability, and social responsibility projects and transactions meet the threshold for Board approval (which has included certain long-term energy power purchase agreements), the Board reviews these projects and transactions in detail.
+C1.1b
+(C1.1b) Provide further details on the board’s oversight of climate-related issues.
+Frequency with which climate-related issues are a scheduled agenda item	Governance mechanisms into which climate-related issues are integrated	Scope of board-level oversight	Please explain
+Scheduled – some meetings
+Reviewing and guiding strategy
+Monitoring progress towards corporate targets
+Reviewing and guiding the risk management process
+<Not Applicable>
+The Nominating and Corporate Governance Committee is responsible for overseeing management of risks related to our environmental, sustainability, and corporate social responsibility practices, including risks related to our operations and our supply chain, other than with respect to human capital management matters, which are overseen by the Leadership Development and Compensation Committee, and compliance and controls matters, which are overseen by the Audit Committee. The Nominating and Corporate Governance Committee’s oversight includes monitoring the Company’s environmental and sustainability policies and initiatives, including the Company’s progress on The Climate Pledge, and risks related to the Company’s operations, supply chain, and customer engagement.
+C1.1d
+(C1.1d) Does your organization have at least one board member with competence on climate-related issues?
+Board member(s) have competence on climate-related issues	Criteria used to assess competence of board member(s) on climate-related issues	Primary reason for no board-level competence on climate-related issues	Explain why your organization does not have at least one board member with competence on climate-related issues and any plans to address board-level competence in the future
+Row 1	
+Yes
+In evaluating the nominees for Amazon's Board of Directors, the Board and the Nominating and Corporate Governance Committee took into account the qualities they seek for directors, and the directors’ individual qualifications, skills, and background that enable the directors to effectively and productively contribute to the Board’s oversight of Amazon, as discussed in each director nominee biography and under “Director Nominee Diversity, Tenure, Skills, and Characteristics" in Amazon's 2023 Proxy Statement.
+
+For example, the Chair of the Nominating and Corporate Governance Committee has been sought as a counselor on climate, environmental regulation, and environmental justice issues, and a Board member who is also a member of the Audit Committee has qualifications and skills that include oversight of climate change initiatives in the areas of clean air and renewable energy.
+<Not Applicable>
+<Not Applicable>
+C1.2
+(C1.2) Provide the highest management-level position(s) or committee(s) with responsibility for climate-related issues.
+Position or committee
+Other C-Suite Officer, please specify (CEO, Amazon Web Services)
+Climate-related responsibilities of this position
+Assessing climate-related risks and opportunities
+Managing climate-related risks and opportunities
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+CEO reporting line
+Frequency of reporting to the board on climate-related issues via this reporting line
+Quarterly
+Please explain
+Amazon’s management team holds quarterly business reviews with the leadership teams of all our major businesses to track progress towards meeting our aspirations under The Climate Pledge—a goal to be net zero carbon across our business by 2040, 10 years ahead of the Paris Agreement. The CEO of AWS is responsible for sustainability issues on behalf of the Senior Management Team (“S-Team”).
+Position or committee
+Other, please specify (Vice President, Worldwide Sustainability)
+Climate-related responsibilities of this position
+Assessing climate-related risks and opportunities
+Managing climate-related risks and opportunities
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+Other, please specify (CEO, Amazon Web Services)
+Frequency of reporting to the board on climate-related issues via this reporting line
+Quarterly
+Please explain
+The Vice President Worldwide Sustainability, who reports to the CEO of AWS and provides updates to the Nominating and Corporate Governance Committee, oversees Amazon's Sustainability team. This team coordinates efforts across the company to oversee operational changes that reduce or eliminate carbon in our businesses.
+C1.3
+(C1.3) Do you provide incentives for the management of climate-related issues, including the attainment of targets?
+Provide incentives for the management of climate-related issues	Comment
+Row 1	
+Yes
+C1.3a
+(C1.3a) Provide further details on the incentives provided for the management of climate-related issues (do not include the names of individuals).
+Entitled to incentive
+All employees
+Type of incentive
+Non-monetary reward
+Incentive(s)
+Internal team/employee of the month/quarter/year recognition
+Public recognition
+Performance indicator(s)
+Implementation of employee awareness campaign or training program on climate-related issues
+Incentive plan(s) this incentive is linked to
+Not part of an existing incentive plan
+Further details of incentive(s)
+Amazon’s Sustainability Ambassador program empowers and recognizes our employees’ engagement in sustainable practices, both at home and at work, through internal recognition. We leverage internal employee communication channels to recognize and highlight sustainability success stories spearheaded by Ambassadors across our global workforce.
+Sustainability Ambassadors are sustainability minded Amazon employees who work to amplify global, companywide efforts at the local level. Ambassadors lead projects on Amazon campuses and create virtual engagement opportunities to inspire fellow employees. The program also serves as a community for sharing best practices among teams in different settings and locations.
+Our Sustainability Ambassadors (WWSA) are supported and enabled in driving sustainable process changes at their sites through resources, training and guidance from Amazon’s sustainability organization. They have leadership support in rolling out site-level initiatives that impact our sustainability and climate goals. Yearly, Sustainability Ambassador chapters that deliver on enacting sustainable change at their sites, are recognized through the Ambassador Awards. The Ambassador Awards have been developed to recognize the work the Ambassador chapters do on a local level, with successful chapters receiving internal recognition within our employee network.
+Since launching in 2018, the Sustainability Ambassador program has transformed into a collaborative network across 1,246 global locations. As of 2022, more than 8,420 Amazon employees participate in the program.
+
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+The Sustainability Ambassador program enables and recognizes employees’ contributions across all our teams that drive positive change impacting our environmental and climate impact. One example is the Sustainability Ambassador Roadmap, a set of seven initiatives across employee training and engagement opportunities, that chapters can implement at their sites to drive change in energy, water and waste practices. Ambassador chapters are also supported in communicating their impact to their leadership teams and colleagues through the Sustainability Gemba board, which tracks sustainability metrics and progress on their continuous improvement projects.
+C2. Risks and opportunities
+C2.1
+(C2.1) Does your organization have a process for identifying, assessing, and responding to climate-related risks and opportunities?
+Yes
+C2.1a
+(C2.1a) How does your organization define short-, medium- and long-term time horizons?
+From (years)	To (years)	Comment
+Short-term	
+0
+5
+We have made a commitment to procure the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025. This contributes to our long-term goal to reach net-zero carbon by 2040.
+Medium-term	
+5
+10
+Our medium-term commitments are to deploy 100,000 custom electric delivery vehicles by 2030 and to power our operations with 100% renewable electricity by 2030. This will move us forward on our path to net-zero carbon by 2040.
+Long-term	
+10
+Our Climate Pledge is a commitment to achieve net-zero carbon emissions across our business by 2040, 10 years ahead of the Paris Agreement. This is the longest-term goal that we are working towards.
+C2.1b
+(C2.1b) How does your organization define substantive financial or strategic impact on your business?
+For purposes of CDP reporting, we define “substantive financial or strategic impact” as an impact that significantly affects our business strategy or our ability to continuously serve our primary customer sets on a global level. We evaluate the potential impact of a risk or opportunity by considering, among other things, its implications for our stakeholders, our ability to leverage our scale to foster or advance progress in addressing a risk or opportunity, the expected time horizon for the risk or opportunity, the range of uncertainty in its magnitude, the likelihood of occurrence, and the regulatory and technological landscape. Our assessment that a risk or opportunity has the potential to have a substantive financial or strategic impact on our business does not mean that it is material to Amazon’s business or operating results under U.S. securities laws. We monitor risks and prioritize opportunities by taking into account customer and stakeholder expectations, voluntary practices and regulations, industry best practices, trends in financial and sustainability reporting, and emerging topics in news and social media.
+
+C2.2
+(C2.2) Describe your process(es) for identifying, assessing and responding to climate-related risks and opportunities.
+Value chain stage(s) covered
+Direct operations
+Upstream
+Downstream
+Risk management process
+Integrated into multi-disciplinary company-wide risk management process
+Frequency of assessment
+More than once a year
+Time horizon(s) covered
+Short-term
+Medium-term
+Long-term
+Description of process
+We consider climate risks and opportunities through our management of customer and stakeholder expectations, regulations, business risks, industry best practices, and emerging trends. Mechanisms are embedded across our business operations and strategic decision-making to address sustainability issues, including climate related risks. We integrate sustainability practices into our everyday operations by thinking through risks and opportunities related to projects and initiatives, as well as setting goals, developing metrics and conducting a regular cadence of leadership reviews.
+
+We have developed a comprehensive carbon system of record and hold quarterly business reviews with Amazon leadership teams to track progress toward meeting The Climate Pledge—a commitment to be net-zero carbon across our business by 2040, 10 years ahead of the Paris Agreement.
+
+We also develop data and tools to address physical climate risks for both our business and our customers, like the Amazon Sustainability Data Initiative (ASDI), which helps researchers, scientists, and innovators around the world advance their work on sustainability-related research. The program provides publicly available, free access to important scientific data that can otherwise be hard for researchers to access or analyze.
+
+ASDI works with scientific organizations around the world to identify important datasets, which are then hosted for free by the AWS Open Data Sponsorship Program. The program currently hosts petabytes of data including weather observations, ocean temperatures, climate projection data, and satellite imagery. Our approach allows sustainability experts to analyze massive amounts of data in minutes, regardless of where they are in the world or how much local storage space or computing capacity they can access.
+C2.2a
+(C2.2a) Which risk types are considered in your organization's climate-related risk assessments?
+Relevance & inclusion	Please explain
+Current regulation	
+Relevant, always included
+We take into account regulatory risks by monitoring the current regulatory landscape and policy changes.
+Emerging regulation	
+Relevant, always included
+We take into account emerging regulations that may require a faster transition to a low-carbon economy, increased reporting requirements and other climate-related policies.
+Technology	
+Relevant, always included
+We take into account technological trends such as availability of charging infrastructure to support our electric delivery fleet, as well as development of alternative delivery methods such as e-cargo bikes and fully autonomous delivery innovations.
+Legal	
+Relevant, always included
+We take into account legal risks which could lead to potential litigation.
+Market	
+Relevant, always included
+We take into account market trends such as availability and cost of raw materials that may be a result of extreme weather events or other climate-related impacts.
+Reputation	
+Relevant, always included
+We take into account reputational impacts such as evolving public preferences for sustainable products which if not addressed may reduce demand for some products and services. This allows us to better respond/adapt our offerings based on changes in customer preference.
+Acute physical	
+Relevant, always included
+We are developing data and tools to assess physical climate risks for both our business and our customers. These include acute risks, such as the risk of fire, flooding and hurricanes to our buildings and delivery networks, the risk of droughts impacting water availability for data center cooling, and the risk that weather-related events could impact our ability to access raw materials and deliver final products. An example is the Amazon Sustainability Data Initiative (ASDI), a global and authoritative source for open-sourced weather, climate, and sustainability data.
+Chronic physical	
+Relevant, always included
+The data and tools we are developing also help us assess chronic physical climate risks, such as the risk of a warmer climate that could increase thermal stress, and also result in declining water availability, which could impact water availability for data center cooling.
+C2.3
+(C2.3) Have you identified any inherent climate-related risks with the potential to have a substantive financial or strategic impact on your business?
+No
+C2.3b
+(C2.3b) Why do you not consider your organization to be exposed to climate-related risks with the potential to have a substantive financial or strategic impact on your business?
+Primary reason	Please explain
+Row 1	
+Risks exist, but none with potential to have a substantive financial or strategic impact on business
+We monitor climate risks and prioritize opportunities by considering customer and stakeholder expectations, regulations, industry best practices, trends in financial and sustainability reporting, and emerging topics in news and social media. Mechanisms are embedded across our business operations and strategic decision-making to address sustainability issues, including climate related risks, and we integrate sustainability practices into our everyday operations by thinking through risks and opportunities related to projects and initiatives, as well as goal-setting, metrics, and a regular cadence of leadership reviews.
+
+We will continue to make investments that make our operations resilient and that take into account local exposures to flooding, extreme weather, and seismic activity, and build in geographic redundancy where needed. We are also committed to be net-zero carbon by 2040, 10 years ahead of the Paris Agreement.
+C2.4
+(C2.4) Have you identified any climate-related opportunities with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.4a
+(C2.4a) Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Opp1
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Products and services
+Primary climate-related opportunity driver
+Development and/or expansion of low emission goods and services
+Primary potential financial impact
+Increased revenues resulting from increased demand for products and services
+Company-specific description
+Scaling up the use of renewable energy is central to Amazon’s strategy to decarbonize our operations. Clean energy sources, such as wind and solar, lessen Amazon’s reliance on fossil fuels to power our operations and the services we provide to customers. We procure new renewable energy beyond the existing grid mix through off-site contracts for wind and solar, on-site rooftop solar installations, and green tariffs with local utilities that result in new projects being added to the grid. As part of our goal to reach net-zero carbon by 2040, Amazon is on a path to powering our operations with 100% renewable energy by 2025—five years ahead of our original target of 2030. In 2022, we were the world’s largest corporate purchaser of renewable energy, reaching 90% electricity consumed by Amazon attributable to renewable energy sources. We are also making large-scale investments in wind and solar farm capacity, which will produce the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025 and help bring additional clean energy infrastructure to the grid.
+Time horizon
+Short-term
+Likelihood
+Unknown
+Magnitude of impact
+Unknown
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Financial impacts from sustainability initiatives are inherently difficult to estimate. If more customers recognize the size and scope of our sustainability initiatives (including renewable energy efforts) that minimize the impacts of Amazon devices, that could possibly lead to higher sales.
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+Since 2014, Amazon has invested in global renewable energy generation to decarbonize our business across our worldwide operations because transitioning to renewable energy is one of the highest-impact ways to immediately lower emissions.
+
+We are on a path to powering our operations with 100% renewable energy by 2025—five years ahead of our original target of 2030. Additionally, we are scaling up renewable energy to produce the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025.
+
+We procure new renewable energy through contracts for utility-scale wind and solar, on-site rooftop solar installations, and green tariffs with local utilities that deliver new, renewable energy to the grids where we operate.
+
+With 401 renewable projects announced as of the end of 2022, Amazon is the world’s largest corporate purchaser of renewable energy and we reached 90% electricity consumed attributable to renewable energy sources, with over 20 gigawatts (GW) of renewable energy production capacity across our global portfolio. Once these projects are fully operational, they are expected to deliver up to 56,881 gigawatt-hours of energy annually— the electricity output equivalent to powering up to 5.3 million U.S. homes for one year.
+Comment
+Identifier
+Opp2
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Resource efficiency
+Primary climate-related opportunity driver
+Other, please specify (Support the development of sustainable and decarbonizing technologies and services)
+Primary potential financial impact
+Returns on investment in low-emission technology
+Company-specific description
+We know that investment is needed to develop solutions that will facilitate the transition to a low-carbon economy. The Climate Pledge Fund is a $2 billion venture investment program supporting the development of sustainable technologies and services that will enable Amazon to meet our net zero carbon goal.
+Time horizon
+Long-term
+Likelihood
+Unknown
+Magnitude of impact
+Unknown
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+As part of our strategy to meet our commitments under The Climate Pledge, we invest in visionary companies whose products and solutions will facilitate the transition to a low-carbon economy. The Climate Pledge Fund is a $2 billion venture investment program supporting the advancement of sustainable technologies and services that will enable Amazon to meet our net-zero carbon goal.
+
+Throughout 2022, The Climate Pledge Fund continued its mission to support companies working on promising decarbonization solutions. We made new investments in 7 companies: Electric Hydrogen, Sunfire, and Verne, which are developing green hydrogen production and storage methods; Moxion Power and Ambient Photonics, which are advancing cleaner energy storage; and Brimstone and Electra, which are working to decarbonize construction. These investments bring our portfolio to 20 total companies as of the end of 2022.
+Comment
+Identifier
+Opp3
+Where in the value chain does the opportunity occur?
+Downstream
+Opportunity type
+Products and services
+Primary climate-related opportunity driver
+Development and/or expansion of low emission goods and services
+Primary potential financial impact
+Increased revenues through access to new and emerging markets
+Company-specific description
+In 2020, Amazon launched Climate Pledge Friendly, a new program that uses sustainability certifications to highlight products that support our commitment to help preserve the natural world. Customers in the U.S., the UK, France, Germany, Italy, and Spain will see the Climate Pledge Friendly label when shopping in Amazon’s online store, signifying that one or more sustainability certifications support these products. Climate Pledge Friendly products are clearly labeled in shopping results and have additional sustainability information on their product pages.
+Time horizon
+Short-term
+Likelihood
+Unknown
+Magnitude of impact
+Unknown
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+Climate Pledge Friendly makes it easy for customers to discover and shop for more sustainable products in Amazon's stores. The Climate Pledge friendly label signifies that the products have one or more of 52 different sustainability certifications that help preserve the natural world (as of December 2022). To expand our sustainable shopping selection, we are inviting brands to participate in Climate Pledge Friendly by securing certifications for products sold in Amazon’s store that improve at least one aspect of sustainability.
+Comment
+C3. Business Strategy
+C3.1
+(C3.1) Does your organization’s strategy include a climate transition plan that aligns with a 1.5°C world?
+Row 1
+Climate transition plan
+No, but our strategy has been influenced by climate-related risks and opportunities, and we are developing a climate transition plan within two years
+Publicly available climate transition plan
+<Not Applicable>
+Mechanism by which feedback is collected from shareholders on your climate transition plan
+<Not Applicable>
+Description of feedback mechanism
+<Not Applicable>
+Frequency of feedback collection
+<Not Applicable>
+Attach any relevant documents which detail your climate transition plan (optional)
+<Not Applicable>
+Explain why your organization does not have a climate transition plan that aligns with a 1.5°C world and any plans to develop one in the future
+We have a limited window to make unprecedented headway in order to limit global warming to 1.5°C by 2050. To drive collective, cross-sector action on the climate crisis, and signal the urgent need for new solutions, Amazon co-founded The Climate Pledge in 2019. The Climate Pledge is a commitment to be net-zero carbon by 2040—ten years ahead of the Paris Agreement.
+
+Amazon’s annual sustainability report details our 2022 carbon footprint and progress toward achieving our commitment to net zero carbon.
+
+We aim to achieve our commitment through two complementary actions: carbon elimination and, for remaining carbon impact that cannot be eliminated, carbon neutralization. We are innovating and investing to eliminate emissions within the value chain of our businesses. Second, we are driving actions outside of our value chain, through nature-based and technological solutions, to enable a credible carbon market for companies that will need to neutralize remaining emissions.
+
+Our focus areas include:
+1. Renewable Energy. Powering our operations with 100% renewable energy by 2030. In 2022, we reached 90% renewable electricity consumed by Amazon attributable to renewable energy sources. We also have made a commitment to produce the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025.
+2. Constructing more-sustainable buildings. We are investing in technologies to reduce the embodied carbon of building materials, designing for energy efficiency, electrifying buildings and eliminating fossil fuels, installing on-site solar installations, among other solutions.
+3. Nature Based Solutions. Amazon's $100M Right Now Climate Fund aims to restore and conserve forests, wetlands, and grasslands around the world. Our approach focuses on three actions: reducing deforestation to near zero, especially in tropical regions; scaling up removal of carbon from the atmosphere, and; scaling up carbon-removal technologies.
+Explain why climate-related risks and opportunities have not influenced your strategy
+<Not Applicable>
+C3.2
+(C3.2) Does your organization use climate-related scenario analysis to inform its strategy?
+Use of climate-related scenario analysis to inform strategy	Primary reason why your organization does not use climate-related scenario analysis to inform its strategy	Explain why your organization does not use climate-related scenario analysis to inform its strategy and any plans to use it in the future
+Row 1	
+No, but we anticipate using qualitative and/or quantitative analysis in the next two years
+Other, please specify (There is not a formal climate related scenario analysis currently used by senior management or the Board of Directors, but we have begun modeling the potential impacts of climate change on future planning.)
+There is not a formal climate related scenario analysis currently used by senior management or the Board of Directors, but different parts of our business consider climate change (and scenario analysis where relevant) for individual sites or regions as a part of day-to-day risk management, using science-based data from credible organizations such as the IPCC, IEA; NASA and NOAA and overlaying our operational data.
+C3.3
+(C3.3) Describe where and how climate-related risks and opportunities have influenced your strategy.
+Have climate-related risks and opportunities influenced your strategy in this area?	Description of influence
+Products and services	
+Yes
+Devices: In 2020, Amazon also became the first consumer electronics company to commit to addressing the electricity used by our devices through renewable energy development, starting with our Echo devices. To meet that goal we are making investments in wind and solar farm capacity that, by 2025, are expected to be equal to the energy use of Fire TV and Ring devices worldwide. We expect these projects will produce over 5 million megawatt-hours of clean energy per year.
+
+Amazon Web Services (AWS): Studies by 451 Research found that moving on-premises computing workloads to AWS can lower workload carbon footprint by nearly 80% compared to surveyed enterprise data centers. That number could improve to as high as 96% once AWS is powered with 100% renewable energy—a target we are on path to meet by 2025. AWS’ infrastructure is 3.6x more energy efficient than the median of surveyed U.S. enterprise data centers and up to 5x more energy efficient than the average European enterprise data center.
+
+Climate Pledge Friendly: On Amazon.com Amazon-branded products and third-party items that feature sustainability certifications through our Climate Pledge Friendly program now receive the Climate Pledge Friendly badging. In 2022, more than 818 million Climate Pledge Friendly units were sold to Amazon customers and we have a total of 52 third‑party sustainability certifications in the Climate Pledge Friendly program (as of December 2022).
+Supply chain and/or value chain	
+Yes
+At Amazon we are leveraging our supply chain in our response to climate-related risks and opportunities. In 2020, Amazon launched Climate Pledge Friendly, a new program that uses sustainability certifications to highlight products that support our commitment to help preserve the natural world. Customers in the U.S., the UK, France, Germany, Italy, and Spain will see the Climate Pledge Friendly label when shopping in Amazon’s online store, signifying that one or more sustainability certifications support these products. To expand our sustainable shopping selection, we are inviting brands to participate in Climate Pledge Friendly by securing certifications for products sold in Amazon’s store that improve at least one aspect of sustainability.
+Investment in R&D	
+Yes
+Amazon is developing data and tools to address climate risks for both our business and our customers, an example of this is the Amazon Sustainability Data Initiative (ASDI), a global and authoritative source for open-sourced weather, climate, and sustainability data. This data, together with AWS analytical tools, is enabling cutting-edge scientific work and helping us raise the bar for customers. ASDI works with scientific organizations like NOAA, NASA, the UK Met Office, and The Queensland Government to identify, host, and deploy key datasets on the AWS Cloud, including weather observations, weather forecasts, climate projection data, satellite imagery, hydrological data, air quality data, and ocean forecast data. Our ultimate goal is to enable customers and suppliers to use the tools we are developing in-house to improve climate resilience.
+
+In addition, the Climate Pledge Fund is a corporate venture capital fund that invests in companies that can accelerate Amazon’s path to meeting The Climate Pledge. Amazon launched The Climate Pledge Fund in 2020 to support the development of sustainable and decarbonizing technologies and services. This dedicated investment program—with $2 billion in funding—invests in visionary companies whose products and solutions will facilitate the transition to a low-carbon economy. The time horizon for these investments varies, but some are achieving results in the short-term. For example, we have invested in CarbonCure Technologies, which has commercialized lower carbon concrete, and are working to lower the embodied carbon footprint of our buildings by using CarbonCure concrete in new construction, including in Amazon’s second headquarters in Virginia, with construction expected to finish in 2025.
+Operations	
+Yes
+We are responding to climate- and water-related risks in our operations by improving efficiency. For example, AWS is continuously working to increase the efficiency of our facilities, and our scale allows us to achieve higher resource utilization and efficiency than typical on-premises data centers. AWS develops our water-use strategy by evaluating climate patterns for each AWS Region, local water management and availability, and the opportunity to conserve drinking water sources. Taking a holistic approach, we assess both the water and energy usage of each potential cooling solution to select the most efficient method. When possible, we incorporate direct evaporative technology for cooling our data centers, reducing energy and water consumption.
+
+AWS strives to reduce embodied carbon associated with concrete and steel, the two most carbon-intensive materials used to build our data centers. This includes carbon emitted during extraction, manufacturing, and transportation of materials to data center construction sites. We are working with various suppliers on lower-carbon concrete options. For example, in Northern Virginia, AWS worked with building material provider Holcim to procure ECOPact concrete for several data centers. The concrete mix reduces carbon emissions by nearly 40% compared to standard concrete. AWS worked with American Rock Products (ARP), a CRH Company, to develop a more sustainable concrete mix for data centers across northeastern Oregon. ARP completed Environmental Product Declarations, which summarize environmental impacts across the concrete’s lifecycle, for all products at their plants. Globally in 2022, we completed the construction of 16 data centers using lower-carbon concrete and 10 data centers using lower-carbon steel. We expect these numbers to grow considerably in 2023.
+C3.4
+(C3.4) Describe where and how climate-related risks and opportunities have influenced your financial planning.
+Financial planning elements that have been influenced	Description of influence
+Row 1	
+Capital expenditures
+Transportation is a major component of Amazon’s business operations and a key part of our plan to reach net-zero carbon by 2040. We are optimizing and transforming our transportation network through technological innovations, efficiency enhancements, and alternative solutions that allow us to deliver packages to our customers more sustainably. In 2019, Amazon ordered 100,000 new electric delivery vehicles from Rivian, a U.S. electric vehicle manufacturer. This order, the largest order ever of electric delivery vehicles, sends a signal to the marketplace to start inventing and developing new technologies that large, global companies need to transition to a low-carbon economy. At the end of 2022, more than 2,600 Rivian electric delivery vans were on the road in the U.S., and we aim to have 100,000 on the road by 2030. Throughout 2022, we had more than 9,000 EVs in our fleet and delivered 145 million packages to customers via EV across the U.S. and Europe. We also scaled EV adoption in Indian operations, deploying over 3,800 EVs in our last-mile delivery fleet, as well as 158 middle-mile EVs, by the end of 2022.
+C3.5
+(C3.5) In your organization’s financial accounting, do you identify spending/revenue that is aligned with your organization’s climate transition?
+Identification of spending/revenue that is aligned with your organization’s climate transition	Indicate the level at which you identify the alignment of your spending/revenue with a sustainable finance taxonomy
+Row 1	
+No, but we plan to in the next two years
+<Not Applicable>
+C4. Targets and performance
+C4.1
+(C4.1) Did you have an emissions target that was active in the reporting year?
+Absolute target
+C4.1a
+(C4.1a) Provide details of your absolute emissions target(s) and progress made against those targets.
+Target reference number
+Abs 1
+Is this a science-based target?
+Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the next two years
+Target ambition
+1.5°C aligned
+Year target was set
+2019
+Target coverage
+Company-wide
+Scope(s)
+Scope 1
+Scope 2
+Scope 3
+Scope 2 accounting method
+Market-based
+Scope 3 category(ies)
+Category 1: Purchased goods and services
+Category 2: Capital goods
+Category 9: Downstream transportation and distribution
+Other (upstream)
+Base year
+2018
+Base year Scope 1 emissions covered by target (metric tons CO2e)
+4980000
+Base year Scope 2 emissions covered by target (metric tons CO2e)
+4710000
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)
+11950000
+Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)
+4640000
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target (metric tons CO2e)
+4230000
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target (metric tons CO2e)
+13890000
+Base year Scope 3, Other (downstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target (metric tons CO2e)
+34710000
+Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+44400000
+Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100
+Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)
+100
+Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in Scope 3, Category 2: Capital goods (metric tons CO2e)
+100
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions in Scope 3, Category 6: Business travel (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in Scope 3, Category 7: Employee commuting (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as % of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)
+100
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 10: Processing of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target as % of total base year emissions in Scope 3, Category 14: Franchises (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in Scope 3, Category 15: Investments (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target as % of total base year emissions in Scope 3, Other (upstream) (metric tons CO2e)
+100
+Base year Scope 3, Other (downstream) emissions covered by target as % of total base year emissions in Scope 3, Other (downstream) (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope 3 categories)
+100
+Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected Scopes
+100
+Target year
+2040
+Targeted reduction from base year (%)
+100
+Total emissions in target year covered by target in all selected Scopes (metric tons CO2e) [auto-calculated]
+Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+13401400
+Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+2892186
+Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons CO2e)
+21388385
+Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)
+12876121
+Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+3291850
+Scope 3, Category 10: Processing of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 14: Franchises emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 15: Investments emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (upstream) emissions in reporting year covered by target (metric tons CO2e)
+17421459
+Scope 3, Other (downstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+54977815
+Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+71271401
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Please explain target coverage and identify any exclusions
+In 2019, Amazon co-founded The Climate Pledge— a commitment to achieve net-zero carbon emissions across our business by 2040, 10 years ahead of the Paris Agreement. The target covers our Scope 1+2 emissions, as well as certain Scope 3 emissions associated with: Purchased Goods & Services; Capital Goods; Fuel- and Energy- Related Activities; Upstream Transportation and Distribution; Business Travel; Employee Commuting (Amazon-provided shuttles and certain employer subsidized transit); Downstream Transportation and Distribution; Use of Sold Products.
+Plan for achieving target, and progress made to the end of the reporting year
+We aim to achieve our commitment through two complementary actions: carbon elimination and, for remaining carbon impact that cannot be eliminated, carbon neutralization. We are innovating and investing to eliminate emissions within the value chain of our businesses. Second, we are driving actions outside of our value chain, through nature-based and technological solutions, to enable a credible carbon market for companies that will need to neutralize remaining emissions.
+Our focus areas include:
+1. Renewable Energy. Powering our operations with 100% renewable energy by 2030. In 2022, we reached 90% renewable electricity consumed by Amazon attributable to renewable energy sources. We also have made a commitment to procure the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025.
+2. Constructing more-sustainable buildings. We are investing in technologies to reduce the embodied carbon of building materials, designing for energy efficiency, electrifying buildings and eliminating fossil fuels, installing on-site solar installations, among other solutions.
+3. Nature Based Solutions. Amazon's $100M Right Now Climate Fund aims to restore and conserve forests, wetlands, and grasslands around the world. Our approach focuses on three actions: Reducing deforestation to near zero, especially in tropical regions; scaling up removal of carbon from the atmosphere, and; scaling up carbon removal technologies.
+List the emissions reduction initiatives which contributed most to achieving this target
+<Not Applicable>
+Target reference number
+Abs 2
+Is this a science-based target?
+Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the next two years
+Target ambition
+1.5°C aligned
+Year target was set
+2019
+Target coverage
+Company-wide
+Scope(s)
+Scope 2
+Scope 2 accounting method
+Market-based
+Scope 3 category(ies)
+<Not Applicable>
+Base year
+2019
+Base year Scope 1 emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 2 emissions covered by target (metric tons CO2e)
+5500000
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+5500000
+Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+<Not Applicable>
+Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in Scope 3, Category 2: Capital goods (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions in Scope 3, Category 6: Business travel (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in Scope 3, Category 7: Employee commuting (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as % of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 10: Processing of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target as % of total base year emissions in Scope 3, Category 14: Franchises (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in Scope 3, Category 15: Investments (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target as % of total base year emissions in Scope 3, Other (upstream) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target as % of total base year emissions in Scope 3, Other (downstream) (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope 3 categories)
+<Not Applicable>
+Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected Scopes
+100
+Target year
+2030
+Targeted reduction from base year (%)
+100
+Total emissions in target year covered by target in all selected Scopes (metric tons CO2e) [auto-calculated]
+Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+2892186
+Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 10: Processing of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 14: Franchises emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 15: Investments emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (upstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (downstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+2892186
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Please explain target coverage and identify any exclusions
+In 2022, we reached 90% renewable electricity consumed by Amazon attributable to renewable energy sources, with more than 20 gigawatts (GW) of renewable energy production capacity across our global portfolio. Our projects supply renewable energy for a variety of Amazon facilities, including corporate offices, fulfillment centers, data centers, and physical stores, which collectively serve millions of customers globally. These projects also help meet Amazon’s commitment to procure the clean energy equivalent of the electricity used by every customer’s Echo device. We are making additional large-scale investments in wind and solar farm capacity, which will produce the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025.
+Plan for achieving target, and progress made to the end of the reporting year
+In 2022, three new on-site rooftop solar projects became operational at Japanese fulfilment centers, increasing the number of facilities with on-site solar in Japan to six. In October 2022, we opened our first standalone Australian sort center in Melbourne, which features 3078 on-site solar panels with capacity to meet up to 80 percent of the site’s electricity needs. We also announced on-site solar projects in Canada, France, and Germany throughout the year.
+We announced 133 new renewable energy projects that are expected to come online over the next five years, bringing our total announced projects to 401 as of end of 2022. Notably, for off-site projects, we announced our first South American project, a 122-MW solar farm in Brazil. Newly announced Indian solar projects—which bring our total number of utility-scale renewable projects in India to 6—are expected to have capacity of 920 MW once operational. We also announced our first utility-scale renewable energy projects in Indonesia and Poland. Utility-scale projects in the U.S., Japan, Germany, Finland, France, Poland, Singapore, and Spain were also announced in 2022.
+Several previously announced projects became operational for the first time in 2022. In New South Wales, Australia, two solar farms became operational and are predicted to collectively generate 372 thousand megawatt-hours (MWh) annually. Five projects in Europe, two solar farms in Spain and Italy and three wind farms in Sweden and the UK, went live and together are expected to generate 1.9 million MWh annually. Two projects in China, one wind farm and one solar farm, also launched and are expected to produce about 450 thousand MWh annually.
+List the emissions reduction initiatives which contributed most to achieving this target
+<Not Applicable>
+C4.2
+(C4.2) Did you have any other climate-related targets that were active in the reporting year?
+Target(s) to increase low-carbon energy consumption or production
+Net-zero target(s)
+C4.2a
+(C4.2a) Provide details of your target(s) to increase low-carbon energy consumption or production.
+Target reference number
+Low 1
+Year target was set
+2018
+Target coverage
+Company-wide
+Target type: energy carrier
+Electricity
+Target type: activity
+Consumption
+Target type: energy source
+Renewable energy source(s) only
+Base year
+2019
+Consumption or production of selected energy carrier in base year (MWh)
+% share of low-carbon or renewable energy in base year
+42
+Target year
+2030
+% share of low-carbon or renewable energy in target year
+100
+% share of low-carbon or renewable energy in reporting year
+90
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Underway
+Is this target part of an emissions target?
+Abs1
+
+Our 2030 renewable energy target is a key part of our goal to reach net-zero carbon by 2040.
+Is this target part of an overarching initiative?
+Other, please specify (The Climate Pledge)
+Please explain target coverage and identify any exclusions
+This target includes all energy use globally.
+Plan for achieving target, and progress made to the end of the reporting year
+Amazon is the world's largest corporate purchaser of renewable energy and we are on a path to achieve our target by 2025—five years ahead of the original target of 2030. In 2022, we reached 90% renewable electricity consumed by Amazon attributable to renewable energy sources, with more than 20 gigawatts (GW) of renewable energy production capacity across our global portfolio. Once these projects are fully operational, they are expected to deliver up to 56881 gigawatt-hours of energy annually— the electricity output equivalent to powering more than 5.3 million U.S. homes for one year. We remain the largest corporate buyer of renewable energy for the third year in a row. In 2022, the electricity consumed in the following 19 AWS regions was attributable to 100% renewable energy: U.S. East (Northern Virginia), GovCloud (U.S. East), U.S. East (Ohio), U.S. West (Oregon), GovCloud (U.S. West), U.S. West (Northern California), Canada (Central), Europe (Ireland), Europe (Frankfurt), Europe (London), Europe (Milan), Europe (Paris), Europe (Stockholm), Europe (Spain), Europe (Zurich), Asia-Pacific (Mumbai), Asia- Pacific (Hyderabad), China (Beijing), and China (Ningxia).
+List the actions which contributed most to achieving this target
+<Not Applicable>
+C4.2c
+(C4.2c) Provide details of your net-zero target(s).
+Target reference number
+NZ1
+Target coverage
+Company-wide
+Absolute/intensity emission target(s) linked to this net-zero target
+Abs1
+Abs2
+Target year for achieving net zero
+2040
+Is this a science-based target?
+Yes, we consider this a science-based target, but we have not committed to seek validation of this target by the Science Based Targets initiative within the next two years
+Please explain target coverage and identify any exclusions
+In 2019, Amazon co-founded The Climate Pledge— a commitment to achieve net-zero carbon emissions across our business by 2040—10 years ahead of the Paris Agreement. The target covers our Scope 1+2 emissions, as well as certain Scope 3 emissions associated with: Purchased Goods & Services; Capital Goods; Fuel- and Energy-Related Activities; Upstream Transportation and Distribution; Business Travel; Employee Commuting (Amazon-provided shuttles and certain employer subsidized transit); Downstream Transportation and Distribution; Use of Sold Products.
+Do you intend to neutralize any unabated emissions with permanent carbon removals at the target year?
+Yes
+Planned milestones and/or near-term investments for neutralization at target year
+We aim to achieve our commitment through two complementary actions: carbon elimination and, for remaining carbon impact that cannot be eliminated, carbon neutralization. We are innovating and investing to eliminate emissions within the value chain of our businesses. Second, we are driving actions outside of our value chain, through nature-based and technological solutions, to enable a credible carbon market for companies that will need to neutralize remaining emissions.
+Our focus areas include:
+1. Renewable Energy. Powering our operations with 100% renewable energy by 2030. In 2022, we reached 90% renewable electricity consumed by Amazon attributable to renewable energy sources. We also have made a commitment to procure the clean energy equivalent to the electricity used by all Echo, Fire TV, and Ring devices worldwide by 2025.
+2. Constructing more-sustainable buildings. We are investing in technologies to reduce the embodied carbon of building materials, designing for energy efficiency, electrifying buildings and eliminating fossil fuels, installing on-site solar installations, among other solutions.
+3. Nature Based Solutions. Amazon's $100M Right Now Climate Fund aims to restore and conserve forests, wetlands, and grasslands around the world. Our approach focuses on three actions: Reducing deforestation to near zero, especially in tropical regions; scaling up removal of carbon from the atmosphere, and; scaling up carbon-removal technologies.
+Planned actions to mitigate emissions beyond your value chain (optional)
+C4.3
+(C4.3) Did you have emissions reduction initiatives that were active within the reporting year? Note that this can include those in the planning and/or implementation phases.
+Yes
+C4.3a
+(C4.3a) Identify the total number of initiatives at each stage of development, and for those in the implementation stages, the estimated CO2e savings.
+Number of initiatives	Total estimated annual CO2e savings in metric tonnes CO2e (only for rows marked *)
+Under investigation	
+0
+0
+To be implemented*	
+184
+19362649
+Implementation commenced*	
+16
+1716788
+Implemented*	
+30
+3512059
+Not to be implemented	
+0
+0
+C4.3b
+(C4.3b) Provide details on the initiatives implemented in the reporting year in the table below.
+Initiative category & Initiative type
+Energy efficiency in buildings	Lighting
+Estimated annual CO2e savings (metric tonnes CO2e)
+136
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+31257
+Investment required (unit currency – as specified in C0.4)
+125075
+Payback period
+4-10 years
+Estimated lifetime of the initiative
+6-10 years
+Comment
+We converted lighting in AWS data centers worldwide to energy efficient LED lighting. This project is a sample of the retrofit project for one specific site.
+Initiative category & Initiative type
+Transportation	Other, please specify (EV Charger)
+Estimated annual CO2e savings (metric tonnes CO2e)
+48
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 3 category 7: Employee commuting
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+0
+Investment required (unit currency – as specified in C0.4)
+40200
+Payback period
+No payback
+Estimated lifetime of the initiative
+6-10 years
+Comment
+This project is a pilot of one EV charger installation for employee use. This project reduces emissions associated with employee commute. We account for emissions from “Employee commuting” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here:
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+C4.3c
+(C4.3c) What methods do you use to drive investment in emissions reduction activities?
+Method	Comment
+Compliance with regulatory requirements/standards
+We work with organizations and regulatory bodies around the globe to promote transparent and comparable climate reporting, because measurement is critical as we work toward our goal of net zero carbon by 2040. We must measure and understand emissions in order to eliminate them and we are working to improve the granularity of data available.
+Employee engagement
+With more than 1.5 million full and parti-time employees worldwide, employee engagement is fundamental to our success. Our goal is to hear from and listen to all of our employees. We have a variety of engagement, feedback, and remediation mechanisms that help us continually improve our workplace experience. For example, Sustainability Ambassadors are sustainability minded Amazon employees who work to amplify global, companywide efforts at the local level. Ambassadors lead projects on Amazon campuses and create engagement opportunities to inspire fellow employees, both at work and at home. The program also serves as a community for sharing best practices among teams in different settings and locations. Since launching in 2018, the Sustainability Ambassador program has transformed into a collaborative network across 1,246 global locations. As of 2022, more than 8,420 Amazon employees participate in the program.
+Other (Energy Efficiency)
+We are using innovation to improve power efficiency in multiple ways, including our investment in AWS-designed chips. Our third-generation Arm-based chip, AWS Graviton3, is more energy efficient, as Graviton3-based Elastic Cloud Compute instances use up to 60% less energy for the same performance than comparable Amazon EC2 instances. In 2022, we launched AWS Trainium, a high-performance machine learning chip designed to reduce the time and cost of training generative AI models—cutting training time for some models from months to hours. This, in turn, means building new models requires less money and power. Inferentia is our most power efficient machine learning inference chip. Our Inferentia machine learning chip is up to 54% more energy-efficient and can reduce costs by up to 90% than comparable instances. With the world’s increasing need for computing and as machine learning has become mainstream, continually innovating at the chip level will be critical to sustainably powering the workloads of the future.
+Other (low-carbon product R&D)
+The Climate Pledge Fund is a $2 billion venture investment program supporting the development of sustainable technologies and services that will enable Amazon to meet our net zero carbon goal. As of the end of 2022, Amazon had invested in 20 companies across multiple industry sectors since launching this fund in 2020.
+Other (Emissions Reduction Activities)
+As of the end of 2022, Amazon had announced 401 renewable energy projects across 22 countries, comprising 164 wind farms and solar farms, and 237 rooftop solar projects on Amazon facilities.
+C4.5
+(C4.5) Do you classify any of your existing goods and/or services as low-carbon products?
+Yes
+C4.5a
+(C4.5a) Provide details of your products and/or services that you classify as low-carbon products.
+Level of aggregation
+Group of products or services
+Taxonomy used to classify product(s) or service(s) as low-carbon
+Other, please specify (Carbon Trust Reducing certification)
+Type of product(s) or service(s)
+Other	Other, please specify (Amazon Devices (Echo, Fire TV, Fire Tablet, Kindle Paperwhite, eero mesh wifi system, and Smart Home devices))
+Description of product(s) or service(s)
+In 2022, most of our devices (e.g. Echo, Fire TV, Fire Tablet, Kindle Paperwhite) launched with the Climate Pledge Friendly label. Many of these carry Carbon Trust’s Reducing CO2 certification, demonstrating a reduction in their carbon emissions year over year. The Amazon Smart Thermostat is the first Amazon device to be ECOLOGO Silver certified— demonstrating products meet standards that can reduce the environmental impact of one or more stages of the product lifecycle.
+Since 2021, we’ve launched several Echo, Fire TV, Fire Tablet, Kindle, & more devices and accessories that contain, depending on the item, up to 75% recycled plastic, up to 100% recycled yarn, up to 100% recycled aluminum, and up to 90% recycled magnesium, depending on the product. We also joined ChemFORWARD as a co-design partner. Through this partnership, we’re collaborating with industry peers to proactively identify harmful chemicals and safer alternatives ahead of regulations.
+We design our devices with best-in-class reliability models so they are more resilient, last longer, & don’t need to be replaced as often.
+In 2020, Amazon became the 1st CE company to commit to addressing the electricity used by our devices through RE development, starting with Echo. By the end of 2022, > 60% of Echo & Fire TV devices in customers’ homes had Low Power Mode. We’re making investments in additional wind and solar farm capacity that, by 2025, will be equal to the energy use of Echo, Fire TV, & Ring devices worldwide.
+Have you estimated the avoided emissions of this low-carbon product(s) or service(s)
+No
+Methodology used to calculate avoided emissions
+<Not Applicable>
+Life cycle stage(s) covered for the low-carbon product(s) or services(s)
+<Not Applicable>
+Functional unit used
+<Not Applicable>
+Reference product/service or baseline scenario used
+<Not Applicable>
+Life cycle stage(s) covered for the reference product/service or baseline scenario
+<Not Applicable>
+Estimated avoided emissions (metric tons CO2e per functional unit) compared to reference product/service or baseline scenario
+<Not Applicable>
+Explain your calculation of avoided emissions, including any assumptions
+<Not Applicable>
+Revenue generated from low-carbon product(s) or service(s) as % of total revenue in the reporting year
+C5. Emissions methodology
+C5.1
+(C5.1) Is this your first year of reporting emissions data to CDP?
+No
+C5.1a
+(C5.1a) Has your organization undergone any structural changes in the reporting year, or are any previous structural changes being accounted for in this disclosure of emissions data?
+Row 1
+Has there been a structural change?
+No
+Name of organization(s) acquired, divested from, or merged with
+<Not Applicable>
+Details of structural change(s), including completion dates
+<Not Applicable>
+C5.1b
+(C5.1b) Has your emissions accounting methodology, boundary, and/or reporting year definition changed in the reporting year?
+Change(s) in methodology, boundary, and/or reporting year definition?	Details of methodology, boundary, and/or reporting year definition change(s)
+Row 1	
+No
+<Not Applicable>
+C5.2
+(C5.2) Provide your base year and base year emissions.
+Scope 1
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+4980000
+Comment
+Scope 2 (location-based)
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Scope 2 (market-based)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+4710000
+Comment
+Scope 3 category 1: Purchased goods and services
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+11950000
+Comment
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 2: Capital goods
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+4640000
+Comment
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Fuel-and-energy-related activities (not included in Scope 1 or 2)” within our wider reporting on “Other indirect emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 4: Upstream transportation and distribution
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Upstream transportation and distribution” within our wider reporting on “Other indirect emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 5: Waste generated in operations
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Waste generated in operations” within our wider reporting on “Corporate purchases and Amazon-branded product emissions” and “Capital goods”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 6: Business travel
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Business travel” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 7: Employee commuting
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Employee commuting” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 8: Upstream leased assets
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Upstream leased assets” within our wider reporting on “Other indirect emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here:
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 9: Downstream transportation and distribution
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+4230000
+Comment
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 10: Processing of sold products
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Amazon does not currently have any emissions associated with the processing of sold products. Processing of sold intermediate products by third parties (e.g., manufacturers) subsequent to sale are not relevant.
+Scope 3 category 11: Use of sold products
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Use of sold products” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 12: End of life treatment of sold products
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “End of life treatment of sold products” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3 category 13: Downstream leased assets
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Amazon does not currently report any emissions associated with Downstream Leased Assets. Instances where Amazon leases its owned assets are reported in the other reporting categories. This emission criteria is also immaterial for reporting purposes.
+Scope 3 category 14: Franchises
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Amazon does not currently report any emissions associated with Franchises, because Amazon does not have any Franchises.
+Scope 3 category 15: Investments
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+Amazon does not currently report any emissions associated with Investments, as the emissions from Amazon's equity investment portfolio for the current year has been evaluated and determined to be immaterial.
+Scope 3: Other (upstream)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+13890000
+Comment
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Scope 3: Other (downstream)
+Base year start
+Base year end
+Base year emissions (metric tons CO2e)
+Comment
+C5.3
+(C5.3) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+The Greenhouse Gas Protocol: Scope 2 Guidance
+C6. Emissions data
+C6.1
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+Gross global Scope 1 emissions (metric tons CO2e)
+13401400
+Start date
+<Not Applicable>
+End date
+<Not Applicable>
+Comment
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+​Scope 2, location-based​
+We are reporting a Scope 2, location-based figure
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+Comment
+C6.3
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+Scope 2, location-based
+12768034
+Scope 2, market-based (if applicable)
+2892186
+Start date
+<Not Applicable>
+End date
+<Not Applicable>
+Comment
+C6.4
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?
+No
+C6.5
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+21388385
+Emissions calculation methodology
+Supplier-specific method
+Average data method
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Capital goods
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+12876121
+Emissions calculation methodology
+Supplier-specific method
+Average data method
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Supplier-specific method
+Average data method
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Fuel-and-energy-related activities (not included in Scope 1 or 2)” within our wider reporting on “Other indirect emissions”. Emissions from this category are therefore included within the figure reported in the “Other emissions (upstream)” row. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here:
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Upstream transportation and distribution
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Supplier-specific method
+Average data method
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Upstream transportation and distribution” within our wider reporting on “Other indirect emissions”. Emissions from this category are therefore included within the figure reported in the “Other emissions (upstream)” row. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here:
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Waste generated in operations
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Waste generated in operations” within our wider reporting on “Corporate purchases and Amazon-branded product emissions” and “Capital goods”. Emissions from this category are therefore included within the figure reported in the “Purchased goods and services” and “Capital goods” rows. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Business travel
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Business travel” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Emissions from this category are therefore included within the figure reported in the “Purchased goods and services” row. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here:
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Employee commuting
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Employee commuting” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Emissions from this category are therefore included within the figure reported in the “Purchased goods and services” row. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Upstream leased assets
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Supplier-specific method
+Average data method
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Upstream leased assets” within our wider reporting on “Other indirect emissions”. Emissions from this category are therefore included within the figure reported in the “Other emissions (upstream)” row. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Downstream transportation and distribution
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+3291850
+Emissions calculation methodology
+Average data method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Processing of sold products
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Amazon does not currently have any emissions associated with the processing of sold products. Processing of sold intermediate products by third parties (e.g., manufacturers) subsequent to sale are not relevant.
+Use of sold products
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Supplier-specific method
+Methodology for direct use phase emissions, please specify (user data model documented within Amazon Carbon Methodology as defined in the “Please explain” field)
+Methodology for indirect use phase emissions, please specify (user data model documented within Amazon Carbon Methodology as defined in the “Please explain” field)
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “Use of sold products” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Emissions from this category are therefore included within the figure reported in the “Purchased goods and services” row. Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here:
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+End of life treatment of sold products
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+0
+Emissions calculation methodology
+Supplier-specific method
+Methodology for direct use phase emissions, please specify (user data model documented within Amazon Devices Carbon Footprint Methodology as defined in the “Please explain” field)
+Methodology for indirect use phase emissions, please specify (user data model documented within Amazon Devices Carbon Footprint Methodology as defined in the “Please explain” field)
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+These emissions are not zero but we indicated “0” as the value here because the emissions from this category are included in one of the consolidated categories we present in our Carbon Footprint (available in our Sustainability Report: https://sustainability.aboutamazon.com/2022-sustainability-report.pdf). We account for emissions from “End of life treatment of sold products” within our wider reporting on “Corporate purchases and Amazon-branded product emissions”. Emissions from this category are therefore included within the figure reported in the “Purchased goods and services” row. Amazon’s Devices Carbon Footprint Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/devices-carbon-methodology.pdf
+Downstream leased assets
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Amazon does not currently report any emissions associated with Downstream Leased Assets. Instances where Amazon leases its owned assets are reported in the other reporting categories. This emission criteria is also immaterial for reporting purposes.
+
+Franchises
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Amazon does not currently report any emissions associated with Franchises, because Amazon does not have any Franchises.
+
+Investments
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Amazon does not currently report any emissions associated with Investments, as the emissions from Amazon's equity investment portfolio for the current year has been evaluated and determined to be immaterial.
+Other (upstream)
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+17421459
+Emissions calculation methodology
+Supplier-specific method
+Average data method
+Spend-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Amazon’s Carbon Methodology document outlines the boundaries of Amazon’s GHG emissions and what is covered within our carbon footprint. Available here: https://sustainability.aboutamazon.com/carbon-methodology.pdf
+Other (downstream)
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+C6.7
+(C6.7) Are carbon dioxide emissions from biogenic carbon relevant to your organization?
+No
+C6.10
+(C6.10) Describe your gross global combined Scope 1 and 2 emissions for the reporting year in metric tons CO2e per unit currency total revenue and provide any additional intensity metrics that are appropriate to your business operations.
+Intensity figure
+0.000031701
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+16293586
+Metric denominator
+unit total revenue
+Metric denominator: Unit total
+513983000000
+Scope 2 figure used
+Market-based
+% change from previous year
+8
+Direction of change
+Decreased
+Reason(s) for change
+Change in renewable energy consumption
+Other emissions reduction activities
+Please explain
+We made significant progress in reducing the carbon intensity of our business activities in 2022, following our investments in large-scale, long-term decarbonization solutions.
+We also saw a decrease in the absolute emissions from purchased electricity—a result of our investments in global renewable energy projects that came online in 2022— despite increasing the square footage of our buildings to keep pace with our business growth. Our renewable energy investments made Amazon the world’s largest corporate buyer of renewable energy for the third year in a row, and we achieved 90% renewable electricity consumed by Amazon attributable to renewable energy sources, up from 65% in 2020.
+C7. Emissions breakdowns
+C7.1
+(C7.1) Does your organization break down its Scope 1 emissions by greenhouse gas type?
+No
+C7.2
+(C7.2) Break down your total gross global Scope 1 emissions by country/area/region.
+Country/area/region	Scope 1 emissions (metric tons CO2e)
+Other, please specify (Rest of World)
+2332413
+North America
+11068987
+C7.3
+(C7.3) Indicate which gross global Scope 1 emissions breakdowns you are able to provide.
+By business division
+C7.3a
+(C7.3a) Break down your total gross global Scope 1 emissions by business division.
+Business division	Scope 1 emissions (metric ton CO2e)
+Amazon UK Services Limited
+52171
+Other (Remainder of Amazon.com business divisions except for Amazon UK Services Limited)
+13349229
+C7.5
+(C7.5) Break down your total gross global Scope 2 emissions by country/area/region.
+Country/area/region	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+Other, please specify (Rest of World)
+5158669
+2191898
+North America
+7609365
+700288
+C7.6
+(C7.6) Indicate which gross global Scope 2 emissions breakdowns you are able to provide.
+By business division
+C7.6a
+(C7.6a) Break down your total gross global Scope 2 emissions by business division.
+Business division	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+Amazon UK Services Limited
+80289
+7029
+Other (Remainder of Amazon.com business divisions except for Amazon UK Services Limited)
+12687745
+2885157
+C7.7
+(C7.7) Is your organization able to break down your emissions data for any of the subsidiaries included in your CDP response?
+No
+C7.9
+(C7.9) How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?
+Increased
+C7.9a
+(C7.9a) Identify the reasons for any change in your gross global emissions (Scope 1 and 2 combined), and for each of them specify how your emissions compare to the previous year.
+Change in emissions (metric tons CO2e)	Direction of change in emissions	Emissions value (percentage)	Please explain calculation
+Change in renewable energy consumption	
+1179847
+Decreased
+29
+Net decrease 29% of Scope 2 Market-Based in 2022 year-over-year from 2021.
+Please refer to Amazon's Carbon Methodology (https://sustainability.aboutamazon.com/carbon-methodology.pdf)
+Other emissions reduction activities		
+<Not Applicable>
+Divestment		
+<Not Applicable>
+Acquisitions		
+<Not Applicable>
+Mergers		
+<Not Applicable>
+Change in output		
+<Not Applicable>
+Change in methodology	
+1248000
+Increased
+10.3
+Net increase of 10.3% of total Scope 1 in 2022 year-over-year from 2021.
+
+Please refer to Amazon's Carbon Methodology (https://sustainability.aboutamazon.com/carbon-methodology.pdf)
+
+Change in boundary		
+<Not Applicable>
+Change in physical operating conditions		
+<Not Applicable>
+Unidentified		
+<Not Applicable>
+Other	
+37150
+Increased
+0.3
+Net increase of 0.3% of total Scope 1 in 2022 year-over-year from 2021.
+
+Please refer to Amazon's Carbon Methodology (https://sustainability.aboutamazon.com/carbon-methodology.pdf)
+C7.9b
+(C7.9b) Are your emissions performance calculations in C7.9 and C7.9a based on a location-based Scope 2 emissions figure or a market-based Scope 2 emissions figure?
+Market-based
+C8. Energy
+C8.1
+(C8.1) What percentage of your total operational spend in the reporting year was on energy?
+More than 0% but less than or equal to 5%
+C8.2
+(C8.2) Select which energy-related activities your organization has undertaken.
+Indicate whether your organization undertook this energy-related activity in the reporting year
+Consumption of fuel (excluding feedstocks)	
+Yes
+Consumption of purchased or acquired electricity	
+Yes
+Consumption of purchased or acquired heat	
+No
+Consumption of purchased or acquired steam	
+No
+Consumption of purchased or acquired cooling	
+No
+Generation of electricity, heat, steam, or cooling	
+Yes
+C8.2a
+(C8.2a) Report your organization’s energy consumption totals (excluding feedstocks) in MWh.
+Heating value	MWh from renewable sources	MWh from non-renewable sources	Total (renewable and non-renewable) MWh
+Consumption of fuel (excluding feedstock)	
+HHV (higher heating value)
+0
+3701179
+3701179
+Consumption of purchased or acquired electricity	
+<Not Applicable>
+35076959
+3648636
+38725595
+Consumption of purchased or acquired heat	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired steam	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired cooling	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of self-generated non-fuel renewable energy	
+<Not Applicable>
+147008
+<Not Applicable>
+147008
+Total energy consumption	
+<Not Applicable>
+35223967
+7349815
+42573782
+C8.2b
+(C8.2b) Select the applications of your organization’s consumption of fuel.
+Indicate whether your organization undertakes this fuel application
+Consumption of fuel for the generation of electricity	
+Yes
+Consumption of fuel for the generation of heat	
+Yes
+Consumption of fuel for the generation of steam	
+No
+Consumption of fuel for the generation of cooling	
+No
+Consumption of fuel for co-generation or tri-generation	
+No
+C8.2c
+(C8.2c) State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.
+Sustainable biomass
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other biomass
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other renewable fuels (e.g. renewable hydrogen)
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Coal
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Oil
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+172474
+MWh fuel consumed for self-generation of electricity
+172474
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Diesel fuel oil is used at emergency back-up generators for use in case of power outages. Data is collected from actual generator run logs, estimation based on run time, or estimation based on annual fuel tank and deliveries.
+Gas
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+3528705
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+3528705
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Total natural gas use is known from utility bills or estimated at the site level when utility bills aren't available. Natural gas is used for space heating and water heating.
+Other non-renewable fuels (e.g. non-renewable hydrogen)
+Heating value
+Unable to confirm heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+0
+MWh fuel consumed for self-generation of heat
+0
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Total fuel
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+3701179
+MWh fuel consumed for self-generation of electricity
+172474
+MWh fuel consumed for self-generation of heat
+3528705
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+C8.2d
+(C8.2d) Provide details on the electricity, heat, steam, and cooling your organization has generated and consumed in the reporting year.
+Total Gross generation (MWh)	Generation that is consumed by the organization (MWh)	Gross generation from renewable sources (MWh)	Generation from renewable sources that is consumed by the organization (MWh)
+Electricity	
+319482
+319482
+147008
+147008
+Heat	
+3528705
+3528705
+0
+0
+Steam	
+0
+0
+0
+0
+Cooling	
+0
+0
+0
+0
+C8.2e
+(C8.2e) Provide details on the electricity, heat, steam, and/or cooling amounts that were accounted for at a zero or near-zero emission factor in the market-based Scope 2 figure reported in C6.3.
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Purchase from an on-site installation owned by a third party (on-site PPA)
+Energy carrier
+Electricity
+Low-carbon technology type
+Solar
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+127046
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Physical power purchase agreement (physical PPA) with a grid-connected generator
+Energy carrier
+Electricity
+Low-carbon technology type
+Wind
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+5923060
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption countries include USA and Canada (North American inter-connected grid)
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Physical power purchase agreement (physical PPA) with a grid-connected generator
+Energy carrier
+Electricity
+Low-carbon technology type
+Solar
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+1315778
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption countries include USA and Canada (North American inter-connected grid)
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Unbundled procurement of energy attribute certificates (EACs)
+Energy carrier
+Electricity
+Low-carbon technology type
+Renewable energy mix, please specify (Low-carbon technology includes a combination of both wind and solar.)
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+15856895
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption countries include USA and Canada (North American inter-connected grid). Low-carbon technology includes a combination of both wind and solar.
+Country/area of low-carbon energy consumption
+Please select
+Sourcing method
+Purchase from an on-site installation owned by a third party (on-site PPA)
+Energy carrier
+Electricity
+Low-carbon technology type
+Solar
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+56171
+Tracking instrument used
+Other, please specify (Energy attribute certificates depending on the region)
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+Please select
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption and generation countries include all non-North American countries (e.g. rest of world). Tracking instruments used are a variety of energy attribute certificates depending on the region.
+Country/area of low-carbon energy consumption
+Please select
+Sourcing method
+Physical power purchase agreement (physical PPA) with a grid-connected generator
+Energy carrier
+Electricity
+Low-carbon technology type
+Wind
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+1500748
+Tracking instrument used
+Contract
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+Please select
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption and generation countries include all non-North American countries (e.g. rest of world). Tracking instruments used include a variety of PPA contracts and bundled environmental attribute certificates depending on the region.
+Country/area of low-carbon energy consumption
+Please select
+Sourcing method
+Physical power purchase agreement (physical PPA) with a grid-connected generator
+Energy carrier
+Electricity
+Low-carbon technology type
+Solar
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+477837
+Tracking instrument used
+Contract
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+Please select
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption and generation countries include all non-North American countries (e.g. rest of world). Tracking instruments used include a variety of PPA contracts and bundled environmental attribute certificates depending on the region.
+Country/area of low-carbon energy consumption
+Please select
+Sourcing method
+Unbundled procurement of energy attribute certificates (EACs)
+Energy carrier
+Electricity
+Low-carbon technology type
+Renewable energy mix, please specify
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+4411657
+Tracking instrument used
+Other, please specify (Tracking instruments used include a variety unbundled energy attribute certificates depending on the region. )
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+Please select
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Consumption and generation countries include all non-North American countries (e.g. rest of world). Tracking instruments used include a variety unbundled energy attribute certificates depending on the region.
+C8.2g
+(C8.2g) Provide a breakdown by country/area of your non-fuel energy consumption in the reporting year.
+C9. Additional metrics
+C9.1
+(C9.1) Provide any additional climate-related metrics relevant to your business.
+C10. Verification
+C10.1
+(C10.1) Indicate the verification/assurance status that applies to your reported emissions.
+Verification/assurance status
+Scope 1	
+Third-party verification or assurance process in place
+Scope 2 (location-based or market-based)	
+Third-party verification or assurance process in place
+Scope 3	
+Third-party verification or assurance process in place
+C10.1a
+(C10.1a) Provide further details of the verification/assurance undertaken for your Scope 1 emissions, and attach the relevant statements.
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+2022-ghg-verification-scope-1-2.pdf
+Page/ section reference
+All
+Relevant standard
+Attestation standards established by AICPA (AT105)
+Proportion of reported emissions verified (%)
+100
+C10.1b
+(C10.1b) Provide further details of the verification/assurance undertaken for your Scope 2 emissions and attach the relevant statements.
+Scope 2 approach
+Scope 2 market-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+2022-ghg-verification-scope-1-2.pdf
+Page/ section reference
+All
+Relevant standard
+Attestation standards established by AICPA (AT105)
+Proportion of reported emissions verified (%)
+100
+Scope 2 approach
+Scope 2 location-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+2022-ghg-verification-scope-1-2.pdf
+Page/ section reference
+All
+Relevant standard
+Attestation standards established by AICPA (AT105)
+Proportion of reported emissions verified (%)
+100
+C10.1c
+(C10.1c) Provide further details of the verification/assurance undertaken for your Scope 3 emissions and attach the relevant statements.
+Scope 3 category
+Scope 3: Purchased goods and services
+Scope 3: Capital goods
+Scope 3: Fuel and energy-related activities (not included in Scopes 1 or 2)
+Scope 3: Upstream transportation and distribution
+Scope 3: Business travel
+Scope 3: Employee commuting
+Scope 3: Upstream leased assets
+Scope 3: Downstream transportation and distribution
+Scope 3: Use of sold products
+Scope 3: End-of-life treatment of sold products
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+2022-ghg-verification-scope-3.pdf
+Page/section reference
+All
+Relevant standard
+ISO14064-3
+Proportion of reported emissions verified (%)
+100
+C10.2
+(C10.2) Do you verify any climate-related information reported in your CDP disclosure other than the emissions figures reported in C6.1, C6.3, and C6.5?
+Yes
+C10.2a
+(C10.2a) Which data points within your CDP disclosure have been verified, and which verification standards were used?
+Disclosure module verification relates to	Data verified	Verification standard	Please explain
+C8. Energy
+Other, please specify (Percentage Renewable Energy)
+AICPA (AT-C 105 and AT-C 210)
+See attached renewable energy
+assurance statement provided by
+Ernst & Young LLP
+2022-renewable-energy-assurance.pdf
+C11. Carbon pricing
+C11.1
+(C11.1) Are any of your operations or activities regulated by a carbon pricing system (i.e. ETS, Cap & Trade or Carbon Tax)?
+Yes
+C11.1a
+(C11.1a) Select the carbon pricing regulation(s) which impacts your operations.
+EU ETS
+C11.1b
+(C11.1b) Complete the following table for each of the emissions trading schemes you are regulated by.
+EU ETS
+% of Scope 1 emissions covered by the ETS
+0.02
+% of Scope 2 emissions covered by the ETS
+0
+Period start date
+January 1 2022
+Period end date
+December 31 2022
+Allowances allocated
+0
+Allowances purchased
+2791
+Verified Scope 1 emissions in metric tons CO2e
+2791.25
+Verified Scope 2 emissions in metric tons CO2e
+0
+Details of ownership
+Facilities we own and operate
+Comment
+C11.1d
+(C11.1d) What is your strategy for complying with the systems you are regulated by or anticipate being regulated by?
+Amazon remains committed to ensuring ETS compliance as part of our wider carbon reduction strategy set out in our commitments under the Climate Pledge. While always working with our design and operational teams to find ways to reduce and minimize GHG emissions from our facilities, our teams track, report and verify our emissions annually and surrender the required number of allowances to the European Union Registry. All of our operational facilities in the EU hold the required GHG emissions permits and adhere to the required emission monitoring plans. 
+
+C11.2
+(C11.2) Has your organization canceled any project-based carbon credits within the reporting year?
+No
+C11.3
+(C11.3) Does your organization use an internal price on carbon?
+No, but we anticipate doing so in the next two years
+C12. Engagement
+C12.1
+(C12.1) Do you engage with your value chain on climate-related issues?
+Yes, our suppliers
+Yes, our customers/clients
+C12.1a
+(C12.1a) Provide details of your climate-related supplier engagement strategy.
+Type of engagement
+Engagement & incentivization (changing supplier behavior)
+Details of engagement
+Run an engagement campaign to educate suppliers about climate change
+% of suppliers by number
+100
+% total procurement spend (direct and indirect)
+100
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+Coverage is 100% of suppliers governed by Amazon's Supply Chain Standards. Amazon expects all products sold in the Amazon Store or provided to Amazon to be manufactured or produced in accordance with Amazon’s Supply Chain Standards. We also expect all suppliers of goods and services to Amazon to comply with these standards, even when our standards exceed the requirements of applicable law. The rationale for the coverage of this engagement is based on this expectation of compliance with this supplier code to ensure that the manufacturing of Amazon products does not cause unnecessary environmental harm.
+Impact of engagement, including measures of success
+We are committed to sourcing products and services that do not cause unnecessary environmental harm, and work with industry experts on ways to understand the environmental impact of our products.
+Comment
+C12.1b
+(C12.1b) Give details of your climate-related engagement strategy with your customers.
+Type of engagement & Details of engagement
+Education/information sharing	Run an engagement campaign to educate customers about the climate change impacts of (using) your products, goods, and/or services
+% of customers by number
+100
+% of customer - related Scope 3 emissions as reported in C6.5
+Please explain the rationale for selecting this group of customers and scope of engagement
+The Amazon Web Services (AWS) Carbon Footprint tool is available to all AWS current and potential customers.
+Impact of engagement, including measures of success
+As AWS continues to invest in sustainability across our infrastructure, many of our customers have asked us to help measure the carbon footprint of their AWS workloads—both to understand how moving to AWS reduces their carbon footprint and to report their overall footprint. Our customer carbon footprint tool uses simple visualizations to show customers their historical carbon emissions, evaluate related trends as their use of AWS evolves, estimate emissions avoided by using AWS instead of an on-premises data center, and review forecasted emissions based on their current usage and our planned renewable power procurement.
+The forecast shows how customers’ footprints will change as Amazon stays on path to powering our operations with 100% renewable energy by 2025, five years earlier than the original target of 2030, and drives toward net-zero carbon by 2040.
+In addition, historical carbon emissions data is available based on a customer’s AWS use from January 2020 onward. This data includes Scope 1 and Scope 2 emissions. Scope 1 emissions come directly from a company’s operations, while Scope 2 emissions come from the generation of purchased energy, such as the electricity used to power AWS data centers.
+The customer carbon footprint tool uses carbon data that meets the international standard of the Greenhouse Gas Protocol. When signed into the AWS Billing console, customers can view their carbon emissions data by geographical location and by AWS service, such as Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Simple Storage Service (Amazon S3). They can also measure changes in their carbon footprint over time, as they deploy new resources in the cloud. We do not charge a fee for access to customer carbon footprint data.
+Type of engagement & Details of engagement
+Education/information sharing	Run an engagement campaign to educate customers about the climate change impacts of (using) your products, goods, and/or services
+% of customers by number
+100
+% of customer - related Scope 3 emissions as reported in C6.5
+Please explain the rationale for selecting this group of customers and scope of engagement
+The AWS Well-Architected Sustainability Pillar
+Impact of engagement, including measures of success
+AWS Well-Architected helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. Built around six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability—AWS Well-Architected provides a consistent approach for customers and partners to evaluate architectures and implement scalable designs.
+
+Through the AWS Well Architected Sustainability Pillar, we provide a set of free and publicly available resources providing customers with architectural design principles, operational guidance, best-practices, potential trade-offs, and improvement plans to meet sustainability targets for their AWS workloads. By adopting the practices in the AWS Well Architected Sustainability Pillar, customers can build architectures that maximize efficiency and reduce waste.
+
+Design principles promoted in the AWS Well Architected Sustainability Pillar include understanding cloud workloads’ impact; establishing sustainability goals; maximizing utilization; anticipating and adopting more efficient hardware and software offerings; using managed services; and reducing the downstream impact of cloud workloads. Best practices described in the AWS Well Architected Sustainability Pillar cover Region Selection; Alignment to Demand; Software and Architecture; Data; Hardware and Services; Process and Culture.
+C12.2
+(C12.2) Do your suppliers have to meet climate-related requirements as part of your organization’s purchasing process?
+Yes, climate-related requirements are included in our supplier contracts
+C12.2a
+(C12.2a) Provide details of the climate-related requirements that suppliers have to meet as part of your organization’s purchasing process and the compliance mechanisms in place.
+Climate-related requirement
+Complying with regulatory requirements
+Description of this climate related requirement
+Environment: Suppliers should respect the right to a clean, healthy & sustainable environment. Suppliers should minimize adverse impacts on the environment, (including reducing the use of energy, air emissions, green house gas emissions, water, waste, use of water, pollution & hazardous materials). Suppliers are encouraged to engage in efforts that support environmental sustainability, such as conducting environmental due diligence & making progress towards integrating environmentally sustainable practices throughout their operations & supply chain
+Energy Consumption & Greenhouse Gas Emissions: We encourage suppliers to continuously improve energy efficiency & reduce energy consumption & greenhouse gas emissions. Suppliers should track, document, & upon request, report greenhouse gas emissions to Amazon. Suppliers are encouraged to establish a greenhouse gas reduction goal & publicly-report against their progress
+Environmental Permits & Recordkeeping: Suppliers are required to obtain & keep current all necessary environmental permits, approvals & registrations & follow applicable operational & reporting requirements
+Resource Conservation: Suppliers should reduce fossil fuel consumption, & we encourage suppliers to reduce consumption of other natural resources, including water & minerals, & avoid deforestation. We encourage Suppliers to implement practices such as modifying production, maintenance & facility processes, materials substitution, reuse, conservation or recycling
+% suppliers by procurement spend that have to comply with this climate-related requirement
+100
+% suppliers by procurement spend in compliance with this climate-related requirement
+100
+Mechanisms for monitoring compliance with this climate-related requirement
+On-site third-party verification
+Response to supplier non-compliance with this climate-related requirement
+Retain and engage
+C12.3
+(C12.3) Does your organization engage in activities that could either directly or indirectly influence policy, law, or regulation that may impact the climate?
+Row 1
+External engagement activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+Yes, we engage directly with policy makers
+Yes, our membership of/engagement with trade associations could influence policy, law, or regulation that may impact the climate
+Yes, we fund organizations or individuals whose activities could influence policy, law, or regulation that may impact the climate
+Does your organization have a public commitment or position statement to conduct your engagement activities in line with the goals of the Paris Agreement?
+Yes
+Attach commitment or position statement(s)
+Amazon’s Direct Efforts to Support the Paris Agreement Goals
+We advocate in support of public policy that advances the Paris Agreement by
+promoting access to and the expansion of clean energy, sustainable transportation, and
+other decarbonizing solutions.
+Supporting policy action for climate progress
+Amazon and our Climate Pledge partners are making important progress on the path to
+achieving net-zero carbon by 2040—10 years ahead of the Paris Agreement. We know
+we can’t do this alone and believe that the public and private sectors must act together
+to tackle the scale of the climate challenge.
+Amazon’s overarching policy statement about climate change
+Human-induced climate change is real, serious, and action is needed from the public
+and private sectors. The overwhelming majority of climate scientists agree that human
+activities are contributing to climate-warming trends over the past century, and most
+leading scientific organizations worldwide have issued public statements endorsing this
+position. We agree and have created The Climate Pledge—a commitment to reach the
+Paris Agreement 10 years early. We are innovating and investing to be net-zero carbon
+by 2040 and run on 100% renewable energy by 2025. We are purchasing 100,000 fully
+electric delivery vehicles, the largest order ever for electric delivery vehicles, and
+investing $100 million in nature-based climate solutions and reforestation projects
+around the world to begin removing carbon from the atmosphere now. Our sustainability
+website provides comprehensive reporting on our carbon footprint and progress on our
+commitments.
+Describe the process(es) your organization has in place to ensure that your external engagement activities are consistent with your climate commitments and/or climate transition plan
+We engage with authorities at the local, state, national, and international levels to
+oversee the seamless operations of our international business through different
+legislative demands and compliance requirements. Our Public Policy teams work with a
+wide range of policymakers, multilateral organizations, industry associations, coalitions,
+and other partners across numerous regulatory and policy issues.
+We published a report “Amazon’s Initiatives in Support of the Paris Agreement Goals”
+describing the actions we take to mitigate the risks associated with potential
+misalignments between our positions and those taken by organizations that we support.
+This is primarily a concern when trade associations, coalitions, charities, and 501(c)(4)
+social welfare organizations to which we contribute may, in the course of representing
+their broad membership, take positions on certain issues that are inconsistent with our
+public policy positions and that do not reflect our views. When we identify any material
+misalignment of this nature, we make clear to that organization that we do not support
+that position and that organization is not lobbying on behalf of Amazon on that issue.
+The Company’s Vice President of Public Policy reviews and approves each campaign
+contribution made with Company funds or resources to, or in support of, any candidate,
+political campaign, political party, political committee, or public official in any country, or
+to any other organization for campaign-related purposes, to ensure that it is lawful and
+consistent with the Company’s business objectives and public policy priorities. The
+Company’s Senior Vice President for Global Corporate Affairs, the Senior Vice
+President and General Counsel, and the Audit Committee of the Board of Directors
+annually review this U.S. Political Engagement Policy and Statement, related
+procedures, and a report on all of the Company’s campaign contributions and lobbying
+expenses, including donations made to other organizations that may engage in indirect
+lobbying on behalf of the Company.
+More information is available in our 2022 U.S. Political Engagement Policy and
+Statement available here: https://ir.aboutamazon.com/corporate-governance/Political-Engagement/default.aspx
+Primary reason for not engaging in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+Explain why your organization does not engage in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+C12.3a
+(C12.3a) On what policy, law, or regulation that may impact the climate has your organization been engaging directly with policy makers in the reporting year?
+Specify the policy, law, or regulation on which your organization is engaging with policy makers
+In 2022, Amazon advocated for full implementation of the bipartisan Infrastructure Investment and Jobs Act.
+Category of policy, law, or regulation that may impact the climate  
+Climate change mitigation
+Focus area of policy, law, or regulation that may impact the climate
+Emissions – CO2
+Emissions – methane
+Emissions – other GHGs
+Low-carbon, non-renewable energy generation 
+Renewable energy generation 
+Policy, law, or regulation geographic coverage
+National
+Country/area/region the policy, law, or regulation applies to
+United States of America
+Your organization’s position on the policy, law, or regulation
+Support with minor exceptions
+Description of engagement with policy makers
+Public statement and outreach to federal lawmakers.
+Details of exceptions (if applicable) and your organization’s proposed alternative approach to the policy, law or regulation
+Our support noted here is related to the climate provisions only. The “minor exception”
+note above is related to the rest of the legislation. This is neither a statement in support
+or against any non-climate related provisions in the rest of the bill.
+Have you evaluated whether your organization’s engagement on this policy, law, or regulation is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+Please explain whether this policy, law or regulation is central to the achievement of your climate transition plan and, if so, how?
+<Not Applicable>
+C12.3b
+(C12.3b) Provide details of the trade associations your organization is a member of, or engages with, which are likely to take a position on any policy, law or regulation that may impact the climate.
+Trade association
+Other, please specify (Center for Climate and Energy Solutions (C2ES))
+Is your organization’s position on climate change policy consistent with theirs?
+Consistent
+Has your organization attempted to influence their position in the reporting year?
+Yes, and they have changed their position 
+Describe how your organization’s position is consistent with or differs from the trade association’s position, and any actions taken to influence their position
+Amazon's position is consistent with C2ES on their major priority areas including: accelerating the US net-zero transition, supporting the Paris Agreement, and building climate resilience.
+Funding figure your organization provided to this trade association in the reporting year (currency as selected in C0.4)
+10000
+Describe the aim of your organization’s funding
+Amazon contributes to certain trade associations, coalitions, charities, and 501(c)(4) social
+welfare organizations, many of which engage in indirect lobbying on behalf of Amazon by
+communicating with policymakers on issues important to their members. All organizations
+receiving such payments of $10,000 or more made through the Company’s Public Policy Office
+in 2022 are disclosed in Annex A to this U.S. Political Engagement Policy and Statement linked here: https://s2.q4cdn.com/299287126/files/doc_downloads/2023/04/2022-political-engagement-statement.pdf
+Amazon may not agree with all the positions of each organization, its leaders, or its other
+supporters, but believes that the Company’s support will help advance policy objectives aligned
+with our interests.
+Have you evaluated whether your organization’s engagement with this trade association is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+C12.3c
+(C12.3c) Provide details of the funding you provided to other organizations or individuals in the reporting year whose activities could influence policy, law, or regulation that may impact the climate.
+Type of organization or individual
+Other, please specify (Bipartisan Policy Center)
+State the organization or individual to which you provided funding
+Bipartisan Policy Center
+Funding figure your organization provided to this organization or individual in the reporting year (currency as selected in C0.4)
+10000
+Describe the aim of this funding and how it could influence policy, law or regulation that may impact the climate
+Develop policy priorities on climate change, particularly nature based solutions.
+Have you evaluated whether this funding is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+C12.4
+(C12.4) Have you published information about your organization’s response to climate change and GHG emissions performance for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+2022-sustainability-reporting-framework-summary.pdf
+2022-sustainability-report.pdf
+Page/Section reference
+2022 Sustainability Report (Pages 7-25); 2022 Sustainability Reporting Frameworks Summary (Page 19)
+Content elements
+Governance
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Other metrics
+Comment
+No additional comment.
+C12.5
+(C12.5) Indicate the collaborative frameworks, initiatives and/or commitments related to environmental issues for which you are a signatory/member.
+Environmental collaborative framework, initiative and/or commitment	Describe your organization’s role within each framework, initiative and/or commitment
+Row 1	
+The Climate Pledge
+We Mean Business
+World Business Council for Sustainable Development (WBCSD)
+1) Amazon is a co-founder, with Global Optimism, of The Climate Pledge
+2) Amazon is a member of We Mean Business and WBCSD
+C15. Biodiversity
+C15.1
+(C15.1) Is there board-level oversight and/or executive management-level responsibility for biodiversity-related issues within your organization?
+Board-level oversight and/or executive management-level responsibility for biodiversity-related issues	Description of oversight and objectives relating to biodiversity	Scope of board-level oversight
+Row 1	
+Yes, executive management-level responsibility
+Per response to question C1.2, the Company holds quarterly business reviews with the leadership teams of all the Company’s major businesses to track progress towards meeting our commitments under The Climate Pledge—a commitment to be net-zero carbon across our business by 2040, 10 years ahead of the Paris Agreement. The CEO of Amazon Web Services, takes responsibility for climate-related issues on the Senior Management Team (“S-Team”). This includes reporting to the Nominating and Corporate Governance Committee on our performance against our climate-related initiatives and targets, including progress on The Climate Pledge.
+
+The Vice President Worldwide Sustainability, who reports to the CEO of Amazon Web Services, oversees Amazon's Sustainability team, which works across the Company to make operational changes that reduce or eliminate carbon in our business. The Company developed a company-wide carbon accounting model that provides specific operational metrics to business teams on their emissions and allows them to track progress on decarbonization. The Sustainability team reports to the S-Team on all aspects of our environmental, sustainability, and corporate social responsibility practices on a quarterly basis.
+<Not Applicable>
+C15.2
+(C15.2) Has your organization made a public commitment and/or endorsed any initiatives related to biodiversity?
+Indicate whether your organization made a public commitment or endorsed any initiatives related to biodiversity	Biodiversity-related public commitments	Initiatives endorsed
+Row 1	
+Yes, we have made public commitments and publicly endorsed initiatives related to biodiversity
+Other, please specify (In 2019, Amazon created the Right Now Climate Fund, a $100 million fund for nature-based solutions to restore & conserve forests, wetlands & grasslands. Amazon has made commitments across the use of palm oil, paper, beef, soy, cocoa, coffee & tea.)
+Other, please specify (Rainforest Alliance; Fairtrade International; Better Cotton; Leather Working Group; Canopy; Forest Stewardship Council (FSC), Sustainable Forestry Initiative, Programme for the Endorsement of Forest Certification)
+C15.3
+(C15.3) Does your organization assess the impacts and dependencies of its value chain on biodiversity?
+Impacts on biodiversity
+Indicate whether your organization undertakes this type of assessment
+No, but we plan to within the next two years
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+Dependencies on biodiversity
+Indicate whether your organization undertakes this type of assessment
+Please select
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+C15.4
+(C15.4) Does your organization have activities located in or near to biodiversity- sensitive areas in the reporting year?
+Not assessed
+C15.5
+(C15.5) What actions has your organization taken in the reporting year to progress your biodiversity-related commitments?
+Have you taken any actions in the reporting period to progress your biodiversity-related commitments?	Type of action taken to progress biodiversity- related commitments
+Row 1	
+Yes, we are taking actions to progress our biodiversity-related commitments
+Land/water protection
+Land/water management
+C15.6
+(C15.6) Does your organization use biodiversity indicators to monitor performance across its activities?
+Does your organization use indicators to monitor biodiversity performance?	Indicators used to monitor biodiversity performance
+Row 1	
+No, we do not use indicators, but plan to within the next two years
+Please select
+C15.7
+(C15.7) Have you published information about your organization’s response to biodiversity-related issues for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Report type	Content elements	Attach the document and indicate where in the document the relevant biodiversity information is located
+In voluntary sustainability report or other voluntary communications
+Please select
+See report
+
+2022-sustainability-report.pdf
+C16. Signoff
+C-FI
+(C-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please note that this field is optional and is not scored.
+C16.1
+(C16.1) Provide details for the person that has signed off (approved) your CDP climate change response.
+Job title	Corresponding job category
+Row 1	
+Vice President, Worldwide Sustainability
+Other, please specify (Vice President, Worldwide Sustainability)
+C0. Introduction
+C1. Governance
+C2. Risks and opportunities
+C3. Business Strategy
+C4. Targets and performance
+C5. Emissions methodology
+C6. Emissions data
+C7. Emissions breakdowns
+C8. Energy
+C9. Additional metrics
+C10. Verification
+C11. Carbon pricing
+C12. Engagement
+C15. Biodiversity
+C16. Signoff
+CDP
+Still need help?  Contact us.
+
+© 2024 CDP North America
+Inc.U.S. registered 501(c)3 with tax-exempt status
+127 West 26th Street, Suite 300, New York, NY 10001, U.S.
+
+Accredited solutions providers
+Offices
+Staff
+Trustees, board and advisors
+Cookies
+Privacy
+Terms & Conditions
+Careers
+ LinkedIn
+ Twitter
+ YouTube
+ Vimeo

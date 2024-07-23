@@ -1,0 +1,2496 @@
+Help Center Guidance & questionnaires Contact Language  Location Account menu 
+CDP
+ ZHAbout us Our work Why disclose? Become a member Data and insights
+Welltower Inc. - Climate Change 2023
+C0. Introduction
+C0.1
+(C0.1) Give a general description and introduction to your organization.
+Welltower is a real estate investment trust (REIT) that partners with leading seniors housing operators, post-acute care providers and health systems to provide high-quality and affordable health care for an aging population. Through Welltower’s capital investments, health care providers and operators are able to grow, innovate and ultimately improve people’s wellness and overall health care experience.  
+
+
+
+All properties owned by Welltower throughout the entirety (or a portion) of calendar year 2022 are included in the entity's reporting boundaries and portfolio composition for this reporting year. Loans (0% ownership), properties under construction and land are excluded from the asset list and are outside of the reporting boundaries for Welltower. Welltower defines its control boundary using the financial control approach. Under this approach, medical office buildings that are directly managed by Welltower and seniors housing operating properties in Welltower’s portfolio are included within the control boundary (Scope 1 and 2), with triple-net  properties considered outside of the financial boundary and included in Scope 3. An inventory management plan (IMP) was developed and describes the data sources and methodology used to prepare Welltower’s 2022 greenhouse gas (GHG) inventory. Both the IMP and an accompanying GHG inventory are created in accordance with the Greenhouse Gas Protocol’s Corporate Accounting and Reporting Standard and the U.S. Environmental Protection Agency’s (EPA) guidance and best practices for calculation emissions associated with Direct Emissions from Stationary Combustion Sources and Indirect Emissions from Purchased Electricity. 
+
+
+
+Welltower has implemented an award-winning environmental, social and governance (“ESG”) program that aims to promote sustainability and wellness for our employees, tenants and residents through a full range of initiatives. 2022 was a year of significant advances in ESG for Welltower in response to both investor expectations and employee engagement. Some of our ESG accomplishments include receiving the 2023 ENERGY STAR Partner of the Year Award at the level of ‘Sustained Excellence’ as recognition of our ongoing efforts to promote energy efficiency across our portfolio, forming the Welltower ESG Steering Committee, setting an emissions reduction goal approved by the Science Based Targets initiative, and conducting a portfolio-wide climate change scenario analysis.
+
+C0.2
+(C0.2) State the start and end date of the year for which you are reporting data and indicate whether you will be providing emissions data for past reporting years.
+Reporting year
+Start date
+January 1 2022
+End date
+December 31 2022
+Indicate if you are providing emissions data for past reporting years
+No
+Select the number of past reporting years you will be providing Scope 1 emissions data for
+<Not Applicable>
+Select the number of past reporting years you will be providing Scope 2 emissions data for
+<Not Applicable>
+Select the number of past reporting years you will be providing Scope 3 emissions data for
+<Not Applicable>
+C0.3
+(C0.3) Select the countries/areas in which you operate.
+Canada
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+C0.4
+(C0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+C0.5
+(C0.5) Select the option that describes the reporting boundary for which climate-related impacts on your business are being reported. Note that this option should align with your chosen approach for consolidating your GHG inventory.
+Financial control
+C-CN0.7/C-RE0.7
+(C-CN0.7/C-RE0.7) Which real estate and/or construction activities does your organization engage in?
+New construction or major renovation of buildings
+Buildings management
+C0.8
+(C0.8) Does your organization have an ISIN code or another unique identifier (e.g., Ticker, CUSIP, etc.)?
+Indicate whether you are able to provide a unique identifier for your organization	Provide your unique identifier
+Yes, an ISIN code
+US95040Q1040
+Yes, a Ticker symbol
+WELL
+C1. Governance
+C1.1
+(C1.1) Is there board-level oversight of climate-related issues within your organization?
+Yes
+C1.1a
+(C1.1a) Identify the position(s) (do not include any names) of the individual(s) on the board with responsibility for climate-related issues.
+Position of individual or committee	Responsibilities for climate-related issues
+Chief Executive Officer (CEO)
+Ultimate management-level responsibility for Welltower's corporate sustainability program is with the CEO of the Company, who sits on the Board of Directors. The CEO meets with other Board members frequently. The CEO is kept up to date on sustainability topics by the CFO and the AVP, Capital Markets & ESG. The strong relationship between the most senior decision makers and those with responsibility for sustainability allows action points to be implemented into company operations effectively. Recently, Welltower launched the ESG Steering Committee co-headed by the CEO and the AVP, Capital Markets & ESG, as a cross functional committee to assist the Company in setting and implementing ESG strategy, identifying risks and opportunities and making recommendations regarding these matters. The CEO supported the decision to publicly disclose our goal of a 10% reduction in energy usage, water usage and GHG emissions intensities by 2025 (against a 2018 baseline) and continues to request and monitor our progress against this goal as reported in our annual ESG Report. Additionally, our CEO supports our ESG team in its engagement with operators around reporting their sustainability data and information, as well as supports the decision to incorporate sustainability goals in determining executive compensation including increased data coverage and progress towards reduction targets.
+Board-level committee
+The Nominating/Corporate Governance Committee of Welltower's Board of Directors has ultimate oversight of Welltower's sustainability program, which includes the Company's efforts to implement sustainability-related goals and targets, mitigate the impacts of climate change on the business and manage overall corporate governance and the social impacts of the Company’s operations.
+C1.1b
+(C1.1b) Provide further details on the board’s oversight of climate-related issues.
+Frequency with which climate-related issues are a scheduled agenda item	Governance mechanisms into which climate-related issues are integrated	Scope of board-level oversight	Please explain
+Scheduled – some meetings
+Reviewing and guiding strategy
+Overseeing and guiding scenario analysis
+Overseeing the setting of corporate targets
+Monitoring progress towards corporate targets
+Reviewing and guiding the risk management process
+<Not Applicable>
+The Nominating/Corporate Governance Committee of Welltower’s Board of Directors reviews climate-related matters and Welltower’s environmental sustainability practices. The Nominating/Corporate Governance Committee met four times during calendar year 2022.
+Scheduled – some meetings
+Reviewing and guiding the risk management process
+<Not Applicable>
+The Board and the Nominating/Corporate Governance Committee oversee and review the management of risks including compliance, environmental sustainability and corporate governance. Management is responsible for identifying Welltower’s significant risks, developing risk management strategies and policies and integrating risk management into Welltower’s decision-making process. To that end, Welltower has implemented an enterprise risk management program (based on the COSO Enterprise Risk Management Framework) and created an internal Enterprise Risk Management (ERM) Committee charged with identifying, monitoring and mitigating risks and exposures. The ERM Committee, through regular communication with business areas throughout the year, identifies and evaluates sustainability and climate-related enterprise risks that may affect the Company’s business functions. Opportunities are channeled back to management’s strategy setting process and risks are added to the central Risk Register (Excel-based) where a qualitative description and mitigation measures for each risk are detailed. A report of the risks identified and results of mitigation efforts are reported to the Board regularly. In regards to climate-related mitigation measures, Welltower takes a multi-faceted approach including implementing water, energy and waste management programs to improve the efficiency of the portfolio and minimize GHG emissions. In addition, the implementation of disaster recovery plans and adequate insurance policies are used to mitigate risks associated with extreme weather events. In 2022, Welltower ran all of its assets through Moody's Climate on Demand platform, and the results were discussed and shared with the Board. This ERM structure enables information regarding significant risks and exposures to the Company to be monitored and communicated to Welltower leadership and the Board.
+C1.1d
+(C1.1d) Does your organization have at least one board member with competence on climate-related issues?
+Board member(s) have competence on climate-related issues	Criteria used to assess competence of board member(s) on climate-related issues	Primary reason for no board-level competence on climate-related issues	Explain why your organization does not have at least one board member with competence on climate-related issues and any plans to address board-level competence in the future
+Row 1	
+Yes
+Many board members have experience as real estate lenders and owners, which involves assessing the effects of climate-related risks on real estate as part of their due diligence and decision-making processes. We also have board members with experience in operations and environmental matters. Page 20 of Welltower’s 2023 Proxy lists Directors with ESG and specifically "Environmental" skill sets (https://welltower.com/wp-content/uploads/2023/04/2023-Proxy-Statement-Final.pdf).
+<Not Applicable>
+<Not Applicable>
+C1.2
+(C1.2) Provide the highest management-level position(s) or committee(s) with responsibility for climate-related issues.
+Position or committee
+Chief Executive Officer (CEO)
+Climate-related responsibilities of this position
+Other, please specify (Both assessing and managing climate-related risks and opportunities)
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+Other, please specify (Board of Directors)
+Frequency of reporting to the board on climate-related issues via this reporting line
+Quarterly
+Please explain
+Position or committee
+Other, please specify (AVP, Capital Markets & ESG)
+Climate-related responsibilities of this position
+Other, please specify (Both assessing and managing climate-related risks and opportunities)
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+Finance - CFO reporting line
+Frequency of reporting to the board on climate-related issues via this reporting line
+More frequently than quarterly
+Please explain
+Position or committee
+Other, please specify (ESG Steering Committee)
+Climate-related responsibilities of this position
+Other, please specify (Both assessing and managing climate-related risks and opportunities)
+Coverage of responsibilities
+<Not Applicable>
+Reporting line
+Other, please specify (Board of Directors)
+Frequency of reporting to the board on climate-related issues via this reporting line
+Quarterly
+Please explain
+C1.3
+(C1.3) Do you provide incentives for the management of climate-related issues, including the attainment of targets?
+Provide incentives for the management of climate-related issues	Comment
+Row 1	
+Yes
+Welltower board members, the management team, as well as other employees, are responsible for meeting specific short-term and/or long-term goals and targets. Incentives are tied to company performance as well as other goals that align with Welltower's climate and ESG commitments, including improving ESG and risk disclosure scores and reducing Scope 1 and 2 GHG emissions intensity by 10% by 2025. Incentives are explained in detail on pages 41-44 of the 2023 Proxy (https://welltower.com/wp-content/uploads/2023/04/2023-Proxy-Statement-Final.pdf).
+C1.3a
+(C1.3a) Provide further details on the incentives provided for the management of climate-related issues (do not include the names of individuals).
+Entitled to incentive
+Chief Executive Officer (CEO)
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Performance indicator(s)
+Progress towards a climate-related target
+Reduction in emissions intensity
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Annual incentives reward the executives for achieving prescribed performance objectives tied to Welltower’s annual business plan, as well as achieving individual performance objectives. Under this program, a range of earning opportunities is established for each executive at the beginning of the performance period, expressed as percentages of base salary and corresponding to three levels of performance (threshold, target and high) on different performance metrics or categories. In each case, threshold performance will lead to a 50% payout, target performance will lead to a 100% payout and high performance will lead to a 200% payout.
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+A portion of monetary rewards is tied to leadership on ESG Matters, including the 10% reduction target in energy usage, GHG emissions and water usage intensities by 2025 over a 2018 baseline. ESG has been a focal point for Welltower for many years. Beginning in 2021, the annual incentive program introduced goals for all aspects of ESG. New in 2022, the NEOs were evaluated on an ESG scorecard balancing focus on the “E,” the “S” and the “G.” The Compensation Committee established these goals to continue our progress toward protecting the environment, attracting and retaining talent, being a good corporate citizen in the communities in which we operate and ensuring a firm foundation of corporate governance to operate our business with the highest level of integrity, both internally and externally.
+Entitled to incentive
+Chief Financial Officer (CFO)
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Performance indicator(s)
+Progress towards a climate-related target
+Reduction in emissions intensity
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+A portion of monetary rewards is tied to leadership on ESG Matters, including the 10% reduction target in energy usage, GHG emissions and water usage intensities by 2025 over a 2018 baseline.
+Entitled to incentive
+Other, please specify (AVP, Capital Markets & ESG)
+Type of incentive
+Monetary reward
+Incentive(s)
+Bonus - % of salary
+Performance indicator(s)
+Progress towards a climate-related target
+Reduction in emissions intensity
+Incentive plan(s) this incentive is linked to
+Short-Term Incentive Plan
+Further details of incentive(s)
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+Progress towards reduction targets and implementation of sustainability initiatives are included in the annual performance review and taken into account when determining monetary compensation.
+Entitled to incentive
+Facilities manager
+Type of incentive
+Monetary reward
+Incentive(s)
+Please select
+Performance indicator(s)
+Other (please specify) (Behavior change related indicator)
+Incentive plan(s) this incentive is linked to
+Please select
+Further details of incentive(s)
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+Medical Office Building (MOB) property managers are incentivized and evaluated based on their goals and work performance. Given that Welltower has a publicly reported goal of a 10% reduction in GHG emissions, energy usage, and water usage intensities by 2025 over a 2018 baseline, property managers' performance is ultimately tied to supporting Welltower in meeting these goals. As a result, property managers are encouraged to participate in energy and water benchmarking of their properties and to identify waste/recycling initiatives and energy efficiency programs.
+Entitled to incentive
+Other, please specify (All other EVPs and SVPs)
+Type of incentive
+Monetary reward
+Incentive(s)
+Please select
+Performance indicator(s)
+Progress towards a climate-related target
+Reduction in emissions intensity
+Incentive plan(s) this incentive is linked to
+Please select
+Further details of incentive(s)
+Explain how this incentive contributes to the implementation of your organization’s climate commitments and/or climate transition plan
+A portion of monetary rewards is tied to leadership on ESG Matters, including the 10% reduction target in energy usage, GHG emissions and water usage intensities by 2025 over a 2018 baseline.
+C2. Risks and opportunities
+C2.1
+(C2.1) Does your organization have a process for identifying, assessing, and responding to climate-related risks and opportunities?
+Yes
+C2.1a
+(C2.1a) How does your organization define short-, medium- and long-term time horizons?
+From (years)	To (years)	Comment
+Short-term	
+1
+7
+Short, medium and long-term groupings are based on a multi-scenario analysis of portfolio-wide risk across multiple time horizons. These risks are outlined in our 2022 ESG Report on pages 38-41.
+Medium-term	
+8
+17
+Short, medium and long-term groupings are based on a multi-scenario analysis of portfolio-wide risk across multiple time horizons. These risks are outlined in our 2022 ESG Report on pages 38-41.
+Long-term	
+18
+Short, medium and long-term groupings are based on a multi-scenario analysis of portfolio-wide risk across multiple time horizons. These risks are outlined in our 2022 ESG Report on pages 38-41.
+C2.1b
+(C2.1b) How does your organization define substantive financial or strategic impact on your business?
+Page 30 of our 2022 Form 10-K states: "Our business model and the operations of our business involve risks, including those related to losses caused by severe weather conditions, natural disasters or the physical effects of climate change." Welltower further defines a substantive financial or strategic impact in relation to identifying or assessing climate-related risks according to page 31 of our 2022 Form 10-K: "The events and consequences discussed in these risk factors could, in circumstances we may not be able to accurately predict, recognize or control, have a material adverse effect on our business, growth, reputation, prospects, financial condition, operating results, cash flows, liquidity, ability to pay dividends and stock price."
+
+
+
+Moreover, page 39 of our 2022 Form 10-K states: "We may experience losses caused by severe weather conditions, natural disasters or the physical effects of climate change, which could result in an increase of our or our tenants’ cost of insurance, unanticipated costs associated with evacuation, a decrease in our anticipated revenues or a significant loss of the capital we have invested in a property. We maintain or require our tenants to maintain comprehensive insurance coverage on our properties with terms, conditions, limits and deductibles that we believe are appropriate given the relative risk and costs of such coverage. However, a large number of our properties are located in areas particularly susceptible to revenue loss, cost increase or damage caused by severe weather conditions or natural disasters such as hurricanes, earthquakes, tornadoes and floods, as well as the effects of climate change. We believe, given current industry practice and analysis prepared by outside consultants, that our and our tenants’ insurance coverage is appropriate to cover reasonably anticipated losses that may be caused by hurricanes, earthquakes, tornadoes, floods, wildfires and other severe weather conditions and natural disasters, including the effects of climate change. Nevertheless, we are always subject to the risk that such insurance will not fully cover all losses and, depending on the severity of the event and the impact on our properties, such insurance may not cover a significant portion of the losses including the costs associated with evacuation. Moreover, an increase in volatility and difficulty predicting adverse weather events, such as the changes in tornado patterns in recent years, may result in additional losses. These losses may lead to an increase of our and our tenants’ cost of insurance, a decrease in our anticipated revenues from an affected property and a loss of all or a portion of the capital we have invested in an affected property... Also, changes in federal and state legislation and regulation relating to climate change could result in increased capital expenditures to improve the energy efficiency and resiliency of our existing properties and could also necessitate us to spend more on our new development properties without a corresponding increase in revenue."
+
+
+
+Specific quantifiable indicators include:
+
+
+
+- FFO (Funds from Operations): Our 2022 normalized FFO per diluted share was $3.35. The Compensation Committee set 2022 target normalized FFO of $3.46 per diluted share to align with Welltower’s annual business plan (2023 Proxy, pg. 42). A negative impact to FFO per diluted share, of at least 1-2 cents would have a substantive financial impact as it could cause the Company to miss its publicly issued normalized FFO per diluted share guidance or board approved targets.
+
+- Loss of capital invested in a property: Significant property damage or destruction of our properties because of climate change that result in losses of over tens of millions of dollars of capital invested in our properties
+
+- Credit Rating: Our current credit rating is BBB+/Baa1. Any events that lead to a negative impact on our credit rating, as a result of a decrease in cash flow from climate-related events, would have a substantive financial impact.
+
+C2.2
+(C2.2) Describe your process(es) for identifying, assessing and responding to climate-related risks and opportunities.
+Value chain stage(s) covered
+Direct operations
+Upstream
+Downstream
+Risk management process
+Integrated into multi-disciplinary company-wide risk management process
+Frequency of assessment
+More than once a year
+Time horizon(s) covered
+Short-term
+Medium-term
+Long-term
+Description of process
+Welltower's Enterprise Risk Management system helps ensure structured, consistent and continuous risk management processes are in place across the entire organization, which includes all global operations. The Board and the Nominating/Corporate Governance Committee play an integral role in overseeing the management of Welltower’s risks and regularly reviews Welltower’s material risks and exposures, including operational, strategic, financial and compliance risks.
+
+Management is responsible for identifying Welltower’s significant risks, developing risk management strategies and policies and integrating risk management into Welltower’s decision-making process. To that end, Welltower has implemented an enterprise risk management program (based on the COSO Enterprise Risk Management Framework) and created an internal Enterprise Risk Management (ERM) Committee charged with identifying, monitoring and mitigating risks and exposures. The ERM Committee, through regular communication with business areas throughout the year, identifies and evaluates risks that may affect the Company’s business functions. Opportunities are channelled back to management’s strategy setting process and risks are added to the central Risk Register (Excel-based) where a qualitative description and mitigation measures for each risk are detailed. A report of the risks identified and results of mitigation efforts are reported to the Board regularly. In regard to climate risk mitigation measures, Welltower takes a multi-faceted approach including implementing water, energy and waste management programs to improve the efficiency of the portfolio and minimize GHG emissions. In addition, the implementation of disaster recovery plans and adequate insurance policies are used to mitigate risks associated with extreme weather events. This ERM structure enables information regarding significant risks and exposures to the Company to be monitored and communicated to Welltower leadership and the Board.
+
+Additionally, Welltower utilized Moody’s Risk Management Solutions Climate on Demand platform to perform a portfolio-wide climate change analysis to help identify and measure climate risk exposure. This climate change analysis enabled Welltower to group risks by timeframe and climate scenario as well as identify opportunities for risk mitigation. The outcome of the analysis was shared with the Risk Committee for incorporation into our company-wide risk register as part of our ERM system.
+C2.2a
+(C2.2a) Which risk types are considered in your organization's climate-related risk assessments?
+Relevance & inclusion	Please explain
+Current regulation	
+Relevant, always included
+Welltower’s ESG team, development team and third-party consultants consistently monitor and assess current climate-related regulations applicable to our portfolio including any required building construction standards or municipal benchmarking reporting requirements for our portfolio. Non-compliance with municipal benchmarking may result in fines.
+
+In addition, the Audit Committee oversees Welltower's compliance program with respect to legal and regulatory requirements and our ERM Committee seeks to ensure there are mitigants in place for all compliance-related risks identified in the Risk Register.
+Emerging regulation	
+Relevant, always included
+The ESG Steering Committee, Audit Committee and Nominating/Corporate Governance Committee monitor potential emerging climate-related legislative and regulatory changes that will impact Welltower. For example, in the United States, the SEC has announced a proposal that would require public companies to report on their carbon emissions and risks. This rule change would require Welltower to publicly disclose the details of their carbon emissions and provide information about their exposure to climate-related risks.
+
+There are also an increasing number of national, state and local policies and ordinances around energy and carbon reduction and benchmarking in the U.S., the U.K. and Canada. Legislation continues to increase and there is a potential for new legislation to require companies to meet certain energy/water performance standards or carbon reduction standards with potential fines for non-compliance.
+Technology	
+Relevant, always included
+As technology continues to advance, outdated and inefficient systems may need to be replaced or upgraded to optimize the operational efficiency of our buildings. Risks of not keeping up with the latest technology include not realizing potential energy and water consumption savings, not meeting our public GHG, energy and water reduction goals and not keeping up with consumer and tenant preferences.
+
+Welltower undertakes operational energy and water efficiency assessments across the portfolio and supports tenants to implement efficiency upgrades that provide improved environmental performance and could potentially lower utility consumption and costs. For example, Welltower's efforts have been recognized annually with the ENERGY STAR® Partner of the Year Sustained Excellence Award (since 2021) and Welltower has facilitated 391 LED retrofit projects to date.
+Legal	
+Relevant, always included
+From time to time, we are directly involved or named as a party in legal proceedings, lawsuits and other claims. We also are named as defendants in lawsuits allegedly arising out of our actions or the actions of our operators/tenants or managers in which such operators/tenants or managers have agreed to indemnify, defend and hold us harmless from and against various claims, litigation and liabilities arising in connection with their respective businesses. There can be no assurance that we will be able to prevail in, or achieve a favorable settlement of, pending or future litigation. In addition, pending litigation or future litigation, government proceedings or environmental matters could lead to increased costs or interruption of our normal business operations. An unfavorable resolution of pending or future litigation or legal proceedings may have a material adverse effect on our business, results of operations and financial condition. Regardless of its outcome, litigation may result in substantial costs and expenses, significantly divert the attention of management and could damage our reputation and our brand. In addition, any such resolution could involve our agreement to terms that restrict the operation of our business. We cannot guarantee losses incurred in connection with any current or future legal or regulatory proceedings or actions will not exceed any provisions we may have set aside in respect of such proceedings or actions or will not exceed any available insurance coverage.
+Market	
+Relevant, always included
+In addition to policy and regulatory/legal risks, Welltower continuously monitors all transition risks that may have a material impact on the Company's business activities and assets through review of the regularly updated Risk Register, which is a tool that prioritizes risks as low, medium and high. Welltower consistently reviews its own ESG reporting methods, recognitions and awards and ESG strategies, as well as those of their peers, to make sure Welltower keeps up to date with market trends and meets the changing expectations of its key stakeholders. If Welltower is unable to meet future market expectations, this may be a risk to growth and future earnings.
+
+For each identified risk in the Risk Register, the Risk Committee ranks the likelihood of the risk (possible, frequent, etc.), the potential impact of the risk (low, medium, high), controls / risk mitigants in place and whether they are effective at mitigating the risk, the residual risk and the factors impacting that risk. Material risks are those with medium or high residual risks. Depending on the severity of the risk, Welltower uses this consistent process to develop a plan to mitigate the process. Further analysis is conducted with the Risk Committee and other relevant members and follow up is continued until the risk is lowered.
+Reputation	
+Relevant, always included
+Increasingly, tenants and investors are looking to work with environmentally responsible companies. Negative perceptions of Welltower relative to the Company’s response to environmental, social and corporate governance, including climate change, could negatively affect Welltower’s access to capital, ability to deliver on being a thought leader within our industry, successful relationship-based investments and the Company’s ability to attract and retain the best talent. To manage this, Welltower has comprehensive employee, tenant and vendor engagement programs in place focused on operational strategies to drive energy and water efficiency. Welltower updated the Vendor Code of Conduct in 2022 to reflect and encourage its vendors to abide by our mission following best practices of environmental sustainability. Welltower also sends out a Performance Playbook to all seniors housing operators annually to reinforce the importance of everyday behavioral and operational changes that can help reduce overall energy, water and waste consumption. These efforts help to align Welltower's strong ESG commitment (and their resulting reputation in the market) with their partners and affiliated parties/vendors.
+Acute physical	
+Relevant, always included
+We maintain or require our tenants to maintain comprehensive insurance coverage on our properties with terms, conditions, limits and deductibles that we believe are appropriate given the relative risk and costs of such coverage, and we frequently review our insurance programs and requirements. We also maintain a large and geographically diversified portfolio to mitigate exposure to acute physical risks. However, some of our properties are located in areas particularly susceptible to revenue loss, cost increase or damage caused by severe weather conditions or natural disasters such as hurricanes, earthquakes, wildfires, tornadoes and floods. We believe, given current industry practice and analysis prepared by outside consultants, that our and our tenants’ insurance coverage is appropriate to cover reasonably anticipated losses that may be caused by hurricanes, earthquakes, tornadoes, floods, wildfires and other severe weather conditions and natural disasters, including the effects of climate change. Nevertheless, we are always subject to the risk that such insurance will not fully cover all losses. These losses may lead to an increase of our and our tenants’ cost of insurance, a decrease in our anticipated revenues from an affected property and a loss of all or a portion of the capital we have invested in an affected property.
+Chronic physical	
+Relevant, always included
+We maintain a large and geographically diversified portfolio to mitigate exposure to chronic physical risks. However, some of our properties are located in areas particularly susceptible to revenue loss, cost increase or damage caused by longer-term shifts in weather patterns, such as heat and water stress. Therefore, we have taken extra steps to limit the impact of these longer-term changes in the climate, such as retrofitting cool roofs on some of our properties or upgrading HVAC systems on older buildings. Welltower also sends out a Performance Playbook to all seniors housing operators annually to reinforce the importance of consistent preventative maintenance efforts that help to address and mitigate the effects of chronic physical risks/stressors such as heat stress and extreme temperatures/freeze.
+C2.3
+(C2.3) Have you identified any inherent climate-related risks with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.3a
+(C2.3a) Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Risk 1
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Current regulation	Enhanced emissions-reporting obligations
+Primary potential financial impact
+Increased indirect (operating) costs
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Welltower is a REIT, and as such our portfolio consists of operational real estate. Welltower’s portfolio contains assets located in numerous states and local jurisdictions across the US (as well as Canada and the UK). Each state and local jurisdiction in the US has varying municipal benchmarking reporting requirements that must be met in order to avoid fines. For example, in the state of California, non-residential properties which individually or together are 50,000 sq. ft or greater, are required to annually submit their benchmarking report for property energy usage. For this reason, Welltower works with a third-party consultant to run Building Performance Standards (BPS) and compliance reports on all local and state regulations that may affect certain assets in that state. Welltower communicates with Operators to gather the needed benchmarking data by the deadline to avoid any fines and keep all of our assets in compliance.
+Time horizon
+Short-term
+Likelihood
+Very likely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+9185000
+Explanation of financial impact figure
+Welltower undertook an exercise with third-party consultants to assess each property from the Welltower asset list located in North America to flag any properties in a jurisdiction with a current or upcoming benchmarking requirement. The potential financial impact of up to ~$9,185,000 was calculated based on the total of the maximum fine for each benchmarking requirement per year or 30 days of non-compliance for properties in jurisdictions with daily fines (based on the assumption that properties are incentivized to address issues of non-compliance sooner with a daily late fee). For example, in the state of California non-residential properties which singly or together are 50,000 sq. ft or greater are required to annually submit their benchmarking report for property energy usage. Failure to comply could potentially result in over tens of thousands of dollars in fines for that one property.
+Cost of response to risk
+42140
+Description of response and explanation of cost calculation
+To minimize the potential financial impact of non-compliance with municipal reporting requirements, Welltower consistently works with third-party consultants to monitor and assess the municipal reporting requirements for each property, notifies property operators of requirements and assists in submitting the required information to avoid potential fines. Welltower engaged a third-party consultant to assist with these efforts through a fixed $35,000 engagement fee. Welltower’s ESG Analyst also supports these efforts, committing a general estimate of ~140 hours over the course of the year at a general estimated hourly cost rate of ~$51. Welltower is not able to accurately capture time and costs spent by operators and the MOB team to fulfill these reporting requirements. Therefore, the cost of Welltower’s response to the risk of enhanced emissions reporting obligations is calculated by:
+
+Third-party consultant fee ($35,000) + ESG Analyst support (140 hours x $51/hour) = $35,000 + $7,140 = $42,140
+Comment
+Identifier
+Risk 2
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Acute physical	Flood (coastal, fluvial, pluvial, groundwater)
+Primary potential financial impact
+Increased capital expenditures
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Welltower is a REIT, and as such, our portfolio consists of operating real estate. Weather extremes such as flooding could result in loss of property and damage to properties. Change in rainfall conditions, size and frequency of possible floods could result in damage and/or loss of property, compromise infrastructure and create operational interruptions. Based on our most recent Moody's Climate Change Scenario Analysis (detailed on pages 38-41 of our 2022 ESG Report), Welltower's current portfolio has low financial risk exposure and low geographic risk exposure to flooding. In order to protect itself from the financial impacts of flooding, Welltower has a comprehensive insurance policy in place to protect its property portfolio. Therefore, if one or a number of Welltower’s properties were damaged by flood events, the insurance policy in place would allow the property to be repaired and the value of Welltower’s property portfolio to not be significantly impacted.
+Time horizon
+Medium-term
+Likelihood
+More likely than not
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+150936850.5
+Explanation of financial impact figure
+0-30% of the total portfolio, measured by in-place NOI, is exposed to high frequency and/or severe rainfall or riverine flooding during a 100-year flood event, making up 0-30% of total portfolio sq. ft. The minimum potential financial impact figure is calculated by multiplying 4Q22 in-place NOI by the smallest % of properties at high risk of flooding (0*$ 2,012,491,340/4 = $0.00). The maximum impact figure is calculated by the largest % of properties at high risk of flooding (0.3*$ 2,012,491,340/4 = $150,936,850.50). If flooding were to occur, the financial impact from loss of NOI could fall within this range. However, Welltower maintains a large and well diversified portfolio as well as comprehensive insurance coverage with near zero probability of recognizing the maximum financial impact figure calculated.
+Cost of response to risk
+16245000
+Description of response and explanation of cost calculation
+We maintain or require our tenants to maintain comprehensive insurance coverage on our properties with terms, conditions, limits and deductibles that we believe are appropriate given the relative risk and costs of such coverage. However, a large number of our properties are located in areas particularly susceptible to revenue loss, cost increase or damage caused by severe weather conditions or natural disasters such as wildfires, hurricanes, earthquakes, tornadoes and floods, as well as the effects of climate change. We believe, given current industry practice and analysis prepared by outside consultants, that our and our tenants’ insurance coverage is appropriate to cover reasonably anticipated losses that may be caused by hurricanes, earthquakes, tornadoes, floods, wildfires and other severe weather conditions and natural disasters, including the effects of climate change. Nevertheless, we are always subject to the risk that such insurance will not fully cover all losses and, depending on the severity of the event and the impact on our properties, such insurance may not cover a significant portion of the losses including, but not limited to, the costs associated with evacuation. The $16,245,000 represents insurance costs for the year ended December 31, 2022 related to our captive insurance company formed as of July 1, 2020, which acts as a direct insurer of property level insurance coverage for our portfolio.
+Comment
+Identifier
+Risk 4
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Acute physical	Wildfire
+Primary potential financial impact
+Decreased asset value or asset useful life leading to write-offs, asset impairment or early retirement of existing assets
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Welltower is a REIT, and as such, our portfolio consists of operating real estate. Weather extremes such as wildfires could result in loss of property and damage to properties. Changes in fire potential and wildfire potential could result in property damage, permanent loss of property value, stress on human health and ecosystem services, business interruptions, increased costs and reduced insurance coverages. Based on our most recent Moody's Climate Change Scenario Analysis (detailed on pages 38-41 of our 2022 ESG Report), Welltower's current portfolio has low financial risk exposure and medium geographic risk exposure to wildfires. In order to protect itself from the financial impacts of wildfires, Welltower has a comprehensive insurance policy in place to protect its property portfolio. Therefore, if one or a number of Welltower’s properties were damaged by wildfires, the insurance policy in place would allow the property to be repaired and the value of Welltower’s property portfolio to not be significantly impacted.
+Time horizon
+Short-term
+Likelihood
+More likely than not
+Magnitude of impact
+Medium-low
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+301873701
+Explanation of financial impact figure
+0-30% of the total portfolio, measured by in-place NOI, falls within areas with high wildfire potential and/or high availability of burnable fuel with sizable increases in future severity of wildfire potential and high risk days, making up 30-60% of total portfolio sq. ft. The minimum potential financial impact figure is calculated by multiplying 4Q22 in-place NOI by the smallest % of properties at high risk of wildfires (0*$2,012,491,340/4 = $0.00). The maximum impact figure is calculated by the largest % of properties at high risk of wildfires (0.6*$2,012,491,340/4 = $301,873,701 ). If wildfires were to occur, the financial impact from loss of NOI could fall within this range. However, Welltower maintains a large and well diversified portfolio as well as comprehensive insurance coverage with near zero probability of recognizing the maximum financial impact figure calculated.
+Cost of response to risk
+16245000
+Description of response and explanation of cost calculation
+We maintain or require our tenants to maintain comprehensive insurance coverage on our properties with terms, conditions, limits and deductibles that we believe are appropriate given the relative risk and costs of such coverage. However, a large number of our properties are located in areas particularly susceptible to revenue loss, cost increase or damage caused by severe weather conditions or natural disasters such as wildfires, hurricanes, earthquakes, tornadoes and floods, as well as the effects of climate change. We believe, given current industry practice and analysis prepared by outside consultants, that our and our tenants’ insurance coverage is appropriate to cover reasonably anticipated losses that may be caused by hurricanes, earthquakes, tornadoes, floods, wildfires and other severe weather conditions and natural disasters, including the effects of climate change. Nevertheless, we are always subject to the risk that such insurance will not fully cover all losses and, depending on the severity of the event and the impact on our properties, such insurance may not cover a significant portion of the losses including, but not limited to, the costs associated with evacuation. The $16,245,000 represents insurance costs for the year ended December 31, 2022 related to our captive insurance company formed as of July 1, 2020, which acts as a direct insurer of property level insurance coverage for our portfolio.
+Comment
+
+
+
+C2.4
+(C2.4) Have you identified any climate-related opportunities with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.4a
+(C2.4a) Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Opp1
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Resource efficiency
+Primary climate-related opportunity driver
+Reduced water usage and consumption
+Primary potential financial impact
+Reduced indirect (operating) costs
+Company-specific description
+Change in water supply and demand can increase water cost, erode social license to operate and/or damage Welltower properties’ reputation. As a result, there is an opportunity to increase water efficiency throughout Welltower’s portfolio through efficiency upgrades. Based on our most recent Climate Change Scenario Analysis (detailed on pages 38-41 of our 2022 ESG Report), 30-60% of 4Q22 IPNOI and pro rata square feet has potential financial and geographic exposure to areas where competition for water resources is high. The majority of our higher risk exposure is in California and Texas. In the analysis, risk exposures were grouped into three ranges including less than 30%, 30-60%, and over 60% exposure.
+Time horizon
+Short-term
+Likelihood
+Very likely
+Magnitude of impact
+Medium-low
+Are you able to provide a potential financial impact figure?
+Yes, a single figure estimate
+Potential financial impact figure (currency)
+121560
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+The potential financial impact reflects the savings realized by upgrading to more water efficient equipment. As an example, Welltower’s OM team piloted an irrigation management system that resulted in over $16k in operational cost savings across five properties and between 38-88% reduction in water usage in 2022. Welltower plans to roll out the irrigation management system to at least 10 additional properties in 2023, including six properties already identified in Texas, Georgia, and California. Based on cost savings estimates, if rolled out to 10 additional properties, this initiative could result in operational cost savings of ~$121,560 per year (15 properties x $675 average monthly savings x 12 months = $121,560 per year cost savings). Welltower engages in numerous other water efficiency practices in addition to the new irrigation management system, which have additional potential financial impacts.
+Cost to realize opportunity
+21360
+Strategy to realize opportunity and explanation of cost calculation
+Welltower’s water usage is primarily made up of domestic water and irrigation. Our water conservation efforts include benchmarking usage and monitoring usage trends, utilizing low-flow and high-efficiency fixtures and equipment, installing leak detection technology that will alert staff to high usage or slow leaks, installing drip irrigation systems, planting drought tolerant landscaping and aiding in the water management efforts of our partners outside of our operational control. This year, Welltower has facilitated procurement of ENERGY STAR and other water efficient appliances for its communities and assisted operators in capex budgeting and planning, inclusive of our irrigation management system pilot. Rollout of the irrigation management system across 15 properties would have an annual estimated cost of approximately $21,360.
+Comment
+Identifier
+Opp2
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Resource efficiency
+Primary climate-related opportunity driver
+Move to more efficient buildings
+Primary potential financial impact
+Reduced indirect (operating) costs
+Company-specific description
+Inefficient and outdated lighting fixtures can increase energy costs and decrease quality of life for our tenants and residents. As a result, there is an opportunity to increase energy efficiency and improve lighting quality throughout Welltower’s portfolio by installing LED lighting. With a focus on increasing lumens when necessary, eliminating shadowing and putting the right color temperatures in the right spaces, upgrading lighting to LED fixtures has the potential to not only reduce costs and our environmental footprint, but also to improve the daily lives of our senior living residents and visitors in our outpatient medical facilities.
+Time horizon
+Medium-term
+Likelihood
+Very likely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, a single figure estimate
+Potential financial impact figure (currency)
+44000000
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+The financial impact reflects the compounding annual savings of Welltower’s completed LED retrofit projects to date. Welltower has completed 391 total LED retrofit projects as of 12/31/2022 and has invested over $37 million in our LED retrofit program, generating an average return on investment of our LED retrofit projects of less than 5 years.
+Cost to realize opportunity
+37000000
+Strategy to realize opportunity and explanation of cost calculation
+Welltower works with supplier and partner Greenleaf Energy Solutions to facilitate LED retrofit projects. The cost to realize this opportunity was calculated by totaling our project costs from 2013 to date. As an example, Greenleaf helped Welltower identify a senior living community in Jackson, NJ as a property that could significantly benefit from the program, as it had outdated lighting fixtures and would be able to take advantage of numerous incentives. In 2022, Greenleaf and Welltower worked together to upgrade the lighting throughout the community’s facilities to LED fixtures. With incentives, the final cost of installing the new lighting fixtures at the community was approximately $96,000, and the upgraded lighting will generate over $18,000 in annual operational cost savings.
+Comment
+
+
+Identifier
+Opp3
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Markets
+Primary climate-related opportunity driver
+Access to new markets
+Primary potential financial impact
+Increased access to capital
+Company-specific description
+Since becoming the first U.S. health care REIT to successfully complete a public green bond offering in December 2019 and subsequently issuing a second green bond in March 2022, Welltower has begun expanding green bond projects from the offerings' net proceeds in order to add sustainable value across the portfolio. Our Green Bond Allocation Report on proceeds utilized includes projects such as financing or refinancing properties which are anticipating high-level green building certification or energy rating from organizations such as LEED, BREEAM and ENERGY STAR and could also include energy and water efficiency upgrades designed to have 25% or higher efficiency gain, including LED lighting, HVAC and chiller replacements, efficient irrigation systems and installation of low-flow fixtures. Issuing green bonds represents an opportunity to tap into a new and growing source of financing to further efforts to obtain green certifications for properties within our portfolio.
+Time horizon
+Medium-term
+Likelihood
+Virtually certain
+Magnitude of impact
+Medium-high
+Are you able to provide a potential financial impact figure?
+Yes, a single figure estimate
+Potential financial impact figure (currency)
+1050000000
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+The potential financial impact represents the proceeds from the issuance of our first green bond in December 2019 of $500M and the issuance of our second green bond in March 2022 of $550M that will be used to fund efficiency projects and green buildings.
+Cost to realize opportunity
+34675000
+Strategy to realize opportunity and explanation of cost calculation
+We work to create solutions for climate-related issues to anticipate and meet investor expectations. There are minimal additional costs that could result from additional time or resources dedicated to issuing green bonds. The estimated cost represents the annual interest expense on both of our green bonds: (($500M*2.7%) + ($550M*3.85%)) = $34,675,000 per year.
+Comment
+Our latest Green Bond Allocation Report can be found on Welltower's website: https://welltower.com/wp-content/uploads/2022/12/2022-Green-Bond-Allocation-Report_vF.pdf
+C3. Business Strategy
+C3.1
+(C3.1) Does your organization’s strategy include a climate transition plan that aligns with a 1.5°C world?
+Row 1
+Climate transition plan
+No, but our strategy has been influenced by climate-related risks and opportunities, and we are developing a climate transition plan within two years
+Publicly available climate transition plan
+<Not Applicable>
+Mechanism by which feedback is collected from shareholders on your climate transition plan
+<Not Applicable>
+Description of feedback mechanism
+<Not Applicable>
+Frequency of feedback collection
+<Not Applicable>
+Attach any relevant documents which detail your climate transition plan (optional)
+<Not Applicable>
+Explain why your organization does not have a climate transition plan that aligns with a 1.5°C world and any plans to develop one in the future
+Welltower does not disclose a publicly available formal transition plan that aligns with a 1.5°C world. However, Welltower does informally make decisions at a company level that are influenced by activities such as the recent climate change scenario analysis (pg. 38-41 in 2022 ESG Report) to highlight the risks and opportunities that Welltower will be facing in the short, medium and long-term. Additionally, Welltower committed to a well-below-2°C science-based target in 2022 approved by Science Based Targets initiative in line with the goals of the Paris Agreement, allowing us to have conversations about developing a climate transition plan to a 1.5°C world.
+Explain why climate-related risks and opportunities have not influenced your strategy
+<Not Applicable>
+C3.2
+(C3.2) Does your organization use climate-related scenario analysis to inform its strategy?
+Use of climate-related scenario analysis to inform strategy	Primary reason why your organization does not use climate-related scenario analysis to inform its strategy	Explain why your organization does not use climate-related scenario analysis to inform its strategy and any plans to use it in the future
+Row 1	
+Yes, qualitative and quantitative
+<Not Applicable>
+<Not Applicable>
+C3.2a
+(C3.2a) Provide details of your organization’s use of climate-related scenario analysis.
+Climate-related scenario	Scenario analysis coverage	Temperature alignment of scenario	Parameters, assumptions, analytical choices
+Physical climate scenarios	RCP 8.5
+Company-wide
+<Not Applicable>
+The methodology used characterizes physical climate hazards that are important drivers of business risk: floods, heat stress, hurricanes & typhoons, sea level rise, water stress and wildfires. The methodology is data driven to quantify the risks to then develop qualitative statements.
+
+RCP 8.5 is used because we believe this scenario is the most valid for business purposes because any potential policy actions will not have a discernible impact on climate change until after 2050 and impacts between emission pathways do not significantly vary within this time frame.
+
+Each physical and transition risk is assessed for short-, medium- and long-term impact based on likelihood for it to occur within the chosen timeframe. Our most recent climate change scenario analysis can be found on pages 38-41 in Welltower's 2022 ESG Report.
+C3.2b
+(C3.2b) Provide details of the focal questions your organization seeks to address by using climate-related scenario analysis, and summarize the results with respect to these questions.
+Row 1
+Focal questions
+Welltower recognizes that climate-related events could impact our portfolio. In order to identify and implement appropriate preventative measures throughout our portfolio, we chose to focus on the two questions below when performing our climate-related scenario analysis. Focusing on these two questions allowed us to better understand which of our properties are at the greatest risk of climate-related events, where we may be lacking adequate insurance coverage, and where there may be opportunities to take preventative measures. Also, by using the RCP 8.5 scenario, it allowed for the worst-case scenario operational impacts to be analyzed and help drive change and investment where it is needed most.
+
+1. Which properties are most susceptible to the following climate risks: heat stress, water stress, wildfires, floods, hurricanes & typhoons and sea level rise?
+
+2. Do we have adequate insurance coverage or are there other preventive measures we could put in place to prevent property damage and loss before these extreme weather events occur?
+Results of the climate-related scenario analysis with respect to the focal questions
+1. As a result of the analysis, Welltower was able to identify which properties are in the highest risk areas for these climate-related events and quantify both financial and geographic exposure. Financial exposure was measured as a percentage of 4Q22 in-place NOI, while geographic exposure was measured as a percentage of pro rata square feet owned as of 4Q22. Exposure was grouped into three categories: Low: less than 30%; Medium: 30-60%; and High: greater than 60%. Due to the large size and diversification of our portfolio, the financial and geographic exposure to heat stress, floods, hurricanes and typhoons, and sea level rise is low, while financial and geographic exposure to wildfires is low and medium (respectively) and both financial and geographic exposure to water stress is medium. Welltower considers transitional risks such as regulatory changes, technology upgrades and reputational risks to be portfolio-wide risks.
+
+2. The results of our analysis were shared with our Risk Committee, and we have been performing additional analyses to compare certain insurance coverages, mainly related to flooding, with our climate analysis findings. As a result, Welltower has looked at other risk exposures, including heat and water stress, to prioritize efficiency projects across the portfolio, such as installing efficient irrigation systems to reduce water usage and installing cool roofing systems to 1) reduce heat transfer, 2) optimize HVAC run times, 3) improve occupant comfort and 4) reduce heat island effect.
+C3.3
+(C3.3) Describe where and how climate-related risks and opportunities have influenced your strategy.
+Have climate-related risks and opportunities influenced your strategy in this area?	Description of influence
+Products and services	
+Yes
+Due to increasing energy efficiency compliance legislation across the country, Welltower has incorporated a budget for third-party consultants to assist with compliance to help ensure all properties meet requirements and avoid any related fines. Some of Welltower's facilities are in jurisdictions that have introduced climate change and energy related ordinances, such as energy benchmarking and disclosure ordinances. 194 Welltower-owned properties were impacted by these ordinances in 2022, which potentially include fines for non-compliance. Cost and impact of compliance were minimal during the reporting period.
+
+In addition, there is reputational risk for buildings with less optimal energy efficiency initiatives and performance. This could potentially cause tenants to leave or impact Welltower's ability to attract new tenants, which could lead to a decrease in occupancy at those properties. Consequently, in these markets with municipal benchmarking regulations or building performance standards, as well as other major markets across the country, we expect tenants to seek "green" and/or efficient buildings.
+Supply chain and/or value chain	
+Yes
+During extreme weather events, some vendors may not be able to provide the goods and services that Welltower needs. This creates a significant risk if Welltower is not able to have buildings back up and running quickly to minimize tenant downtime and mitigate the inherent risk of potentially losing tenants. To mitigate this risk, Welltower has identified alternative providers in the event that the primary provider is unavailable. In addition, Welltower has preferred contracts in place with vendors to help to ensure that we have priority to access goods should there be an issue with our supply chain as a result of a weather event. In the reporting period, one example of crisis/emergency management is contracting with third-party restoration vendors in Texas and Florida. Some of Welltower's properties in Southern United States were adversely affected by the extreme weather events that caused the Texas power crisis. Fortunately, the risk of unexpected power outages due to extreme weather had influenced our strategy and our sites were prepared for this and had on-site generators. Welltower is continuing to use these generators and will bring more on-site in the long-term as the likelihood of extreme weather events continues.
+Investment in R&D	
+Yes
+Welltower's R&D activities are centered around piloting new and emerging technologies that reduce energy and water use and greenhouse gas emissions, while creating value for the asset and its occupants. These activities are at risk if discretionary funds are not available due to reduced occupancy or must be diverted to other unexpected expenses due to climate-related events in the short-medium term. This, however, did not impact the business during the reporting period.
+
+Welltower is also investing in certifying many of its new developments with LEED, IREM, or BREEAM and has started to assess and/or pursue other certifications including WELL and Fitwel.
+Operations	
+Yes
+Extreme weather events can disrupt operations. Welltower's properties have measures and procedures in place aimed at ensuring that operations return to normal quickly after disruptive events. Welltower has preferred contracts in place with vendors to help to ensure that we have priority to access goods should there be an issue with our supply chain as a result of a weather event. One example of crisis/emergency management is contracting with national third-party restoration vendors. In the reporting period, some of Welltower's properties, with a heavier concentration in Texas and Florida, were adversely affected by extreme weather events. Fortunately, the risk of unexpected power outages due to extreme weather had influenced our strategy and our sites were prepared for this and had on-site generators. Welltower is continuing to use these generators and will bring more on-site in the long-term as the likelihood of extreme weather events continues. Welltower also has a robust third-party engineering inspection program in-place to help provide recommendations and customize loss prevention measures at each property. Between 100-150 properties are inspected annually as part of this program.
+C3.4
+(C3.4) Describe where and how climate-related risks and opportunities have influenced your financial planning.
+Financial planning elements that have been influenced	Description of influence
+Row 1	
+Revenues
+Direct costs
+Capital expenditures
+Access to capital
+Assets
+Liabilities
+Earnings may be impacted in the long term due to significant increases in property insurance costs from the physical impacts of climate change and/or requirements to implement energy-efficiency measures from local jurisdictions that are outside of the general Welltower capital investment process.
+
+Welltower invests capital each year in measures that reduce consumption and costs across the portfolio, such as the LED retrofit program, which supports operational cost savings with a return on investment of under five years. We treat energy as a controllable expense resulting in our active management and negotiation of energy rates and considerable efforts to reduce our environmental impact through the procurement of renewable energy.
+
+Welltower dedicates capital investment in its portfolio year after year to reduce consumption, greenhouse gas emissions, and costs. For example, over $37M in capital has been spent on 391 LED retrofit projects to date. Over the last two years, capital expenditure has been consistent and climate change has only had a minimal impact. Looking forward, we expect this to be the same in the short term.
+
+For example, one of Welltower's developments in the United Kingdom, Wandsworth Common, includes low carbon technologies such as combined heat and power units, photovoltaic roof panels and energy efficient technologies such as motion-sensor lighting. This is expected to lead to savings of 89 tons (35%) of regulated CO2 annually.
+
+Another example is The Apsley, a recently opened redevelopment project located in the Upper West Side of NYC. This project made use of an existing space, reduced demand on raw materials, and did not contribute to urban sprawl or infringe on undeveloped areas. The Apsley is pursuing LEED and WELL certification and features many sustainable design elements. A life cycle assessment conducted in 2022 determined that the sustainable materials used in the building's structure and envelope could result in a 24% savings in kg CO2e of embodied carbon compared to a baseline model (total savings of 1269715.54 kg CO2e).
+
+It is expected that investors will start to expect more climate change disclosure and will consider this in their decisions in the short-medium term. Welltower also sees opportunities in improving its reputation and environmental performance. For example, Welltower was the first U.S. health care REIT to successfully complete a public green bond offering of a $500 million, 7-Year Note at 2.7% due in 2027. Demand was 7.0x oversubscribed and WELL’s lowest coupon on a 7-year note. In March 2022, Welltower issued a second green bond of $550 million of 3.85% senior unsecured notes due 2032.
+
+Some of our assets are geographically more at risk than others from the effects of climate change, therefore we adhere to annual property insurance modelling to assess climate related risk which may increase premiums in the long-term. Additionally, the assets located in mandatory compliance jurisdictions may have to include additional compliance processes and implementation costs in financial plans in order to review and report required metrics, especially where this information is publicly reported. Impacts of climate-related issues have had a minimal impact on this process in the reporting period.
+C3.5
+(C3.5) In your organization’s financial accounting, do you identify spending/revenue that is aligned with your organization’s climate transition?
+Identification of spending/revenue that is aligned with your organization’s climate transition	Indicate the level at which you identify the alignment of your spending/revenue with a sustainable finance taxonomy
+Row 1	
+No, but we plan to in the next two years
+<Not Applicable>
+C4. Targets and performance
+C4.1
+(C4.1) Did you have an emissions target that was active in the reporting year?
+Absolute target
+Intensity target
+C4.1a
+(C4.1a) Provide details of your absolute emissions target(s) and progress made against those targets.
+Target reference number
+Abs 1
+Is this a science-based target?
+Yes, and this target has been approved by the Science Based Targets initiative
+Target ambition
+Well-below 2°C aligned
+Year target was set
+2022
+Target coverage
+Company-wide
+Scope(s)
+Scope 1
+Scope 2
+Scope 2 accounting method
+Market-based
+Scope 3 category(ies)
+<Not Applicable>
+Base year
+2019
+Base year Scope 1 emissions covered by target (metric tons CO2e)
+137120
+Base year Scope 2 emissions covered by target (metric tons CO2e)
+369096
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target (metric tons CO2e)
+<Not Applicable>
+Total base year emissions covered by target in all selected Scopes (metric tons CO2e)
+506216
+Base year Scope 1 emissions covered by target as % of total base year emissions in Scope 1
+100
+Base year Scope 2 emissions covered by target as % of total base year emissions in Scope 2
+100
+Base year Scope 3, Category 1: Purchased goods and services emissions covered by target as % of total base year emissions in Scope 3, Category 1: Purchased goods and services (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 2: Capital goods emissions covered by target as % of total base year emissions in Scope 3, Category 2: Capital goods (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions covered by target as % of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 4: Upstream transportation and distribution covered by target as % of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 5: Waste generated in operations emissions covered by target as % of total base year emissions in Scope 3, Category 5: Waste generated in operations (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 6: Business travel emissions covered by target as % of total base year emissions in Scope 3, Category 6: Business travel (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 7: Employee commuting covered by target as % of total base year emissions in Scope 3, Category 7: Employee commuting (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 8: Upstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 8: Upstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 9: Downstream transportation and distribution emissions covered by target as % of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 10: Processing of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 10: Processing of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 11: Use of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 11: Use of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 12: End-of-life treatment of sold products emissions covered by target as % of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 13: Downstream leased assets emissions covered by target as % of total base year emissions in Scope 3, Category 13: Downstream leased assets (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 14: Franchises emissions covered by target as % of total base year emissions in Scope 3, Category 14: Franchises (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Category 15: Investments emissions covered by target as % of total base year emissions in Scope 3, Category 15: Investments (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (upstream) emissions covered by target as % of total base year emissions in Scope 3, Other (upstream) (metric tons CO2e)
+<Not Applicable>
+Base year Scope 3, Other (downstream) emissions covered by target as % of total base year emissions in Scope 3, Other (downstream) (metric tons CO2e)
+<Not Applicable>
+Base year total Scope 3 emissions covered by target as % of total base year emissions in Scope 3 (in all Scope 3 categories)
+<Not Applicable>
+Base year emissions covered by target in all selected Scopes as % of total base year emissions in all selected Scopes
+100
+Target year
+2030
+Targeted reduction from base year (%)
+28
+Total emissions in target year covered by target in all selected Scopes (metric tons CO2e) [auto-calculated]
+Scope 1 emissions in reporting year covered by target (metric tons CO2e)
+180316
+Scope 2 emissions in reporting year covered by target (metric tons CO2e)
+426603
+Scope 3, Category 1: Purchased goods and services emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 2: Capital goods emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 4: Upstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 5: Waste generated in operations emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 6: Business travel emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 7: Employee commuting emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 8: Upstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 9: Downstream transportation and distribution emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 10: Processing of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 11: Use of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 12: End-of-life treatment of sold products emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 13: Downstream leased assets emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 14: Franchises emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Category 15: Investments emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (upstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Scope 3, Other (downstream) emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total Scope 3 emissions in reporting year covered by target (metric tons CO2e)
+<Not Applicable>
+Total emissions in reporting year covered by target in all selected scopes (metric tons CO2e)
+606919
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+New
+Please explain target coverage and identify any exclusions
+This target was approved using a streamlined target validation route exclusive to small and medium-sized enterprises (SMEs) (https://sciencebasedtargets.org/faqs-for-smes/). Welltower Inc. commits to reduce absolute Scope 1 and Scope 2 GHG emissions 28% by 2030 from a 2019 base year, and to measure and reduce its Scope 3 emissions.
+
+Exclusions include land, properties under construction, and loans. This target applies to Scope 1 and 2 which includes properties within Welltower's financial control boundary (medical office buildings directly managed by Welltower and seniors housing operating properties), and excludes triple-net properties considered outside of the financial control boundary and included as Scope 3.
+Plan for achieving target, and progress made to the end of the reporting year
+Welltower is in the process of developing a plan for achieving this target, and has engaged with several partners including ESG consultants, data providers, LED retrofit companies, solar companies and others to make progress towards this goal. Welltower currently has renewable energy credits contracts that cover 100% of the electricity use of 17 of its properties. Welltower will continue to identify and assess opportunities to reduce emissions over the next several years.
+List the emissions reduction initiatives which contributed most to achieving this target
+<Not Applicable>
+C4.1b
+(C4.1b) Provide details of your emissions intensity target(s) and progress made against those target(s).
+Target reference number
+Int 1
+Is this a science-based target?
+No, but we are reporting another target that is science-based
+Target ambition
+<Not Applicable>
+Year target was set
+2019
+Target coverage
+Company-wide
+Scope(s)
+Scope 1
+Scope 2
+Scope 2 accounting method
+Location-based
+Scope 3 category(ies)
+<Not Applicable>
+Intensity metric
+Metric tons CO2e per square foot
+Base year
+2018
+Intensity figure in base year for Scope 1 (metric tons CO2e per unit of activity)
+1.74
+Intensity figure in base year for Scope 2 (metric tons CO2e per unit of activity)
+4.66
+Intensity figure in base year for Scope 3, Category 1: Purchased goods and services (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 2: Capital goods (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 5: Waste generated in operations (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 6: Business travel (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 7: Employee commuting (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 8: Upstream leased assets (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 10: Processing of sold products (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 11: Use of sold products (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 13: Downstream leased assets (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 14: Franchises (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Category 15: Investments (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Other (upstream) (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for Scope 3, Other (downstream) (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for total Scope 3 (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in base year for all selected Scopes (metric tons CO2e per unit of activity)
+6.4
+% of total base year emissions in Scope 1 covered by this Scope 1 intensity figure
+100
+% of total base year emissions in Scope 2 covered by this Scope 2 intensity figure
+100
+% of total base year emissions in Scope 3, Category 1: Purchased goods and services covered by this Scope 3, Category 1: Purchased goods and services intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 2: Capital goods covered by this Scope 3, Category 2: Capital goods intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) covered by this Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 4: Upstream transportation and distribution covered by this Scope 3, Category 4: Upstream transportation and distribution intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 5: Waste generated in operations covered by this Scope 3, Category 5: Waste generated in operations intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 6: Business travel covered by this Scope 3, Category 6: Business travel intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 7: Employee commuting covered by this Scope 3, Category 7: Employee commuting intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 8: Upstream leased assets covered by this Scope 3, Category 8: Upstream leased assets intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 9: Downstream transportation and distribution covered by this Scope 3, Category 9: Downstream transportation and distribution intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 10: Processing of sold products covered by this Scope 3, Category 10: Processing of sold products intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 11: Use of sold products covered by this Scope 3, Category 11: Use of sold products intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 12: End-of-life treatment of sold products covered by this Scope 3, Category 12: End-of-life treatment of sold products intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 13: Downstream leased assets covered by this Scope 3, Category 13: Downstream leased assets intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 14: Franchises covered by this Scope 3, Category 14: Franchises intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Category 15: Investments covered by this Scope 3, Category 15: Investments intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Other (upstream) covered by this Scope 3, Other (upstream) intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3, Other (downstream) covered by this Scope 3, Other (downstream) intensity figure
+<Not Applicable>
+% of total base year emissions in Scope 3 (in all Scope 3 categories) covered by this total Scope 3 intensity figure
+<Not Applicable>
+% of total base year emissions in all selected Scopes covered by this intensity figure
+100
+Target year
+2025
+Targeted reduction from base year (%)
+10
+Intensity figure in target year for all selected Scopes (metric tons CO2e per unit of activity) [auto-calculated]
+% change anticipated in absolute Scope 1+2 emissions
+159
+% change anticipated in absolute Scope 3 emissions
+0
+Intensity figure in reporting year for Scope 1 (metric tons CO2e per unit of activity)
+1.63
+Intensity figure in reporting year for Scope 2 (metric tons CO2e per unit of activity)
+3.99
+Intensity figure in reporting year for Scope 3, Category 1: Purchased goods and services (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 2: Capital goods (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 3: Fuel-and-energy-related activities (not included in Scopes 1 or 2) (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 4: Upstream transportation and distribution (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 5: Waste generated in operations (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 6: Business travel (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 7: Employee commuting (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 8: Upstream leased assets (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 9: Downstream transportation and distribution (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 10: Processing of sold products (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 11: Use of sold products (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 12: End-of-life treatment of sold products (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 13: Downstream leased assets (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 14: Franchises (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Category 15: Investments (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Other (upstream) (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for Scope 3, Other (downstream) (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for total Scope 3 (metric tons CO2e per unit of activity)
+<Not Applicable>
+Intensity figure in reporting year for all selected Scopes (metric tons CO2e per unit of activity)
+5.62
+Does this target cover any land-related emissions?
+No, it does not cover any land-related emissions (e.g. non-FLAG SBT)
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Achieved
+Please explain target coverage and identify any exclusions
+All properties owned by Welltower throughout the entirety (or a portion) of calendar year 2022 are included in the entity's reporting boundaries and portfolio composition for this reporting year. Loans (0% ownership), properties under construction and land are excluded from the asset list and are outside of the reporting boundaries for Welltower.
+
+This target applies to the control boundary. Welltower defines its control boundary using the financial control approach. Under this approach, medical office buildings that are directly managed by Welltower and seniors housing operating properties in Welltower’s portfolio are included within the control boundary (Scope 1 and 2), with triple-net properties considered outside of the financial control boundary and included in Scope 3. An inventory management plan (IMP) was developed and describes the data sources and methodology used to prepare Welltower’s 2022 greenhouse gas (GHG) inventory. Both the IMP and an accompanying GHG inventory are created in accordance with the Greenhouse Gas Protocol’s Corporate Accounting and Reporting Standard and the U.S. Environmental Protection Agency’s (EPA) guidance and best practices for calculation of emissions associated with Direct Emissions from Stationary Combustion Sources and Indirect Emissions from Purchased Electricity.
+
+Regarding the question about relating to "% change anticipated in absolute Scope 1+2 emissions," Welltower has estimated a change of 159% from the base year (2018) to the target year (2025). Our data coverage continues to increase each year, so while our intensity decreases, our portfolio size changes and our access to data improves. Assuming a 20% increase in data coverage each year, we estimate a 159% change in absolute Scope 1+2 emissions by 2025 from a 2018 baseline.
+Plan for achieving target, and progress made to the end of the reporting year
+<Not Applicable>
+List the emissions reduction initiatives which contributed most to achieving this target
+- Green Bond issuance
+- LED retrofit program/investments
+- Seniors Housing Performance Playbook
+- Green Lease Leaders aligned requirements for tenant improvements in the medical office building (MOB) portfolio
+- Renewable energy credits
+- Consistent investment in GHG emissions inventories which allowed for careful tracking of progress towards target
+- Performance targets (which include ESG goals) and associated bonuses for Executives and other staff members involved in ESG initiatives
+C4.2
+(C4.2) Did you have any other climate-related targets that were active in the reporting year?
+Other climate-related target(s)
+C4.2b
+(C4.2b) Provide details of any other climate-related targets, including methane reduction targets.
+Target reference number
+Oth 1
+Year target was set
+2019
+Target coverage
+Company-wide
+Target type: absolute or intensity
+Intensity
+Target type: category & Metric (target numerator if reporting an intensity target)
+Energy consumption or efficiency	Other, please specify (kBtu)
+Target denominator (intensity targets only)
+square foot
+Base year
+2018
+Figure or percentage in base year
+81.63
+Target year
+2025
+Figure or percentage in target year
+73.46
+Figure or percentage in reporting year
+72.62
+% of target achieved relative to base year [auto-calculated]
+Target status in reporting year
+Achieved
+Is this target part of an emissions target?
+Int 1
+Is this target part of an overarching initiative?
+No, it’s not part of an overarching initiative
+Please explain target coverage and identify any exclusions
+Our reporting framework for this goal is based on a financial control boundary approach. Under this approach, medical office buildings that are directly managed by Welltower and seniors housing operating properties in Welltower’s portfolio are included within the control boundary (Scope 1 and 2), with triple-net properties considered outside of the financial boundary and included in Scope 3. An inventory management plan (IMP) was developed and describes the data sources and methodology used to prepare Welltower’s 2022 greenhouse gas (GHG) inventory. Both the IMP and an accompanying GHG inventory are created in accordance with the Greenhouse Gas Protocol’s Corporate Accounting and Reporting Standard and the U.S. Environmental Protection Agency’s (EPA) guidance and best practices for calculation of emissions associated with Direct Emissions from Stationary Combustion Sources and Indirect Emissions from Purchased Electricity.
+Plan for achieving target, and progress made to the end of the reporting year
+<Not Applicable>
+List the actions which contributed most to achieving this target
+Some of the activities and initiatives that have helped us achieve this energy usage intensity reduction target include, but are not limited to: Benchmarking performance, investing in energy reduction projects that make good business sense for our outpatient medical portfolio, implementing LED retrofits, negotiating energy rates and procuring renewable energy where feasible through green power contracts and on-site solar generation. In 2022, we continued our successful implementation of the LED retrofit program, investing over $1M in LED retrofits to reduce the energy consumption of our properties.
+C4.3
+(C4.3) Did you have emissions reduction initiatives that were active within the reporting year? Note that this can include those in the planning and/or implementation phases.
+Yes
+C4.3a
+(C4.3a) Identify the total number of initiatives at each stage of development, and for those in the implementation stages, the estimated CO2e savings.
+Number of initiatives	Total estimated annual CO2e savings in metric tonnes CO2e (only for rows marked *)
+Under investigation	
+1
+0
+To be implemented*	
+0
+0
+Implementation commenced*	
+3
+342
+Implemented*	
+9
+432
+Not to be implemented		
+C4.3b
+(C4.3b) Provide details on the initiatives implemented in the reporting year in the table below.
+Initiative category & Initiative type
+Energy efficiency in buildings	Lighting
+Estimated annual CO2e savings (metric tonnes CO2e)
+774
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (location-based)
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+106501
+Investment required (unit currency – as specified in C0.4)
+1207825
+Payback period
+4-10 years
+Estimated lifetime of the initiative
+11-15 years
+Comment
+Welltower works with supplier and partner Greenleaf Energy Solutions to facilitate LED retrofit projects across its portfolio. Welltower has completed 391 total LED retrofit projects as of 12/31/2022 and has invested over $37 million in our LED retrofit program, generating an average return on investment of our LED retrofit projects of less than 5 years. In 2022, Greenleaf and Welltower worked together to upgrade lighting fixtures to LED fixtures at 9 different properties, which have been estimated to have an annual savings of 432 metric tonnes CO2e. With incentives, the final cost of installing the new lighting fixtures at the communities was $1,207,825, and the upgraded lighting will generate over $106,501 in annual operational cost savings. As of 12/31/2022, Welltower has commenced implementation of LED retrofits at 3 additional properties, which are estimated to have an annual savings of 342 metric tonnes CO2e.
+Initiative category & Initiative type
+Low-carbon energy generation	Solar PV
+Estimated annual CO2e savings (metric tonnes CO2e)
+1927
+Scope(s) or Scope 3 category(ies) where emissions savings occur
+Scope 2 (location-based)
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+190011
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+<1 year
+Estimated lifetime of the initiative
+16-20 years
+Comment
+A proposal was received and is under investigation for a pilot project: to lease roof space on 12 CA properties to install solar PV arrays and provide RECs to Welltower. The proposal projects a total of $14M in annual energy savings over 20 years. Combined, the 12 properties' systems would total 5,297 kW and produce 8,450 MWh/year, for a total annual emissions savings of approximately 1,927 metric tonnes. There is no upfront cost to Welltower.
+C4.3c
+(C4.3c) What methods do you use to drive investment in emissions reduction activities?
+Method	Comment
+Financial optimization calculations
+As part of an effort during the capital budget planning process, Welltower identifies opportunities to implement energy reduction measures that would impact emissions reduction. Welltower utilizes financial operational cost calculations to determine the viability of energy/emission reduction initiatives.
+Internal incentives/recognition programs
+Internal incentives promote and reward the environmentally conscious business practices of Welltower through our NEO’s short term incentive goals which include specific targets related to progress towards our public GHG, energy and water reduction goals and goals related to our publicly reported climate related disclosures.
+Employee engagement
+Welltower conducted employee engagement programs throughout the reporting year aimed at educating and encouraging employees to reduce their energy consumption and carbon footprint. For example, the ESG team shared a learning module and challenge to all Welltower employees to “Protect Our Planet" for Earth Day 2022. In addition, the ESG team regularly participates in Welltower's Department Speaker Series for new and existing employees to educate them on sustainability and the work of the ESG team.
+
+For the outpatient medical portfolio, where Welltower has operational control, the ESG team is consistently communicating with property managers and maintenance teams to discuss sustainability initiatives in place, results and the potential for additional efficiency programs at our properties.
+C4.5
+(C4.5) Do you classify any of your existing goods and/or services as low-carbon products?
+Yes
+C4.5a
+(C4.5a) Provide details of your products and/or services that you classify as low-carbon products.
+Level of aggregation
+Product or service
+Taxonomy used to classify product(s) or service(s) as low-carbon
+Green Bond Principles (ICMA)
+Type of product(s) or service(s)
+Buildings construction and renovation	Other, please specify (Funds available for eligible green projects)
+Description of product(s) or service(s)
+Since becoming the first U.S. health care REIT to successfully complete a public green bond offering in December 2019 for $500M and subsequently issuing a second green bond in March 2022 for $550M in accordance with Green Bond Principles of the International Capital Markets Association (ICMA), Welltower has begun expanding green bond projects with a lower carbon footprint from the offerings' net proceeds in order to add sustainable value across the portfolio. Our Green Bond Allocation Report on proceeds utilized includes projects such as financing or refinancing properties which are anticipating high-level green building certifications such as LEED, IREM, WELL, BREEAM and ENERGY STAR and could also include proceeds on energy and water efficiency upgrades designed to have 25% or higher efficiency gain, including LED lighting, HVAC and chiller replacements, irrigation systems and installation of low-flow fixtures. Issuing green bonds represents an opportunity to tap into a new and growing source of financing to further efforts to obtain green certifications for properties within our portfolio. As of 9/30/2022, Welltower has allocated $572,090 in proceeds to eligible projects that promote and contribute to our use of low-carbon goods.
+Have you estimated the avoided emissions of this low-carbon product(s) or service(s)
+No
+Methodology used to calculate avoided emissions
+<Not Applicable>
+Life cycle stage(s) covered for the low-carbon product(s) or services(s)
+<Not Applicable>
+Functional unit used
+<Not Applicable>
+Reference product/service or baseline scenario used
+<Not Applicable>
+Life cycle stage(s) covered for the reference product/service or baseline scenario
+<Not Applicable>
+Estimated avoided emissions (metric tons CO2e per functional unit) compared to reference product/service or baseline scenario
+<Not Applicable>
+Explain your calculation of avoided emissions, including any assumptions
+<Not Applicable>
+Revenue generated from low-carbon product(s) or service(s) as % of total revenue in the reporting year
+1
+C5. Emissions methodology
+C5.1
+(C5.1) Is this your first year of reporting emissions data to CDP?
+No
+C5.1a
+(C5.1a) Has your organization undergone any structural changes in the reporting year, or are any previous structural changes being accounted for in this disclosure of emissions data?
+Row 1
+Has there been a structural change?
+No
+Name of organization(s) acquired, divested from, or merged with
+<Not Applicable>
+Details of structural change(s), including completion dates
+<Not Applicable>
+C5.1b
+(C5.1b) Has your emissions accounting methodology, boundary, and/or reporting year definition changed in the reporting year?
+Change(s) in methodology, boundary, and/or reporting year definition?	Details of methodology, boundary, and/or reporting year definition change(s)
+Row 1	
+No
+<Not Applicable>
+C5.2
+(C5.2) Provide your base year and base year emissions.
+Scope 1
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+115845
+Comment
+Scope 2 (location-based)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+310589
+Comment
+Scope 2 (market-based)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+296630
+Comment
+Scope 3 category 1: Purchased goods and services
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+Scope 3 category 2: Capital goods
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 3: Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+Scope 3 category 4: Upstream transportation and distribution
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 5: Waste generated in operations
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+11708
+Comment
+Scope 3 category 6: Business travel
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+1490
+Comment
+Scope 3 category 7: Employee commuting
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+952
+Comment
+Scope 3 category 8: Upstream leased assets
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 9: Downstream transportation and distribution
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 10: Processing of sold products
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 11: Use of sold products
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 12: End of life treatment of sold products
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 13: Downstream leased assets
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+434538
+Comment
+Scope 3 category 14: Franchises
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3 category 15: Investments
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3: Other (upstream)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+Scope 3: Other (downstream)
+Base year start
+January 1 2018
+Base year end
+December 31 2018
+Base year emissions (metric tons CO2e)
+0
+Comment
+N/A
+C5.3
+(C5.3) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+The Greenhouse Gas Protocol: Scope 2 Guidance
+The Greenhouse Gas Protocol: Corporate Value Chain (Scope 3) Standard
+C6. Emissions data
+C6.1
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+Gross global Scope 1 emissions (metric tons CO2e)
+180316
+Start date
+<Not Applicable>
+End date
+<Not Applicable>
+Comment
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+​Scope 2, location-based​
+We are reporting a Scope 2, location-based figure
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+Comment
+C6.3
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+Scope 2, location-based
+442834
+Scope 2, market-based (if applicable)
+426603
+Start date
+<Not Applicable>
+End date
+<Not Applicable>
+Comment
+C6.4
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1, Scope 2 or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure?
+Yes
+C6.4a
+(C6.4a) Provide details of the sources of Scope 1, Scope 2, or Scope 3 emissions that are within your selected reporting boundary which are not included in your disclosure.
+Source of excluded emissions
+Welltower's GHG Inventory excludes fugitive emissions from refrigerants, which are categorized as Scope 1 emissions.
+Scope(s) or Scope 3 category(ies)
+Scope 1
+Relevance of Scope 1 emissions from this source
+Emissions are not relevant
+Relevance of location-based Scope 2 emissions from this source
+<Not Applicable>
+Relevance of market-based Scope 2 emissions from this source
+<Not Applicable>
+Relevance of Scope 3 emissions from this source
+<Not Applicable>
+Date of completion of acquisition or merger
+<Not Applicable>
+Estimated percentage of total Scope 1+2 emissions this excluded source represents
+1
+Estimated percentage of total Scope 3 emissions this excluded source represents
+<Not Applicable>
+Explain why this source is excluded
+Fugitive emissions from refrigerants are considered immaterial as estimated emissions from this source are below the 5% materiality threshold. At this time, the data needed to calculate fugitive emissions from refrigerants is not accessible.
+Explain how you estimated the percentage of emissions this excluded source represents
+A benchmarking approach was used to estimate refrigerant emissions based on an available inventory of HVAC equipment at a subset of properties. Then, the information from these assets was extrapolated to the remaining portfolio. To estimate emissions, the US EPA’s Refrigeration and Air Conditioning Equipment Screening was utilized, using the benchmarked data as inputs. Based on this process, Scope 1 fugitive emissions from refrigerants were estimated to be on the order of 6,031 MTCO2e in 2019. When comparing this estimation to both 2019 Scope 1 and 2 emissions and 2022 Scope 1 and 2 emissions, refrigerant emissions are around 1% of total Scope 1 and 2 emissions and therefore deemed immaterial.
+o 2019: 6,031 MTCO2e / 506,332 MTCO2e * 100 = 1%
+o 2022: 6,031 MTCO2e / 623,150 MTCO2e * 100 = 1%
+C6.5
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+Purchased goods and services
+Evaluation status
+Not relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+1694
+Emissions calculation methodology
+Average data method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+73
+Please explain
+Data was collected from 73% of properties in our control boundary to calculate emissions from purchased goods and services related to purchased water. This has been multiplied by the appropriate emission factor for water, as provided by DEFRA 2022. Emissions have increased year over year due to a significant increase of 33% in reported data from our value chain.
+Capital goods
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Given the nature of Welltower’s business as a REIT, emissions from capital goods are considered immaterial.
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Evaluation status
+Not relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+58607
+Emissions calculation methodology
+Average data method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+78
+Please explain
+Electricity data was collected for 78% of properties in Welltower’s control boundary. Emissions associated with electricity transmission and distribution (T&D) losses and well-to-tank (WTT) emissions from generation and T&D losses as related to the portfolio are calculated using emission factors from DEFRA 2022 for the UK and IEA 2014 for Canada and the United States. The WTT emissions from fuel consumption are also included within this category – these have also been calculated using the emissions factors provided by DEFRA 2022.
+Upstream transportation and distribution
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Given the nature of Welltower’s business as a REIT, any upstream transportation/distribution emissions are di minimis and considered immaterial.
+Waste generated in operations
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+22769
+Emissions calculation methodology
+Waste-type-specific method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+20
+Please explain
+Emissions cover waste data collected from 20% of properties in the portfolio. Welltower employs a third-party vendor to compile data on actual waste streams from locations serviced by waste haulers directly. We then calculate waste emissions utilizing the EPA’s 2023 emission factors for waste. The EPA emission factors account for emissions from the transportation and processing of waste but do not account for any avoided emissions. Emissions generated from both landfill and diverted (recycled and composted) waste are included in this category.
+Business travel
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+1011
+Emissions calculation methodology
+Distance-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+100
+Please explain
+This covers business travel emissions associated with flights, for which all flights have been included. Air travel mileage data was collected from a third-party vendor. Emissions were calculated according to the Greenhouse Gas Protocol (Revised Edition) utilizing air travel emissions factors for short, medium and long-haul flights from DEFRA (2022).
+Employee commuting
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+1061
+Emissions calculation methodology
+Distance-based method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+87
+Please explain
+Emissions from employee commuting covers 87% of employees. Calculations exclude employees in the NYC office since it is assumed they use mass transit. Emissions from commuting were calculated by modelling commuting distances of employees based on distances between home and work addresses. The DOT average fuel efficiency of US light duty vehicles was then applied to estimate the total gallons consumed through employee commuting. The Climate Registry 2020 emissions factor was then applied to estimate emissions associated with commuting.
+Upstream leased assets
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Welltower has no upstream leased assets. All assets are considered downstream due to the nature of the business.
+Downstream transportation and distribution
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Given Welltower’s business as a REIT , emissions from downstream transportation and distribution are not calculated.
+Processing of sold products
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Given Welltower’s business as a REIT, emissions from processing our sold products (i.e., buildings) are not relevant and therefore not evaluated.
+Use of sold products
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Given Welltower’s business as a REIT, our sold products (i.e., buildings) are leased, not sold.
+End of life treatment of sold products
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Given the nature of Welltower’s business as a REIT, our sold products are buildings, and thus the end of life treatment of sold products is not relevant.
+Downstream leased assets
+Evaluation status
+Relevant, calculated
+Emissions in reporting year (metric tons CO2e)
+260256
+Emissions calculation methodology
+Asset-specific method
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+82
+Please explain
+Welltower receives utility data that covers approximately 82% of calculated emissions for its downstream leased assets portfolio, which includes NNN assets. Portfolio average intensity factors based on portfolio type and region are calculated and applied to sites where data was unavailable. Welltower gathers energy usage data from our operating partners to calculate greenhouse gas emissions from downstream leased assets that fall outside of Welltower's financial control boundary (NNN assets). Welltower uses the GHG Protocol standards to calculate emissions from electricity and fuel consumption at these sites using EPA eGRID emission factors and the Climate Registry emission factors, where appropriate. Where data is not available, Welltower uses average energy intensity factors based on portfolio type and region to estimate usage and greenhouse gas emissions from these sites.
+Franchises
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Welltower does not operate any franchises. Therefore, this category is not relevant.
+Investments
+Evaluation status
+Not relevant, explanation provided
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Welltower mainly invests in real estate assets and these emissions have been accounted for in downstream leased assets. Welltower’s other investments include loans, which have been deemed immaterial.
+Other (upstream)
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Other (downstream)
+Evaluation status
+Not evaluated
+Emissions in reporting year (metric tons CO2e)
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+C-CN6.6/C-RE6.6
+(C-CN6.6/C-RE6.6) Does your organization assess the life cycle emissions of new construction or major renovation projects?
+Assessment of life cycle emissions	Comment
+Row 1	
+No, but we plan to for upcoming projects
+During the reporting year, Welltower drafted Development Guidelines that included conducting whole-building Life Cycle Assessment using LEEDv4 Building Life-Cycle Impact Reduction Credit Option 4 methodology. These Development Guidelines will be implemented in Calendar Year 2023.
+C6.7
+(C6.7) Are carbon dioxide emissions from biogenic carbon relevant to your organization?
+No
+C6.10
+(C6.10) Describe your gross global combined Scope 1 and 2 emissions for the reporting year in metric tons CO2e per unit currency total revenue and provide any additional intensity metrics that are appropriate to your business operations.
+Intensity figure
+0.0001063284
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+623150
+Metric denominator
+unit total revenue
+Metric denominator: Unit total
+5860615000
+Scope 2 figure used
+Location-based
+% change from previous year
+0.67
+Direction of change
+Decreased
+Reason(s) for change
+Change in revenue
+Change in physical operating conditions
+Please explain
+Numerator = Scope 1 + Scope 2 (location-based) emissions. Reporting Location-based emissions for this calculation to remain consistent with last year's submission.
+Intensity figure
+0.004006852
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+623150
+Metric denominator
+square foot
+Metric denominator: Unit total
+116263859
+Scope 2 figure used
+Location-based
+% change from previous year
+6.8
+Direction of change
+Decreased
+Reason(s) for change
+Change in physical operating conditions
+Other, please specify (Welltower's efficiency efforts are another reason for a reduction in emissions intensity. )
+Please explain
+Numerator = Scope 1 + Scope 2 (location-based) emissions. Reporting Location-based emissions for this calculation to remain consistent with Welltower's annual ESG Report and other reporting avenues.
+C7. Emissions breakdowns
+C7.1
+(C7.1) Does your organization break down its Scope 1 emissions by greenhouse gas type?
+Yes
+C7.1a
+(C7.1a) Break down your total gross global Scope 1 emissions by greenhouse gas type and provide the source of each used greenhouse warming potential (GWP).
+Greenhouse gas	Scope 1 emissions (metric tons of CO2e)	GWP Reference
+CO2
+179726
+IPCC Second Assessment Report (SAR - 100 year)
+CH4
+266
+IPCC Second Assessment Report (SAR - 100 year)
+N2O
+325
+IPCC Second Assessment Report (SAR - 100 year)
+C7.2
+(C7.2) Break down your total gross global Scope 1 emissions by country/area/region.
+Country/area/region	Scope 1 emissions (metric tons CO2e)
+United States of America
+126946
+Canada
+43361
+United Kingdom of Great Britain and Northern Ireland
+10010
+C7.3
+(C7.3) Indicate which gross global Scope 1 emissions breakdowns you are able to provide.
+By business division
+C7.3a
+(C7.3a) Break down your total gross global Scope 1 emissions by business division.
+Business division	Scope 1 emissions (metric ton CO2e)
+Healthcare: Senior Homes
+153993
+Office: Medical Office
+25608
+Residential: Multi-Family: High-Rise Multi-Family
+190
+Residential: Family Homes
+525
+C7.5
+(C7.5) Break down your total gross global Scope 2 emissions by country/area/region.
+Country/area/region	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+United States of America
+423753
+407522
+Canada
+12557
+12557
+United Kingdom of Great Britain and Northern Ireland
+6523
+6523
+C7.6
+(C7.6) Indicate which gross global Scope 2 emissions breakdowns you are able to provide.
+By business division
+C7.6a
+(C7.6a) Break down your total gross global Scope 2 emissions by business division.
+Business division	Scope 2, location-based (metric tons CO2e)	Scope 2, market-based (metric tons CO2e)
+Healthcare: Senior Homes
+251344
+251344
+Office: Medical Office
+190620
+174389
+Residential: Multi-Family: High-Rise Multi-Family
+2
+2
+Residential: Family Homes
+260
+260
+C7.7
+(C7.7) Is your organization able to break down your emissions data for any of the subsidiaries included in your CDP response?
+Not relevant as we do not have any subsidiaries
+C7.9
+(C7.9) How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?
+Increased
+C7.9a
+(C7.9a) Identify the reasons for any change in your gross global emissions (Scope 1 and 2 combined), and for each of them specify how your emissions compare to the previous year.
+Change in emissions (metric tons CO2e)	Direction of change in emissions	Emissions value (percentage)	Please explain calculation
+Change in renewable energy consumption	
+19059
+Decreased
+3.81
+Emissions avoided due to increased purchase of RECs and onsite renewable energy generation
+Other emissions reduction activities	
+788
+Decreased
+0.16
+Emissions avoided due to 391 LED retrofit projects
+Divestment		
+<Not Applicable>
+Acquisitions		
+<Not Applicable>
+Mergers		
+<Not Applicable>
+Change in output	
+26235.53
+Increased
+5.24
+Emissions associated with 2022 acquisitions (organic growth)
+Change in methodology		
+<Not Applicable>
+Change in boundary		
+<Not Applicable>
+Change in physical operating conditions		
+<Not Applicable>
+Unidentified	
+100047.96
+Increased
+19.99
+Overall, scope 1 and 2 market-based emissions increased by 106,436.50 MtCO2e, up from 500,482.59 in 2021. By summing the above changes in emissions, it leaves an increase of 100,047.96 tCO2e unaccounted for. Therefore, we arrived at 19.99% through (100,047.96/500,482.59) * 100 = 19.99%.
+Other		
+<Not Applicable>
+C7.9b
+(C7.9b) Are your emissions performance calculations in C7.9 and C7.9a based on a location-based Scope 2 emissions figure or a market-based Scope 2 emissions figure?
+Market-based
+C8. Energy
+C8.1
+(C8.1) What percentage of your total operational spend in the reporting year was on energy?
+More than 0% but less than or equal to 5%
+C8.2
+(C8.2) Select which energy-related activities your organization has undertaken.
+Indicate whether your organization undertook this energy-related activity in the reporting year
+Consumption of fuel (excluding feedstocks)	
+Yes
+Consumption of purchased or acquired electricity	
+Yes
+Consumption of purchased or acquired heat	
+No
+Consumption of purchased or acquired steam	
+Yes
+Consumption of purchased or acquired cooling	
+No
+Generation of electricity, heat, steam, or cooling	
+Yes
+C8.2a
+(C8.2a) Report your organization’s energy consumption totals (excluding feedstocks) in MWh.
+Heating value	MWh from renewable sources	MWh from non-renewable sources	Total (renewable and non-renewable) MWh
+Consumption of fuel (excluding feedstock)	
+HHV (higher heating value)
+0
+989906.89
+989906.89
+Consumption of purchased or acquired electricity	
+<Not Applicable>
+50563.28
+1318614.04
+1369177.32
+Consumption of purchased or acquired heat	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired steam	
+<Not Applicable>
+0
+1680.01
+1680.01
+Consumption of purchased or acquired cooling	
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of self-generated non-fuel renewable energy	
+<Not Applicable>
+526.9
+<Not Applicable>
+526.9
+Total energy consumption	
+<Not Applicable>
+51090.18
+2310200.94
+2361291.12
+C8.2b
+(C8.2b) Select the applications of your organization’s consumption of fuel.
+Indicate whether your organization undertakes this fuel application
+Consumption of fuel for the generation of electricity	
+No
+Consumption of fuel for the generation of heat	
+Yes
+Consumption of fuel for the generation of steam	
+No
+Consumption of fuel for the generation of cooling	
+No
+Consumption of fuel for co-generation or tri-generation	
+No
+C8.2c
+(C8.2c) State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.
+Sustainable biomass
+Heating value
+Please select
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other biomass
+Heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other renewable fuels (e.g. renewable hydrogen)
+Heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Coal
+Heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Oil
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+858.22
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Gas
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+989048.67
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Other non-renewable fuels (e.g. non-renewable hydrogen)
+Heating value
+Total fuel MWh consumed by the organization
+0
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+Total fuel
+Heating value
+HHV
+Total fuel MWh consumed by the organization
+989906.89
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self- cogeneration or self-trigeneration
+<Not Applicable>
+Comment
+C8.2d
+(C8.2d) Provide details on the electricity, heat, steam, and cooling your organization has generated and consumed in the reporting year.
+Total Gross generation (MWh)	Generation that is consumed by the organization (MWh)	Gross generation from renewable sources (MWh)	Generation from renewable sources that is consumed by the organization (MWh)
+Electricity	
+526.9
+526.9
+526.9
+526.9
+Heat	
+0
+0
+0
+0
+Steam	
+0
+0
+0
+0
+Cooling	
+0
+0
+0
+0
+C8.2e
+(C8.2e) Provide details on the electricity, heat, steam, and/or cooling amounts that were accounted for at a zero or near-zero emission factor in the market-based Scope 2 figure reported in C6.3.
+Country/area of low-carbon energy consumption
+United States of America
+Sourcing method
+Unbundled procurement of energy attribute certificates (EACs)
+Energy carrier
+Electricity
+Low-carbon technology type
+Wind
+Low-carbon energy consumed via selected sourcing method in the reporting year (MWh)
+51104.52
+Tracking instrument used
+US-REC
+Country/area of origin (generation) of the low-carbon energy or energy attribute
+United States of America
+Are you able to report the commissioning or re-powering year of the energy generation facility?
+No
+Commissioning year of the energy generation facility (e.g. date of first commercial operation or repowering)
+<Not Applicable>
+Comment
+Commissioning year is unknown.
+C8.2g
+(C8.2g) Provide a breakdown by country/area of your non-fuel energy consumption in the reporting year.
+Country/area
+United States of America
+Consumption of purchased electricity (MWh)
+1152503.52
+Consumption of self-generated electricity (MWh)
+526.9
+Is this electricity consumption excluded from your RE100 commitment?
+<Not Applicable>
+Consumption of purchased heat, steam, and cooling (MWh)
+1680.01
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+Canada
+Consumption of purchased electricity (MWh)
+183454.73
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+<Not Applicable>
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+Country/area
+United Kingdom of Great Britain and Northern Ireland
+Consumption of purchased electricity (MWh)
+33745.97
+Consumption of self-generated electricity (MWh)
+0
+Is this electricity consumption excluded from your RE100 commitment?
+<Not Applicable>
+Consumption of purchased heat, steam, and cooling (MWh)
+0
+Consumption of self-generated heat, steam, and cooling (MWh)
+0
+Total non-fuel energy consumption (MWh) [Auto-calculated]
+C9. Additional metrics
+C9.1
+(C9.1) Provide any additional climate-related metrics relevant to your business.
+C-CE9.6/C-CG9.6/C-CH9.6/C-CN9.6/C-CO9.6/C-EU9.6/C-MM9.6/C-OG9.6/C-RE9.6/C-ST9.6/C-TO9.6/C-TS9.6
+(C-CE9.6/C-CG9.6/C-CH9.6/C-CN9.6/C-CO9.6/C-EU9.6/C-MM9.6/C-OG9.6/C-RE9.6/C-ST9.6/C-TO9.6/C-TS9.6) Does your organization invest in research and development (R&D) of low-carbon products or services related to your sector activities?
+Investment in low-carbon R&D	Comment
+Row 1	
+Yes
+In 2022, Welltower invested in a contract with Arup to provide a life cycle cost analysis (LCCA) of twelve technologies at one of Welltower's properties. The LCCA was conducted to better understand the costs associated with suggested energy and water conservation measures. These costs included the social cost of carbon, which factored in the economic harm from the impacts, of the total damages from emitting one ton of carbon dioxide into the atmosphere. Battery energy storage, renewable energy and other low-carbon options were evaluated in this analysis. After thorough research was conducted to identify innovative solutions for Welltower, Arup provided recommendations to Welltower's ESG and development teams considering next steps for implementation. In addition, Arup developed an LCCA tool for Welltower to use for future developments based on the findings of their initial analysis. Finally, Arup evaluated multiple green building certification frameworks including LEED and BREEAM to develop a comprehensive Sustainability Guideline for New Development Projects, which Welltower has begun piloting at several development projects.
+C-CN9.6a/C-RE9.6a
+(C-CN9.6a/C-RE9.6a) Provide details of your organization’s investments in low-carbon R&D for real estate and construction activities over the last three years.
+Technology area
+Resilient buildings
+Stage of development in the reporting year
+Pilot demonstration
+Average % of total R&D investment over the last 3 years
+5
+R&D investment figure in the reporting year (unit currency as selected in C0.4) (optional)
+84000
+Average % of total R&D investment planned over the next 5 years
+5
+Explain how your R&D investment in this technology area is aligned with your climate commitments and/or climate transition plan
+Our work with Arup has helped us better understand how to assess the costs associated with different energy and water conservation measures for our new development projects. The Sustainability Guideline for New Development Projects will help us to align with our development partners on how to integrate sustainability into our projects, allowing us to build more efficient and more resilient buildings. Constructing more efficient buildings aligns with our goals to reduce our greenhouse gas emissions, energy usage and water usage intensities.
+C-RE9.9
+(C-RE9.9) Does your organization manage net zero carbon buildings?
+No, but we plan to in the future
+C-CN9.10/C-RE9.10
+(C-CN9.10/C-RE9.10) Did your organization complete new construction or major renovations projects designed as net zero carbon in the last three years?
+No, but we plan to in the future
+C-CN9.11/C-RE9.11
+(C-CN9.11/C-RE9.11) Explain your organization’s plan to manage, develop or construct net zero carbon buildings, or explain why you do not plan to do so.
+Welltower has a public goal to reduce Scope 1 and Scope 2 GHG emissions intensity 10% by 2025 over a 2018 baseline.  As of the end of 2022, Welltower had exceeded this goal with a 12.2%  intensity reduction. In 2022, Welltower set a new target with the Science Based Targets initiative (SBTi). Through SBTi, Welltower has committed to a 28% reduction of absolute Scope 1 and Scope 2 GHG emissions by 2030 over a 2019 baseline and to continue measuring and reducing our Scope 3 emissions. In order to meet these goals, Welltower will continue to identify opportunities to construct new buildings to LEED and BREAAM building standards to lower our carbon footprint, including our Balfour at Brookline development which is targeting LEED Gold. In our existing portfolio, we will continue to implement energy efficiency projects and look into purchasing additional renewable energy. 
+
+C10. Verification
+C10.1
+(C10.1) Indicate the verification/assurance status that applies to your reported emissions.
+Verification/assurance status
+Scope 1	
+Third-party verification or assurance process in place
+Scope 2 (location-based or market-based)	
+Third-party verification or assurance process in place
+Scope 3	
+Third-party verification or assurance process in place
+C10.1a
+(C10.1a) Provide further details of the verification/assurance undertaken for your Scope 1 emissions, and attach the relevant statements.
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+Welltower CY22 Assurance Statement ASRauth.pdf
+Page/ section reference
+All
+Relevant standard
+ISO14064-3
+Proportion of reported emissions verified (%)
+100
+C10.1b
+(C10.1b) Provide further details of the verification/assurance undertaken for your Scope 2 emissions and attach the relevant statements.
+Scope 2 approach
+Scope 2 location-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+Welltower CY22 Assurance Statement ASRauth.pdf
+Page/ section reference
+All
+Relevant standard
+ISO14064-3
+Proportion of reported emissions verified (%)
+100
+Scope 2 approach
+Scope 2 market-based
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+Welltower CY22 Assurance Statement ASRauth.pdf
+Page/ section reference
+All
+Relevant standard
+ISO14064-3
+Proportion of reported emissions verified (%)
+100
+C10.1c
+(C10.1c) Provide further details of the verification/assurance undertaken for your Scope 3 emissions and attach the relevant statements.
+Scope 3 category
+Scope 3: Waste generated in operations
+Scope 3: Business travel
+Scope 3: Employee commuting
+Scope 3: Downstream leased assets
+Verification or assurance cycle in place
+Annual process
+Status in the current reporting year
+Complete
+Type of verification or assurance
+Limited assurance
+Attach the statement
+Welltower CY22 Assurance Statement ASRauth.pdf
+Page/section reference
+All
+Relevant standard
+ISO14064-3
+Proportion of reported emissions verified (%)
+100
+C10.2
+(C10.2) Do you verify any climate-related information reported in your CDP disclosure other than the emissions figures reported in C6.1, C6.3, and C6.5?
+Yes
+C10.2a
+(C10.2a) Which data points within your CDP disclosure have been verified, and which verification standards were used?
+Disclosure module verification relates to	Data verified	Verification standard	Please explain
+C8. Energy
+Energy consumption
+ISAE 3000
+ISAE 3410
+All of the energy consumption data within module ‘C8. Energy’ has been verified, as per our annual company-wide assurance of our environmental data performed by LRQA with limited assurance. This is to help to ensure that all raw energy data is fairly stated and accurate.
+C11. Carbon pricing
+C11.1
+(C11.1) Are any of your operations or activities regulated by a carbon pricing system (i.e. ETS, Cap & Trade or Carbon Tax)?
+No, and we do not anticipate being regulated in the next three years
+C11.2
+(C11.2) Has your organization canceled any project-based carbon credits within the reporting year?
+No
+C11.3
+(C11.3) Does your organization use an internal price on carbon?
+No, and we do not currently anticipate doing so in the next two years
+C12. Engagement
+C12.1
+(C12.1) Do you engage with your value chain on climate-related issues?
+Yes, our suppliers
+Yes, our customers/clients
+Yes, other partners in the value chain
+C12.1a
+(C12.1a) Provide details of your climate-related supplier engagement strategy.
+Type of engagement
+Information collection (understanding supplier behavior)
+Details of engagement
+Collect other climate related information at least annually from suppliers
+Other, please specify (Welltower tracks spend and engagement related to sustainable behavior with our vendors. In addition, Welltower encourages all vendors to follow best practices of environmental sustainability in the Vendor Code of Conduct. )
+% of suppliers by number
+1
+% total procurement spend (direct and indirect)
+32
+% of supplier-related Scope 3 emissions as reported in C6.5
+0
+Rationale for the coverage of your engagement
+Welltower engages with top suppliers to understand sustainable practices and how they relate to Welltower's procurement of goods and services. Of our top 50 suppliers by spend, 12 were engaged with on specific sustainability matters (1% of total supplier count, 32% of total spend). In addition, Welltower expects its vendors, operators, tenants, contractors, consultants and other business associates (collectively “Vendors”) to adopt the practices outlined in its Vendor Code of Conduct (the “Code of Conduct”). As a general matter, Welltower’s commercial agreements with Vendors require that they adhere to the Code of Conduct. Welltower's Vendor Code of Conduct specifies: "Welltower is committed to operating in a sustainable manner and reducing Welltower’s environmental impact. Welltower encourages its Vendors to assist in this mission by following best practices of environmental sustainability, including, but not limited to, energy and water efficiency, greenhouse gas (GHG) and waste reduction and green technology implementation. Welltower encourages its Vendors to set GHG emission reduction targets, track energy usage and promote and utilize renewable energy sources when possible. Refer to https://welltower.com/esg/environment/ for the Company’s initiatives, goals and achievements related to environmental sustainability."
+Impact of engagement, including measures of success
+Success for engagement with our suppliers is understanding their sustainable practices, products and service offerings and working to increase our sustainable goods and services purchases. Welltower engaged with suppliers that resulted in the procurement of green energy, improving the resiliency of our portfolio against climate change and the issuance of green bonds. In addition, through a partnership for our operators with HD Supply, Welltower properties purchased over $1.2M in sustainable building supplies in 2022 (up from $238k in 2021), representing approximately 4% of our spend with the vendor.
+Comment
+Emissions from these purchased goods and services are not yet captured in the Scope 3 footprint, hence share of emissions is reported as 0%.
+C12.1b
+(C12.1b) Give details of your climate-related engagement strategy with your customers.
+Type of engagement & Details of engagement
+Education/information sharing	Run an engagement campaign to education customers about your climate change performance and strategy
+% of customers by number
+27
+% of customer - related Scope 3 emissions as reported in C6.5
+1
+Please explain the rationale for selecting this group of customers and scope of engagement
+In 2022, we developed and shared a list of sustainability tips with tenants at 100 of our outpatient medical facilities (100 / 364 = 27% coverage). Along with these tips, we reiterated Welltower's commitment to sustainability, shared links to educational resources and shared Welltower's ESG Team's contact information.
+Impact of engagement, including measures of success
+After sending out the sustainability tips memo, we had several tenants reach out to us to thank us for the reminders and offer additional suggestions on how to increase efficiencies at our medical office buildings.
+C12.1d
+(C12.1d) Give details of your climate-related engagement strategy with other partners in the value chain.
+Welltower works together with both internal and external stakeholders to seek to understand and implement the most effective engagement strategies that meet the expectations and needs of each unique stakeholder group. Each of the stakeholders we engage may have influence over our long-term success or a vested interest in the work we do. We engage with our stakeholders year-round through our ESG website, annual ESG Report, financial data and reports, social media communications, press releases, meetings, and most recently, our Vendor Code of Conduct policy. 
+ 
+
+i. Methods of engagement: Welltower plans and tracks stakeholder engagement through several channels, including internal employee communication platforms, public filings, informal face-to-face discussions, formal meetings with the investment community, tenant and operator engagement surveys, and more. See section v. for more details on how we engage with each of our stakeholder groups.
+
+  
+
+ii. Prioritization: Welltower prioritizes engagement with the most vital parts of our value chain--our operators and tenants--starting with areas where we have operational control and operators that allow for the most significant impact. We work with our operators and medical office building staff to gather utility data, benchmark our properties, and implement efficiency measures. Welltower also prioritizes engagement with our employees, recognizing that we cannot achieve our environmental goals without the support of all departments and teams throughout our organization. 
+
+  
+
+iii. Measurement of success: Success is measured by several different factors, including the number of stakeholders approached, the amount of sustainability data gathered throughout the year, the response rate to engagement and satisfaction surveys, and the number of efficiency measures implemented. Success is also measured by benchmarking sites’ energy, water, and waste data across the portfolio.
+
+
+
+iv. Vendor Code of Conduct: Welltower is committed to operating in an ethical, responsible, transparent, and sustainable manner across all of its vendors to embed our ESG goals into our value chain. We expect our vendors to commit to our policies to promote an overall transparent and ethical value chain for each party involved.
+ 
+
+v. Stakeholders engaged and methods of engagement:
+
+
+
+Employees
+
+• Engagement through periodic employee surveys, dedicated internal communication platforms, town halls and new hire onboarding 
+
+• “The Now,” our popular internal podcast 
+
+• Whistleblowing and the Governance Hotline 
+
+• Welltower Code of Business Conduct and Ethics 
+
+• Workshops and training sessions 
+
+• ESG Materiality Assessment
+
+
+
+Tenants and Operating Relationships
+
+• Green lease utilization
+
+• Newsletters and the Performance Playbook
+
+• Events throughout the year on efficiency topics
+
+• Welltower Vendor Code of Conduct
+
+• ESG Materiality Assessment
+
+• Tenant Survey
+
+
+
+Investors and Financial Community
+
+• Periodic face-to-face discussions, meetings, conferences and roadshows
+
+• Publication of our annual ESG Report
+
+• Whistleblowing and the Governance Hotline
+
+• Participation in investor ESG surveys and ESG-related conversations
+
+• Welltower Vendor Code of Conduct
+
+• ESG Materiality Assessment
+
+ 
+
+Supply Chain
+
+• SupplierGATEWAY partnership with Nareit consortium to diversify businesses in supply chain
+
+• Business review meetings with key national suppliers
+
+• Welltower Vendor Code of Conduct
+
+• Modern Slavery and Human Trafficking statement
+
+• Biennial vendor evaluation questionnaire to measure vendor risk and opportunities, including ESG criteria
+
+ 
+
+Local Community Cohorts
+
+• Hosting community events at Welltower properties
+
+• Periodic face-to-face discussions and meetings
+
+
+
+Government Agencies
+
+• Responding to and consulting with government bodies
+
+• Complying with municipality ordinances which often result in cost savings for Welltower and operators
+
+• Working with regulatory bodies and local authorities on local and state planning and policy matters
+
+
+
+Industry Peers
+
+• Participating in multi-stakeholder forums and roundtables
+
+• Presenting at industry-wide events and conferences 
+
+• Joining and leading industry initiatives 
+
+• Belonging to trade and industry associations
+
+
+
+Case Studies 
+
+A Performance Playbook
+
+In 2022, we continued to leverage and share our important engagement tool, "Performance Playbook: A Guide for Senior Housing Efficiency and Excellence," with our seniors housing operators. The Playbook is a user-friendly tool and resource to help our seniors housing operators find ways to reduce utility costs, increase NOI, and enhance the comfort of residents and staff. Each section contains a simple overview, links to additional resources, and a printable Action Plan that property managers can use to help their communities run more efficiently and effectively. The Playbook is shared with operators regularly via email, newsletters, trainings, and other meetings.
+
+C12.2
+(C12.2) Do your suppliers have to meet climate-related requirements as part of your organization’s purchasing process?
+Yes, suppliers have to meet climate-related requirements, but they are not included in our supplier contracts
+C12.2a
+(C12.2a) Provide details of the climate-related requirements that suppliers have to meet as part of your organization’s purchasing process and the compliance mechanisms in place.
+Climate-related requirement
+Implementation of emissions reduction initiatives
+Description of this climate related requirement
+Welltower's Vendor Code of Conduct is distributed to all Vendors with the expectation and understanding to comply. The Company expects its vendors, operators, tenants, contractors, consultants and other business associates to adopt the practices outlined in its Vendor Code of Conduct. Welltower encourages its vendors to assist in Welltower's mission to operate in a sustainable manner and reduce Welltower's environmental impact by following best practices of environmental sustainability, including, but not limited to, energy and water efficiency, greenhouse gas (GHG) and waste reduction and green technology implementation. Welltower encourages its Vendors to set GHG emission reduction targets, track energy usage and promote and utilize renewable energy sources when possible.
+Vendors are expected to self-monitor their compliance with this Code of Conduct and have a process for timely correction of any deficiencies or violations, and to report any known or possible violations to Welltower’s General Counsel. Reports may be submitted on a confidential, anonymous basis, although individuals are encouraged to identify themselves to facilitate follow-up and investigation. Welltower reserves the right to assess Vendors’ compliance with this Code of Conduct.
+The Vendor Code of Conduct is applicable to all vendors (100% have to comply) and as Welltower has not received or been made aware of any violations, 100% of suppliers are in compliance.
+% suppliers by procurement spend that have to comply with this climate-related requirement
+100
+% suppliers by procurement spend in compliance with this climate-related requirement
+100
+Mechanisms for monitoring compliance with this climate-related requirement
+Supplier self-assessment
+Response to supplier non-compliance with this climate-related requirement
+Other, please specify (Welltower reserves the right to assess Vendors' compliance by asking for on-site inspections, assessing books, records, etc. evidencing compliance.)
+C12.3
+(C12.3) Does your organization engage in activities that could either directly or indirectly influence policy, law, or regulation that may impact the climate?
+Row 1
+External engagement activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+Yes, our membership of/engagement with trade associations could influence policy, law, or regulation that may impact the climate
+Does your organization have a public commitment or position statement to conduct your engagement activities in line with the goals of the Paris Agreement?
+No, but we plan to have one in the next two years
+Attach commitment or position statement(s)
+<Not Applicable>
+Describe the process(es) your organization has in place to ensure that your external engagement activities are consistent with your climate commitments and/or climate transition plan
+Welltower is a member of Nareit, a trade association that serves as the worldwide representative voice for REITs and real estate companies with an interest in U.S. real estate. Welltower’s ESG Team serves on Nareit’s Real Estate Sustainability Council (RESC), whose mission is to help shape and lead the REIT industry as it continues to address a variety of complex ESG issues. Welltower’s ESG Team regularly engages with the ESG leaders of other Nareit members to discuss best practices and find solutions to common problems. In 2022, Welltower joined a series of conversations related to the SEC Climate Change Disclosure Proposal in which RESC members developed and submitted a letter to the SEC in response to the proposal (https://www.sec.gov/comments/s7-10-22/s71022-20131801-302236.pdf). Welltower chooses to have its ESG Team represent the organization on the RESC and in ESG-related conversations to seek to ensure engagement activities are consistent with the organization’s overall climate change strategy. Welltower’s ESG Team regularly discusses upcoming and in-progress initiatives with Nareit peers to understand how others have approached similar projects and issues, and supports Nareit peers in achieving their own sustainability goals.
+Primary reason for not engaging in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+Explain why your organization does not engage in activities that could directly or indirectly influence policy, law, or regulation that may impact the climate
+<Not Applicable>
+C12.3b
+(C12.3b) Provide details of the trade associations your organization is a member of, or engages with, which are likely to take a position on any policy, law or regulation that may impact the climate.
+Trade association
+Other, please specify (NAREIT)
+Is your organization’s position on climate change policy consistent with theirs?
+Consistent
+Has your organization attempted to influence their position in the reporting year?
+Yes, we publicly promoted their current position
+Describe how your organization’s position is consistent with or differs from the trade association’s position, and any actions taken to influence their position
+Nareit supports the growing number of REITs which are taking climate action, assessing climate risk, enhancing reporting on greenhouse gas emissions and embracing science-based targets in line with the Paris Agreement. They also aim to influence public policy through representing REITs in matters of legislation and public policy. For example, in 2022, Nareit sent comments from their members to the SEC regarding the proposed rules of climate change disclosure (https://www.sec.gov/comments/climate-disclosure/cll12-8911339-244295.pdf). Additionally, Nareit offers events, webinars, reports, guides and other resources to support ESG progress in the REIT and commercial real estate industry. We publicly disclose our relationship with Nareit and frequently discuss the Nareit activities in which we participate publicly. Most recently, Welltower attended a Real Estate Sustainability Council webinar hosted by Nareit that focused on discussing updates to the "Portfolio Decarbonisation" section of GRESB's Real Estate Benchmark Reports. Welltower also attends Nareit’s annual REITWeek Investor Conference.
+Funding figure your organization provided to this trade association in the reporting year (currency as selected in C0.4)
+228416
+Describe the aim of your organization’s funding
+Through our funding, Welltower aims to support Nareit’s industry-leading research and continued national and state advocacy. As a Nareit member, Welltower not only benefits from the ability to more closely collaborate with its peers, but also from exclusive access to investors, increased visibility and member-only events and savings.
+Have you evaluated whether your organization’s engagement with this trade association is aligned with the goals of the Paris Agreement?
+Yes, we have evaluated, and it is aligned
+C12.4
+(C12.4) Have you published information about your organization’s response to climate change and GHG emissions performance for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Publication
+In voluntary sustainability report
+Status
+Complete
+Attach the document
+Welltower_ESG-Report_2022_vF_smaller.pdf
+Page/Section reference
+Governance: pg. 33-42
+Strategy: pg. 5-6
+Risks & opportunities: pg. 38-41
+Emissions figures: pg. 12, 14, 44-45
+Emission targets: pg. 12, 14
+Content elements
+Governance
+Strategy
+Risks & opportunities
+Emissions figures
+Emission targets
+Other metrics
+Comment
+Available publicly here: https://welltower.com/wp-content/uploads/2023/07/Welltower_ESG-Report_2022_vF.pdf
+C12.5
+(C12.5) Indicate the collaborative frameworks, initiatives and/or commitments related to environmental issues for which you are a signatory/member.
+Environmental collaborative framework, initiative and/or commitment	Describe your organization’s role within each framework, initiative and/or commitment
+Row 1	
+Global Reporting Initiative (GRI) Community Member
+Task Force on Climate-related Financial Disclosures (TCFD)
+Other, please specify (Sustainability Accounting Standards Board (SASB) )
+Welltower aligns with TCFD , SASB and GRI to help guide our continued growth, accountability and transparency. Welltower sees the importance of aligning with credible global frameworks to keep our sustainability goals and mission transparent with all our stakeholders.
+
+Welltower aligns with GRI, SASB and TCFD to help ensure accountability with our significant impacts on the economy, environment and people. Our annual ESG Report is crafted in alignment with SASB guidelines and the TCFD framework, with reference to the GRI standard. We choose to publicly disclose information in alignment with these frameworks to help transparently communicate to our stakeholders and investors how climate-related risks and opportunities can affect our business in the short, medium and long term.
+C15. Biodiversity
+C15.1
+(C15.1) Is there board-level oversight and/or executive management-level responsibility for biodiversity-related issues within your organization?
+Board-level oversight and/or executive management-level responsibility for biodiversity-related issues	Description of oversight and objectives relating to biodiversity	Scope of board-level oversight
+Row 1	
+No, and we do not plan to have both within the next two years
+<Not Applicable>
+<Not Applicable>
+C15.2
+(C15.2) Has your organization made a public commitment and/or endorsed any initiatives related to biodiversity?
+Indicate whether your organization made a public commitment or endorsed any initiatives related to biodiversity	Biodiversity-related public commitments	Initiatives endorsed
+Row 1	
+No, and we do not plan to do so within the next 2 years
+<Not Applicable>
+<Not Applicable>
+C15.3
+(C15.3) Does your organization assess the impacts and dependencies of its value chain on biodiversity?
+Impacts on biodiversity
+Indicate whether your organization undertakes this type of assessment
+No and we don’t plan to within the next two years
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+Dependencies on biodiversity
+Indicate whether your organization undertakes this type of assessment
+No and we don’t plan to within the next two years
+Value chain stage(s) covered
+<Not Applicable>
+Portfolio activity
+<Not Applicable>
+Tools and methods to assess impacts and/or dependencies on biodiversity
+<Not Applicable>
+Please explain how the tools and methods are implemented and provide an indication of the associated outcome(s)
+<Not Applicable>
+C15.4
+(C15.4) Does your organization have activities located in or near to biodiversity- sensitive areas in the reporting year?
+Not assessed
+C15.5
+(C15.5) What actions has your organization taken in the reporting year to progress your biodiversity-related commitments?
+Have you taken any actions in the reporting period to progress your biodiversity-related commitments?	Type of action taken to progress biodiversity- related commitments
+Row 1	
+No, we are not taking any actions to progress our biodiversity-related commitments
+<Not Applicable>
+C15.6
+(C15.6) Does your organization use biodiversity indicators to monitor performance across its activities?
+Does your organization use indicators to monitor biodiversity performance?	Indicators used to monitor biodiversity performance
+Row 1	
+No
+Please select
+C15.7
+(C15.7) Have you published information about your organization’s response to biodiversity-related issues for this reporting year in places other than in your CDP response? If so, please attach the publication(s).
+Report type	Content elements	Attach the document and indicate where in the document the relevant biodiversity information is located
+C16. Signoff
+C-FI
+(C-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please note that this field is optional and is not scored.
+We are proud to have achieved our Scope 1 & 2 GHG emissions reduction goal ahead of schedule (10% intensity reduction by 2025 over a 2018 baseline) and we are excited to take steps towards our newly established science-based target (28% absolute Scope  1 & 2 reduction by 2030 over a 2019 baseline). In addition to the carbon reduction activities mentioned in this questionnaire, we wanted to provide a little bit more context around our water reduction goals, waste initiatives, and green building and new construction priorities. 
+
+
+
+Welltower has a publicly-stated water reduction goal: 10% water usage intensity reduction within Welltower's control boundary by 2025 over a 2018 baseline. In 2022, the following new initiatives to reduce water usage or support water quality were implemented or maintained at some of our communities:
+
+
+
+1) Installed wireless, underground soil sensors that communicate with irrigation systems to improve efficiency of watering. The project was piloted at an outpatient medical building near Atlanta, GA, and initial results are promising in terms of water conservation  and cost savings. 
+
+
+
+2) Our teams analyzed data to determine the root causes of plumbing leaks, potential solutions and properties that would best benefit from leak detection systems. Nine properties were identified for pilot locations. Early leak detection conserves water and reduces costs associated with water consumption and leak damage. 
+
+
+
+We also focus on reducing waste generation and diverting waste from landfills where possible. We track waste generation and diversion rates (e.g., recycling) and monitor our progress over time. In 2022, we diverted 19%, or 10,025 tons, of waste from landfills. We are proud that 20% of our portfolio is able to report waste data.
+
+
+
+In 2022, we partnered with CircleIT, a carbon-neutral logistics organization, to reduce e-waste. CircleIT repurposes laptops with remaining useful life and keeps them out of the landfill. When equipment is not fit to be repaired and sold, the components are to be recycled responsibly. Another diversion highlight comes from our policies guiding construction practices. 
+
+
+
+Additionally, waste generated from construction, demolition and tenant space improvements is to be minimized and diverted from landfills where feasible. Projects with greater than 50% of area being demolished must include a waste management plan that demonstrates diversion of 75% of construction waste. 
+
+
+
+Lastly, in working with our operators and development partners to build state-of-the-art facilities, our teams are reducing the environmental impact and increasing health and wellness for occupants associated with our buildings. In 2022,  Welltower had 58 ENERGY STAR Certified properties, 8 LEED certified properties, 1 WELL certified property, 19 IREM Certified Sustainable Properties, and 45 properties with Energy Performance Certificate grades of B or above. In addition, Welltower developed new Sustainability Guidelines for New Development Projects in order to provide guidance to consistently incorporate sustainability, health and wellness into our projects. 
+
+C16.1
+(C16.1) Provide details for the person that has signed off (approved) your CDP climate change response.
+Job title	Corresponding job category
+Row 1	
+Chief Executive Officer
+Chief Executive Officer (CEO)
+C0. Introduction
+C1. Governance
+C2. Risks and opportunities
+C3. Business Strategy
+C4. Targets and performance
+C5. Emissions methodology
+C6. Emissions data
+C7. Emissions breakdowns
+C8. Energy
+C9. Additional metrics
+C10. Verification
+C11. Carbon pricing
+C12. Engagement
+C15. Biodiversity
+C16. Signoff
+CDP
+Still need help?  Contact us.
+
+© 2024 CDP North America
+Inc.U.S. registered 501(c)3 with tax-exempt status
+127 West 26th Street, Suite 300, New York, NY 10001, U.S.
+
+Accredited solutions providers
+Offices
+Staff
+Trustees, board and advisors
+Cookies
+Privacy
+Terms & Conditions
+Careers
+ LinkedIn
+ Twitter
+ YouTube
+ Vimeo
